@@ -1,0 +1,304 @@
+Rank;City;Pollution index;Exp Pollution index
+1;Tetovo, Macedonia;97.33;178.07
+2;Accra, Ghana;95.80;173.40
+3;Kathmandu, Nepal;95.78;173.92
+4;Kabul, Afghanistan;95.59;173.23
+5;Faridabad, India;95.12;172.19
+6;Ulaanbaatar, Mongolia;95.03;175.98
+7;Ghaziabad, India;94.80;171.82
+8;Dhaka, Bangladesh;93.15;168.06
+9;Cairo, Egypt;92.83;167.91
+10;Beirut, Lebanon;92.80;166.94
+11;Yangon, Myanmar;92.73;167.73
+12;Ho Chi Minh City, Vietnam;92.59;167.81
+13;Noida, India;92.07;168.12
+14;Allahabad, India;91.86;167.14
+15;Manila, Philippines;91.39;165.24
+16;Delhi, India;91.30;166.36
+17;Varanasi, India;91.25;164.78
+18;Hanoi, Vietnam;90.73;164.17
+19;Patna, India;90.53;165.11
+20;Karachi, Pakistan;90.35;161.92
+21;Gurgaon, India;89.69;161.68
+22;Kanpur, India;88.88;160.64
+23;Chelyabinsk, Russia;87.55;158.17
+24;Raipur, India;87.26;157.82
+25;Pattaya, Thailand;87.21;156.03
+26;Ludhiana, India;86.74;156.20
+27;Amritsar, India;86.60;155.48
+28;Beijing, China;86.53;155.46
+29;Lagos, Nigeria;86.12;153.12
+30;Cebu, Philippines;85.99;154.26
+31;Lima, Peru;85.93;154.49
+32;Gwalior, India;84.97;151.68
+33;Agra, India;84.76;151.99
+34;Tirana, Albania;84.62;150.78
+35;Jakarta, Indonesia;84.01;149.95
+36;Mexico City, Mexico;83.68;150.77
+37;Mumbai, India;83.33;148.27
+38;Skopje, Macedonia;83.03;157.83
+39;Bangalore, India;82.60;147.06
+40;Quezon City, Philippines;82.54;147.85
+41;Casablanca, Morocco;82.51;147.86
+42;Dnipro, Ukraine;82.19;146.21
+43;Tehran, Iran;82.15;155.15
+44;Phnom Penh, Cambodia;81.84;146.22
+45;Sao Paulo, Brazil;81.65;146.70
+46;Addis Ababa, Ethiopia;81.52;144.30
+47;Marrakech, Morocco;81.23;145.97
+48;Meerut, India;80.56;142.88
+49;Shanghai, China;80.38;144.34
+50;Taichung, Taiwan;80.20;144.07
+51;Baku, Azerbaijan;80.09;142.05
+52;Nairobi, Kenya;79.29;141.62
+53;Naples, Italy;79.19;141.43
+54;Lahore, Pakistan;78.96;141.65
+55;Kolkata, India;78.68;139.54
+56;Guwahati, India;78.63;139.71
+57;Jalandhar, India;78.57;139.39
+58;Alexandria, Egypt;78.41;139.03
+59;Almaty, Kazakhstan;78.39;147.95
+60;Lucknow (Lakhnau), India;77.85;138.76
+61;Santo Domingo, Dominican Republic;77.75;137.28
+62;Chengdu, China;77.36;142.08
+63;Amman, Jordan;77.14;135.79
+64;Chiang Mai, Thailand;76.75;138.93
+65;Harare, Zimbabwe;76.45;136.40
+66;Hyderabad, India;76.44;134.35
+67;Yekaterinburg, Russia;76.33;134.73
+68;Chennai, India;75.89;132.84
+69;Bangkok, Thailand;75.63;133.79
+70;Guangzhou, China;74.59;132.35
+71;Tbilisi, Georgia;74.54;136.94
+72;Bali, Indonesia;74.47;131.01
+73;Caracas, Venezuela;74.32;131.12
+74;Bucharest, Romania;74.23;132.55
+75;Suzhou, China;74.16;137.25
+76;Krakow (Cracow), Poland;73.98;144.02
+77;Kochi, India;73.51;129.18
+78;Makati, Philippines;73.47;130.26
+79;Tunis, Tunisia;73.00;127.92
+80;Vijayawada, India;72.96;129.52
+81;Ahmedabad, India;72.39;126.99
+82;Baguio, Philippines;72.34;129.77
+83;Pune, India;72.33;126.47
+84;Monterrey, Mexico;72.17;132.88
+85;Kingston, Jamaica;71.94;127.32
+86;Jeddah (Jiddah), Saudi Arabia;71.15;125.36
+87;Dehradun, India;71.00;124.21
+88;Santiago, Chile;70.76;135.18
+89;Sarajevo, Bosnia And Herzegovina;70.57;130.51
+90;Istanbul, Turkey;70.54;123.16
+91;Guadalajara, Mexico;70.45;122.69
+92;Ankara, Turkey;70.21;122.22
+93;Haifa, Israel;70.09;128.53
+94;Guatemala City, Guatemala;69.66;121.05
+95;Puerto Vallarta, Mexico;69.59;121.73
+96;Bogota, Colombia;69.14;127.93
+97;Rio de Janeiro, Brazil;69.08;121.42
+98;Bandung, Indonesia;68.99;119.71
+99;Tabriz, Iran;68.64;123.18
+100;Turin, Italy;68.51;129.70
+101;Riyadh, Saudi Arabia;68.16;121.78
+102;Visakhapatnam, India;68.13;119.21
+103;Kuala Lumpur, Malaysia;67.86;117.77
+104;Rome, Italy;67.62;126.63
+105;Jubail, Saudi Arabia;67.57;121.73
+106;Sofia, Bulgaria;67.38;124.74
+107;Hong Kong, Hong Kong;67.24;119.74
+108;Milan, Italy;67.06;123.64
+109;Hangzhou, China;66.93;125.76
+110;Marseille, France;66.39;119.05
+111;Algiers, Algeria;66.28;116.94
+112;Paris, France;66.25;118.05
+113;Wroclaw, Poland;65.91;120.87
+114;Odessa, Ukraine;65.59;114.37
+115;Kiev, Ukraine;65.56;114.54
+116;Quito, Ecuador;65.21;113.25
+117;Medellin, Colombia;64.77;127.73
+118;Thane, India;64.74;113.06
+119;Nagpur, India;64.68;112.92
+120;Vadodara, India;64.66;111.56
+121;Barcelona, Spain;64.55;112.61
+122;Thessaloniki, Greece;64.54;114.36
+123;Panama City, Panama;64.27;114.50
+124;Poznan, Poland;64.20;111.20
+125;Shenzhen, China;64.17;112.69
+126;Jaipur, India;63.26;109.62
+127;Bitola, Macedonia;63.11;110.14
+128;Plovdiv, Bulgaria;62.99;117.39
+129;Johannesburg, South Africa;62.87;109.48
+130;Navi Mumbai, India;62.74;108.94
+131;Saint Petersburg, Russia;62.44;106.81
+132;Jammu, India;62.41;107.51
+133;Salt Lake City, UT, United States;62.27;118.94
+134;Brussels, Belgium;62.03;110.39
+135;Warsaw, Poland;61.56;114.57
+136;Coimbatore, India;61.44;106.19
+137;Davao, Philippines;61.39;105.09
+138;Doha, Qatar;61.30;107.17
+139;Belgrade, Serbia;61.29;107.55
+140;Indore, India;61.25;107.71
+141;Moscow, Russia;61.11;107.01
+142;Rajkot, India;60.78;104.27
+143;Antwerp, Belgium;60.77;110.61
+144;Los Angeles, CA, United States;60.76;104.80
+145;Izmir, Turkey;60.74;103.68
+146;Nicosia, Cyprus;60.63;104.37
+147;London, United Kingdom;60.33;108.65
+148;Iasi, Romania;59.99;105.81
+149;Udaipur, India;59.81;105.75
+150;Kharkiv, Ukraine;59.23;101.55
+151;Colombo, Sri Lanka;59.19;101.69
+152;Varna, Bulgaria;58.79;102.17
+153;Phoenix, AZ, United States;58.62;101.71
+154;Timisoara, Romania;58.57;101.60
+155;Porto Alegre, Brazil;58.34;100.78
+156;Athens, Greece;58.03;105.95
+157;Surat, India;57.99;100.66
+158;Pretoria, South Africa;57.64;99.96
+159;Yerevan, Armenia;56.70;101.34
+160;Houston, TX, United States;56.21;96.86
+161;Bologna, Italy;55.79;100.06
+162;Jamshedpur, India;55.65;97.51
+163;Lviv, Ukraine;55.50;94.78
+164;New York, NY, United States;55.29;96.92
+165;Thiruvananthapuram, India;54.71;94.94
+166;Belo Horizonte, Brazil;54.42;94.36
+167;San Jose, Costa Rica;54.40;96.28
+168;Bhopal, India;54.37;94.52
+169;Surabaya, Indonesia;54.36;92.10
+170;Budapest, Hungary;53.89;95.81
+171;Buenos Aires, Argentina;53.46;91.24
+172;Manchester, United Kingdom;53.40;92.09
+173;Madrid, Spain;53.35;101.76
+174;Durban, South Africa;53.21;91.80
+175;Detroit, MI, United States;52.94;92.79
+176;Sharjah, United Arab Emirates;51.70;86.93
+177;Dubai, United Arab Emirates;51.69;88.86
+178;Hamilton, Canada;50.97;89.84
+179;Las Vegas, NV, United States;50.49;84.08
+180;Montevideo, Uruguay;50.33;90.17
+181;Seoul, South Korea;50.19;89.65
+182;Taipei, Taiwan;50.03;84.76
+183;Philadelphia, PA, United States;49.98;87.05
+184;Chandigarh, India;49.63;84.46
+185;Gdansk, Poland;49.62;82.58
+186;Osaka, Japan;48.43;80.69
+187;Abu Dhabi, United Arab Emirates;47.95;80.88
+188;San Jose, CA, United States;47.94;80.35
+189;Bhubaneswar, India;47.92;80.26
+190;Lyon, France;47.69;82.62
+191;Goa, India;47.46;86.45
+192;Birmingham, United Kingdom;47.40;81.26
+193;Islamabad, Pakistan;46.99;79.60
+194;Mysore, India;46.60;77.53
+195;Tel Aviv-Yafo, Israel;46.26;80.68
+196;Cuenca, Ecuador;45.05;84.16
+197;Atlanta, GA, United States;44.69;73.96
+198;Bristol, United Kingdom;44.05;74.26
+199;Valencia, Spain;43.83;75.30
+200;Tokyo, Japan;43.60;71.13
+201;Sacramento, CA, United States;43.56;73.52
+202;Louisville, KY, United States;43.53;74.86
+203;Brno, Czech Republic;43.30;72.57
+204;Cluj-Napoca, Romania;43.29;72.61
+205;Novi Sad, Serbia;43.11;71.48
+206;Dallas, TX, United States;43.07;71.37
+207;Indianapolis, IN, United States;42.85;72.05
+208;Pittsburgh, PA, United States;42.85;73.93
+209;Stuttgart, Germany;42.31;76.35
+210;Minsk, Belarus;42.12;70.39
+211;Chicago, IL, United States;41.79;70.73
+212;Bratislava, Slovakia;41.49;70.27
+213;Miami, FL, United States;41.21;68.87
+214;Berlin, Germany;41.20;69.57
+215;Denver, CO, United States;40.62;69.72
+216;San Antonio, TX, United States;39.74;65.94
+217;Nashville, TN, United States;39.68;67.13
+218;Frankfurt, Germany;39.63;68.01
+219;Washington, DC, United States;39.62;66.96
+220;Dublin, Ireland;39.37;65.96
+221;Strasbourg, France;38.37;64.47
+222;Muscat, Oman;38.13;61.86
+223;Riga, Latvia;38.12;63.26
+224;Toronto, Canada;37.97;62.70
+225;San Francisco, CA, United States;37.96;65.13
+226;Porto, Portugal;37.85;63.76
+227;Cape Town, South Africa;37.01;62.04
+228;Honolulu, HI, United States;36.79;61.25
+229;Lisbon, Portugal;36.69;61.03
+230;Prague, Czech Republic;36.22;62.12
+231;Winnipeg, Canada;36.21;60.14
+232;Austin, TX, United States;35.54;60.30
+233;San Diego, CA, United States;35.43;63.19
+234;Glasgow, United Kingdom;34.77;60.40
+235;Orlando, FL, United States;34.68;59.87
+236;Mangalore, India;34.00;54.74
+237;Nizhny Novgorod, Russia;33.61;53.56
+238;Brampton, Canada;33.03;54.02
+239;Singapore, Singapore;33.01;56.04
+240;Montreal, Canada;32.37;54.63
+241;Curitiba, Brazil;32.26;57.26
+242;Amsterdam, Netherlands;31.99;53.51
+243;Kansas City, MO, United States;31.85;54.35
+244;Milwaukee, WI, United States;31.84;56.50
+245;Reno, NV, United States;31.26;51.31
+246;Jacksonville, FL, United States;31.18;65.40
+247;Richmond, VA, United States;30.29;50.36
+248;Geneva, Switzerland;30.14;53.49
+249;Hamburg, Germany;29.89;49.64
+250;Zagreb, Croatia;29.73;49.65
+251;Utrecht, Netherlands;29.73;51.12
+252;Auckland, New Zealand;29.68;50.17
+253;Portland, OR, United States;29.53;50.34
+254;Brasilia, Brazil;29.30;53.51
+255;Tampa, FL, United States;29.16;52.62
+256;Edmonton, Canada;28.88;48.63
+257;Seattle, WA, United States;28.36;49.99
+258;Charlotte, NC, United States;27.24;45.87
+259;Albuquerque, NM, United States;27.09;48.72
+260;Darwin, Australia;26.92;41.89
+261;Tucson, AZ, United States;26.70;46.39
+262;Sydney, Australia;26.52;42.75
+263;Edinburgh, United Kingdom;26.12;46.48
+264;Boston, MA, United States;26.01;44.45
+265;Melbourne, Australia;25.92;42.39
+266;Oslo, Norway;25.85;43.46
+267;Brasov, Romania;25.60;39.36
+268;Columbus, OH, United States;25.18;40.57
+269;Calgary, Canada;25.16;40.33
+270;Belfast, United Kingdom;25.14;40.46
+271;Minneapolis, MN, United States;25.12;42.44
+272;Vancouver, Canada;24.91;41.58
+273;Vilnius, Lithuania;24.40;39.71
+274;Halifax, Canada;24.01;41.37
+275;Cork, Ireland;23.67;41.48
+276;Gold Coast, Australia;23.61;39.03
+277;The Hague (Den Haag), Netherlands;23.31;37.96
+278;Perth, Australia;22.99;37.03
+279;Munich, Germany;22.92;36.56
+280;Tallinn, Estonia;22.77;37.53
+281;Ljubljana, Slovenia;22.58;41.03
+282;Christchurch, New Zealand;22.18;36.63
+283;Mississauga, Canada;21.60;35.44
+284;Copenhagen, Denmark;21.18;33.67
+285;Luxembourg, Luxembourg;21.15;31.56
+286;Kelowna, Canada;21.13;33.88
+287;Brisbane, Australia;20.95;35.22
+288;Raleigh, NC, United States;20.83;34.65
+289;Adelaide, Australia;20.41;33.73
+290;Gothenburg, Sweden;19.19;31.33
+291;Vienna, Austria;18.02;30.99
+292;Ottawa, Canada;17.77;31.63
+293;Madison, WI, United States;16.80;37.89
+294;Zurich, Switzerland;16.61;26.67
+295;Malmo, Sweden;16.24;26.51
+296;Stockholm, Sweden;15.84;26.18
+297;Reykjavik, Iceland;15.34;27.86
+298;Victoria, Canada;14.53;29.07
+299;Hobart, Australia;14.08;23.65
+300;Wellington, New Zealand;13.59;29.60
+301;Helsinki, Finland;12.99;21.47
+302;Canberra, Australia;12.14;19.83
+Showing 1 to 302 of 302 entries;;;
