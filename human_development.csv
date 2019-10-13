@@ -1,0 +1,1815 @@
+indicatorID;indicatorLabel;country_iso3;countryLabel;year;value
+UNDP-HDI-INDEX;Human Development Index (HDI);AFG;Afghanistan;1990;0.296681
+UNDP-HDI-INDEX;Human Development Index (HDI);ALB;Albania;1990;0.62421
+UNDP-HDI-INDEX;Human Development Index (HDI);ARE;United Arab Emirates;1990;0.725639
+UNDP-HDI-INDEX;Human Development Index (HDI);ARG;Argentina;1990;0.70539
+UNDP-HDI-INDEX;Human Development Index (HDI);ARM;Armenia;1990;0.632173
+UNDP-HDI-INDEX;Human Development Index (HDI);AUS;Australia;1990;0.865476
+UNDP-HDI-INDEX;Human Development Index (HDI);AUT;Austria;1990;0.793514
+UNDP-HDI-INDEX;Human Development Index (HDI);BDI;Burundi;1990;0.294857
+UNDP-HDI-INDEX;Human Development Index (HDI);BEL;Belgium;1990;0.806424
+UNDP-HDI-INDEX;Human Development Index (HDI);BEN;Benin;1990;0.34357
+UNDP-HDI-INDEX;Human Development Index (HDI);BGD;Bangladesh;1990;0.385814
+UNDP-HDI-INDEX;Human Development Index (HDI);BGR;Bulgaria;1990;0.694716
+UNDP-HDI-INDEX;Human Development Index (HDI);BHR;Bahrain;1990;0.746099
+UNDP-HDI-INDEX;Human Development Index (HDI);BLZ;Belize;1990;0.644293
+UNDP-HDI-INDEX;Human Development Index (HDI);BOL;Bolivia;1990;0.535945
+UNDP-HDI-INDEX;Human Development Index (HDI);BRA;Brazil;1990;0.608048
+UNDP-HDI-INDEX;Human Development Index (HDI);BRB;Barbados;1990;0.716245
+UNDP-HDI-INDEX;Human Development Index (HDI);BRN;Brunei Darussalam;1990;0.782097
+UNDP-HDI-INDEX;Human Development Index (HDI);BWA;Botswana;1990;0.584074
+UNDP-HDI-INDEX;Human Development Index (HDI);CAF;Central African Republic;1990;0.314077
+UNDP-HDI-INDEX;Human Development Index (HDI);CAN;Canada;1990;0.84863
+UNDP-HDI-INDEX;Human Development Index (HDI);CHE;Switzerland;1990;0.830818
+UNDP-HDI-INDEX;Human Development Index (HDI);CHL;Chile;1990;0.69915
+UNDP-HDI-INDEX;Human Development Index (HDI);CHN;China;1990;0.500573
+UNDP-HDI-INDEX;Human Development Index (HDI);CIV;Ivory Coast;1990;0.388765
+UNDP-HDI-INDEX;Human Development Index (HDI);CMR;Cameroon;1990;0.442548
+UNDP-HDI-INDEX;Human Development Index (HDI);COD;Democratic Republic of the Congo;1990;0.354985
+UNDP-HDI-INDEX;Human Development Index (HDI);COG;Congo;1990;0.533799
+UNDP-HDI-INDEX;Human Development Index (HDI);COL;Colombia;1990;0.596039
+UNDP-HDI-INDEX;Human Development Index (HDI);CRI;Costa Rica;1990;0.651634
+UNDP-HDI-INDEX;Human Development Index (HDI);CUB;Cuba;1990;0.675016
+UNDP-HDI-INDEX;Human Development Index (HDI);CYP;Cyprus;1990;0.733354
+UNDP-HDI-INDEX;Human Development Index (HDI);CZE;Czech Republic;1990;0.761288
+UNDP-HDI-INDEX;Human Development Index (HDI);DEU;Germany;1990;0.800913
+UNDP-HDI-INDEX;Human Development Index (HDI);DNK;Denmark;1990;0.798723
+UNDP-HDI-INDEX;Human Development Index (HDI);DOM;Dominican Republic;1990;0.595965
+UNDP-HDI-INDEX;Human Development Index (HDI);DZA;Algeria;1990;0.574486
+UNDP-HDI-INDEX;Human Development Index (HDI);ECU;Ecuador;1990;0.644967
+UNDP-HDI-INDEX;Human Development Index (HDI);EGY;Egypt;1990;0.54648
+UNDP-HDI-INDEX;Human Development Index (HDI);ESP;Spain;1990;0.756001
+UNDP-HDI-INDEX;Human Development Index (HDI);EST;Estonia;1990;0.725815
+UNDP-HDI-INDEX;Human Development Index (HDI);FIN;Finland;1990;0.783434
+UNDP-HDI-INDEX;Human Development Index (HDI);FJI;Fiji;1990;0.631182
+UNDP-HDI-INDEX;Human Development Index (HDI);FRA;France;1990;0.779267
+UNDP-HDI-INDEX;Human Development Index (HDI);GAB;Gabon;1990;0.619773
+UNDP-HDI-INDEX;Human Development Index (HDI);GBR;United Kingdom;1990;0.773245
+UNDP-HDI-INDEX;Human Development Index (HDI);GHA;Ghana;1990;0.455534
+UNDP-HDI-INDEX;Human Development Index (HDI);GMB;Gambia;1990;0.329548
+UNDP-HDI-INDEX;Human Development Index (HDI);GRC;Greece;1990;0.759229
+UNDP-HDI-INDEX;Human Development Index (HDI);GTM;Guatemala;1990;0.482604
+UNDP-HDI-INDEX;Human Development Index (HDI);GUY;Guyana;1990;0.542443
+UNDP-HDI-INDEX;Human Development Index (HDI);HKG;Hong Kong;1990;0.78119
+UNDP-HDI-INDEX;Human Development Index (HDI);HND;Honduras;1990;0.506862
+UNDP-HDI-INDEX;Human Development Index (HDI);HRV;Croatia;1990;0.669827
+UNDP-HDI-INDEX;Human Development Index (HDI);HTI;Haiti;1990;0.417263
+UNDP-HDI-INDEX;Human Development Index (HDI);HUN;Hungary;1990;0.702889
+UNDP-HDI-INDEX;Human Development Index (HDI);IDN;Indonesia;1990;0.530659
+UNDP-HDI-INDEX;Human Development Index (HDI);IND;India;1990;0.428303
+UNDP-HDI-INDEX;Human Development Index (HDI);IRL;Ireland;1990;0.770015
+UNDP-HDI-INDEX;Human Development Index (HDI);IRN;Iran;1990;0.566522
+UNDP-HDI-INDEX;Human Development Index (HDI);IRQ;Iraq;1990;0.572201
+UNDP-HDI-INDEX;Human Development Index (HDI);ISL;Iceland;1990;0.80162
+UNDP-HDI-INDEX;Human Development Index (HDI);ISR;Israel;1990;0.785215
+UNDP-HDI-INDEX;Human Development Index (HDI);ITA;Italy;1990;0.765973
+UNDP-HDI-INDEX;Human Development Index (HDI);JAM;Jamaica;1990;0.671224
+UNDP-HDI-INDEX;Human Development Index (HDI);JOR;Jordan;1990;0.622613
+UNDP-HDI-INDEX;Human Development Index (HDI);JPN;Japan;1990;0.8141
+UNDP-HDI-INDEX;Human Development Index (HDI);KAZ;Kazakhstan;1990;0.689522
+UNDP-HDI-INDEX;Human Development Index (HDI);KEN;Kenya;1990;0.473309
+UNDP-HDI-INDEX;Human Development Index (HDI);KGZ;Kyrgyzstan;1990;0.615123
+UNDP-HDI-INDEX;Human Development Index (HDI);KHM;Cambodia;1990;0.364242
+UNDP-HDI-INDEX;Human Development Index (HDI);KOR;Republic of Korea;1990;0.731343
+UNDP-HDI-INDEX;Human Development Index (HDI);KWT;Kuwait;1990;0.715278
+UNDP-HDI-INDEX;Human Development Index (HDI);LAO;Lao;1990;0.3974
+UNDP-HDI-INDEX;Human Development Index (HDI);LBY;Libya;1990;0.678754
+UNDP-HDI-INDEX;Human Development Index (HDI);LKA;Sri Lanka;1990;0.620063
+UNDP-HDI-INDEX;Human Development Index (HDI);LSO;Lesotho;1990;0.492627
+UNDP-HDI-INDEX;Human Development Index (HDI);LTU;Lithuania;1990;0.730153
+UNDP-HDI-INDEX;Human Development Index (HDI);LUX;Luxembourg;1990;0.779325
+UNDP-HDI-INDEX;Human Development Index (HDI);LVA;Latvia;1990;0.69231
+UNDP-HDI-INDEX;Human Development Index (HDI);MAR;Morocco;1990;0.457157
+UNDP-HDI-INDEX;Human Development Index (HDI);MDA;Moldova;1990;0.652061
+UNDP-HDI-INDEX;Human Development Index (HDI);MEX;Mexico;1990;0.647598
+UNDP-HDI-INDEX;Human Development Index (HDI);MLI;Mali;1990;0.233219
+UNDP-HDI-INDEX;Human Development Index (HDI);MLT;Malta;1990;0.729135
+UNDP-HDI-INDEX;Human Development Index (HDI);MMR;Myanmar;1990;0.352454
+UNDP-HDI-INDEX;Human Development Index (HDI);MNG;Mongolia;1990;0.577852
+UNDP-HDI-INDEX;Human Development Index (HDI);MOZ;Mozambique;1990;0.2176
+UNDP-HDI-INDEX;Human Development Index (HDI);MRT;Mauritania;1990;0.373215
+UNDP-HDI-INDEX;Human Development Index (HDI);MUS;Mauritius;1990;0.619032
+UNDP-HDI-INDEX;Human Development Index (HDI);MWI;Malawi;1990;0.283586
+UNDP-HDI-INDEX;Human Development Index (HDI);MYS;Malaysia;1990;0.641249
+UNDP-HDI-INDEX;Human Development Index (HDI);NAM;Namibia;1990;0.577773
+UNDP-HDI-INDEX;Human Development Index (HDI);NER;Niger;1990;0.213981
+UNDP-HDI-INDEX;Human Development Index (HDI);NIC;Nicaragua;1990;0.494813
+UNDP-HDI-INDEX;Human Development Index (HDI);NLD;Netherlands;1990;0.82924
+UNDP-HDI-INDEX;Human Development Index (HDI);NOR;Norway;1990;0.849368
+UNDP-HDI-INDEX;Human Development Index (HDI);NPL;Nepal;1990;0.384094
+UNDP-HDI-INDEX;Human Development Index (HDI);NZL;New Zealand;1990;0.820072
+UNDP-HDI-INDEX;Human Development Index (HDI);PAK;Pakistan;1990;0.399396
+UNDP-HDI-INDEX;Human Development Index (HDI);PAN;Panama;1990;0.655583
+UNDP-HDI-INDEX;Human Development Index (HDI);PER;Peru;1990;0.613157
+UNDP-HDI-INDEX;Human Development Index (HDI);PHL;Philippines;1990;0.585814
+UNDP-HDI-INDEX;Human Development Index (HDI);PNG;Papua New Guinea;1990;0.352598
+UNDP-HDI-INDEX;Human Development Index (HDI);POL;Poland;1990;0.712556
+UNDP-HDI-INDEX;Human Development Index (HDI);PRT;Portugal;1990;0.709947
+UNDP-HDI-INDEX;Human Development Index (HDI);PRY;Paraguay;1990;0.578797
+UNDP-HDI-INDEX;Human Development Index (HDI);QAT;Qatar;1990;0.754186
+UNDP-HDI-INDEX;Human Development Index (HDI);ROU;Romania;1990;0.703334
+UNDP-HDI-INDEX;Human Development Index (HDI);RUS;Russia;1990;0.729225
+UNDP-HDI-INDEX;Human Development Index (HDI);RWA;Rwanda;1990;0.243972
+UNDP-HDI-INDEX;Human Development Index (HDI);SAU;Saudi Arabia;1990;0.689514
+UNDP-HDI-INDEX;Human Development Index (HDI);SDN;Sudan;1990;0.331345
+UNDP-HDI-INDEX;Human Development Index (HDI);SEN;Senegal;1990;0.366831
+UNDP-HDI-INDEX;Human Development Index (HDI);SGP;Singapore;1990;0.717717
+UNDP-HDI-INDEX;Human Development Index (HDI);SLE;Sierra Leone;1990;0.262054
+UNDP-HDI-INDEX;Human Development Index (HDI);SLV;El Salvador;1990;0.521549
+UNDP-HDI-INDEX;Human Development Index (HDI);SRB;Serbia;1990;0.713616
+UNDP-HDI-INDEX;Human Development Index (HDI);STP;Sao Tome and Principe;1990;0.455181
+UNDP-HDI-INDEX;Human Development Index (HDI);SVK;Slovakia;1990;0.737669
+UNDP-HDI-INDEX;Human Development Index (HDI);SVN;Slovenia;1990;0.765623
+UNDP-HDI-INDEX;Human Development Index (HDI);SWE;Sweden;1990;0.815064
+UNDP-HDI-INDEX;Human Development Index (HDI);SWZ;Swaziland;1990;0.535938
+UNDP-HDI-INDEX;Human Development Index (HDI);SYR;Syrian Arab Republic;1990;0.552773
+UNDP-HDI-INDEX;Human Development Index (HDI);TGO;Togo;1990;0.404352
+UNDP-HDI-INDEX;Human Development Index (HDI);THA;Thailand;1990;0.571883
+UNDP-HDI-INDEX;Human Development Index (HDI);TJK;Tajikistan;1990;0.615606
+UNDP-HDI-INDEX;Human Development Index (HDI);TON;Tonga;1990;0.650001
+UNDP-HDI-INDEX;Human Development Index (HDI);TTO;Trinidad and Tobago;1990;0.673273
+UNDP-HDI-INDEX;Human Development Index (HDI);TUN;Tunisia;1990;0.567474
+UNDP-HDI-INDEX;Human Development Index (HDI);TUR;Turkey;1990;0.576022
+UNDP-HDI-INDEX;Human Development Index (HDI);TZA;Tanzania;1990;0.369439
+UNDP-HDI-INDEX;Human Development Index (HDI);UGA;Uganda;1990;0.308217
+UNDP-HDI-INDEX;Human Development Index (HDI);UKR;Ukraine;1990;0.705427
+UNDP-HDI-INDEX;Human Development Index (HDI);URY;Uruguay;1990;0.692467
+UNDP-HDI-INDEX;Human Development Index (HDI);USA;United States of America;1990;0.858965
+UNDP-HDI-INDEX;Human Development Index (HDI);VEN;Venezuela;1990;0.634948
+UNDP-HDI-INDEX;Human Development Index (HDI);VNM;Vietnam;1990;0.475298
+UNDP-HDI-INDEX;Human Development Index (HDI);WSM;Samoa;1990;0.620643
+UNDP-HDI-INDEX;Human Development Index (HDI);YEM;Yemen;1990;0.399537
+UNDP-HDI-INDEX;Human Development Index (HDI);ZAF;South Africa;1990;0.621201
+UNDP-HDI-INDEX;Human Development Index (HDI);ZMB;Zambia;1990;0.403007
+UNDP-HDI-INDEX;Human Development Index (HDI);ZWE;Zimbabwe;1990;0.498772
+UNDP-HDI-INDEX;Human Development Index (HDI);AFG;Afghanistan;2000;0.334263
+UNDP-HDI-INDEX;Human Development Index (HDI);AGO;Angola;2000;0.389657
+UNDP-HDI-INDEX;Human Development Index (HDI);ALB;Albania;2000;0.656402
+UNDP-HDI-INDEX;Human Development Index (HDI);ARE;United Arab Emirates;2000;0.797136
+UNDP-HDI-INDEX;Human Development Index (HDI);ARG;Argentina;2000;0.762081
+UNDP-HDI-INDEX;Human Development Index (HDI);ARM;Armenia;2000;0.64771
+UNDP-HDI-INDEX;Human Development Index (HDI);AUS;Australia;2000;0.897514
+UNDP-HDI-INDEX;Human Development Index (HDI);AUT;Austria;2000;0.83643
+UNDP-HDI-INDEX;Human Development Index (HDI);AZE;Azerbaijan;2000;0.64046
+UNDP-HDI-INDEX;Human Development Index (HDI);BDI;Burundi;2000;0.300742
+UNDP-HDI-INDEX;Human Development Index (HDI);BEL;Belgium;2000;0.87381
+UNDP-HDI-INDEX;Human Development Index (HDI);BEN;Benin;2000;0.391957
+UNDP-HDI-INDEX;Human Development Index (HDI);BGD;Bangladesh;2000;0.467651
+UNDP-HDI-INDEX;Human Development Index (HDI);BGR;Bulgaria;2000;0.713225
+UNDP-HDI-INDEX;Human Development Index (HDI);BHR;Bahrain;2000;0.793897
+UNDP-HDI-INDEX;Human Development Index (HDI);BHS;Bahamas;2000;0.778473
+UNDP-HDI-INDEX;Human Development Index (HDI);BLR;Belarus;2000;0.683212
+UNDP-HDI-INDEX;Human Development Index (HDI);BLZ;Belize;2000;0.683116
+UNDP-HDI-INDEX;Human Development Index (HDI);BOL;Bolivia;2000;0.603134
+UNDP-HDI-INDEX;Human Development Index (HDI);BRA;Brazil;2000;0.683434
+UNDP-HDI-INDEX;Human Development Index (HDI);BRB;Barbados;2000;0.752589
+UNDP-HDI-INDEX;Human Development Index (HDI);BRN;Brunei Darussalam;2000;0.818951
+UNDP-HDI-INDEX;Human Development Index (HDI);BWA;Botswana;2000;0.560834
+UNDP-HDI-INDEX;Human Development Index (HDI);CAF;Central African Republic;2000;0.309696
+UNDP-HDI-INDEX;Human Development Index (HDI);CAN;Canada;2000;0.867196
+UNDP-HDI-INDEX;Human Development Index (HDI);CHE;Switzerland;2000;0.887927
+UNDP-HDI-INDEX;Human Development Index (HDI);CHL;Chile;2000;0.752489
+UNDP-HDI-INDEX;Human Development Index (HDI);CHN;China;2000;0.587639
+UNDP-HDI-INDEX;Human Development Index (HDI);CIV;Ivory Coast;2000;0.397715
+UNDP-HDI-INDEX;Human Development Index (HDI);CMR;Cameroon;2000;0.436655
+UNDP-HDI-INDEX;Human Development Index (HDI);COD;Democratic Republic of the Congo;2000;0.328639
+UNDP-HDI-INDEX;Human Development Index (HDI);COG;Congo;2000;0.489248
+UNDP-HDI-INDEX;Human Development Index (HDI);COL;Colombia;2000;0.654157
+UNDP-HDI-INDEX;Human Development Index (HDI);CPV;Cape Verde;2000;0.572187
+UNDP-HDI-INDEX;Human Development Index (HDI);CRI;Costa Rica;2000;0.703785
+UNDP-HDI-INDEX;Human Development Index (HDI);CUB;Cuba;2000;0.685054
+UNDP-HDI-INDEX;Human Development Index (HDI);CYP;Cyprus;2000;0.799875
+UNDP-HDI-INDEX;Human Development Index (HDI);CZE;Czech Republic;2000;0.820992
+UNDP-HDI-INDEX;Human Development Index (HDI);DEU;Germany;2000;0.855195
+UNDP-HDI-INDEX;Human Development Index (HDI);DJI;Djibouti;2000;0.365158
+UNDP-HDI-INDEX;Human Development Index (HDI);DMA;Dominica;2000;0.69383
+UNDP-HDI-INDEX;Human Development Index (HDI);DNK;Denmark;2000;0.861817
+UNDP-HDI-INDEX;Human Development Index (HDI);DOM;Dominican Republic;2000;0.655316
+UNDP-HDI-INDEX;Human Development Index (HDI);DZA;Algeria;2000;0.640132
+UNDP-HDI-INDEX;Human Development Index (HDI);ECU;Ecuador;2000;0.674382
+UNDP-HDI-INDEX;Human Development Index (HDI);EGY;Egypt;2000;0.62245
+UNDP-HDI-INDEX;Human Development Index (HDI);ESP;Spain;2000;0.827097
+UNDP-HDI-INDEX;Human Development Index (HDI);EST;Estonia;2000;0.780444
+UNDP-HDI-INDEX;Human Development Index (HDI);ETH;Ethiopia;2000;0.284182
+UNDP-HDI-INDEX;Human Development Index (HDI);FIN;Finland;2000;0.856775
+UNDP-HDI-INDEX;Human Development Index (HDI);FJI;Fiji;2000;0.677872
+UNDP-HDI-INDEX;Human Development Index (HDI);FRA;France;2000;0.848391
+UNDP-HDI-INDEX;Human Development Index (HDI);FSM;Micronesia;2000;0.603125
+UNDP-HDI-INDEX;Human Development Index (HDI);GAB;Gabon;2000;0.632298
+UNDP-HDI-INDEX;Human Development Index (HDI);GBR;United Kingdom;2000;0.865395
+UNDP-HDI-INDEX;Human Development Index (HDI);GEO;Georgia;2000;0.672477
+UNDP-HDI-INDEX;Human Development Index (HDI);GHA;Ghana;2000;0.484864
+UNDP-HDI-INDEX;Human Development Index (HDI);GIN;Guinea;2000;0.323232
+UNDP-HDI-INDEX;Human Development Index (HDI);GMB;Gambia;2000;0.384494
+UNDP-HDI-INDEX;Human Development Index (HDI);GNQ;Equatorial Guinea;2000;0.52559
+UNDP-HDI-INDEX;Human Development Index (HDI);GRC;Greece;2000;0.799054
+UNDP-HDI-INDEX;Human Development Index (HDI);GTM;Guatemala;2000;0.551738
+UNDP-HDI-INDEX;Human Development Index (HDI);GUY;Guyana;2000;0.602005
+UNDP-HDI-INDEX;Human Development Index (HDI);HKG;Hong Kong;2000;0.825136
+UNDP-HDI-INDEX;Human Development Index (HDI);HND;Honduras;2000;0.556991
+UNDP-HDI-INDEX;Human Development Index (HDI);HRV;Croatia;2000;0.749052
+UNDP-HDI-INDEX;Human Development Index (HDI);HTI;Haiti;2000;0.442246
+UNDP-HDI-INDEX;Human Development Index (HDI);HUN;Hungary;2000;0.768678
+UNDP-HDI-INDEX;Human Development Index (HDI);IDN;Indonesia;2000;0.606443
+UNDP-HDI-INDEX;Human Development Index (HDI);IND;India;2000;0.496417
+UNDP-HDI-INDEX;Human Development Index (HDI);IRL;Ireland;2000;0.860594
+UNDP-HDI-INDEX;Human Development Index (HDI);IRN;Iran;2000;0.665428
+UNDP-HDI-INDEX;Human Development Index (HDI);IRQ;Iraq;2000;0.606364
+UNDP-HDI-INDEX;Human Development Index (HDI);ISL;Iceland;2000;0.859087
+UNDP-HDI-INDEX;Human Development Index (HDI);ISR;Israel;2000;0.850114
+UNDP-HDI-INDEX;Human Development Index (HDI);ITA;Italy;2000;0.829
+UNDP-HDI-INDEX;Human Development Index (HDI);JAM;Jamaica;2000;0.699924
+UNDP-HDI-INDEX;Human Development Index (HDI);JOR;Jordan;2000;0.705171
+UNDP-HDI-INDEX;Human Development Index (HDI);JPN;Japan;2000;0.856955
+UNDP-HDI-INDEX;Human Development Index (HDI);KAZ;Kazakhstan;2000;0.679122
+UNDP-HDI-INDEX;Human Development Index (HDI);KEN;Kenya;2000;0.446771
+UNDP-HDI-INDEX;Human Development Index (HDI);KGZ;Kyrgyzstan;2000;0.592556
+UNDP-HDI-INDEX;Human Development Index (HDI);KHM;Cambodia;2000;0.418599
+UNDP-HDI-INDEX;Human Development Index (HDI);KOR;Republic of Korea;2000;0.82093
+UNDP-HDI-INDEX;Human Development Index (HDI);KWT;Kuwait;2000;0.803988
+UNDP-HDI-INDEX;Human Development Index (HDI);LAO;Lao;2000;0.461801
+UNDP-HDI-INDEX;Human Development Index (HDI);LBR;Liberia;2000;0.359398
+UNDP-HDI-INDEX;Human Development Index (HDI);LBY;Libya;2000;0.731073
+UNDP-HDI-INDEX;Human Development Index (HDI);LCA;Saint Lucia;2000;0.68288
+UNDP-HDI-INDEX;Human Development Index (HDI);LKA;Sri Lanka;2000;0.678615
+UNDP-HDI-INDEX;Human Development Index (HDI);LSO;Lesotho;2000;0.443149
+UNDP-HDI-INDEX;Human Development Index (HDI);LTU;Lithuania;2000;0.753965
+UNDP-HDI-INDEX;Human Development Index (HDI);LUX;Luxembourg;2000;0.850591
+UNDP-HDI-INDEX;Human Development Index (HDI);LVA;Latvia;2000;0.727265
+UNDP-HDI-INDEX;Human Development Index (HDI);MAR;Morocco;2000;0.527579
+UNDP-HDI-INDEX;Human Development Index (HDI);MDA;Moldova;2000;0.597331
+UNDP-HDI-INDEX;Human Development Index (HDI);MDG;Madagascar;2000;0.455864
+UNDP-HDI-INDEX;Human Development Index (HDI);MDV;Maldives;2000;0.602703
+UNDP-HDI-INDEX;Human Development Index (HDI);MEX;Mexico;2000;0.699004
+UNDP-HDI-INDEX;Human Development Index (HDI);MLI;Mali;2000;0.312622
+UNDP-HDI-INDEX;Human Development Index (HDI);MLT;Malta;2000;0.765713
+UNDP-HDI-INDEX;Human Development Index (HDI);MMR;Myanmar;2000;0.425449
+UNDP-HDI-INDEX;Human Development Index (HDI);MNG;Mongolia;2000;0.588632
+UNDP-HDI-INDEX;Human Development Index (HDI);MOZ;Mozambique;2000;0.299662
+UNDP-HDI-INDEX;Human Development Index (HDI);MRT;Mauritania;2000;0.44232
+UNDP-HDI-INDEX;Human Development Index (HDI);MUS;Mauritius;2000;0.674234
+UNDP-HDI-INDEX;Human Development Index (HDI);MWI;Malawi;2000;0.339841
+UNDP-HDI-INDEX;Human Development Index (HDI);MYS;Malaysia;2000;0.723035
+UNDP-HDI-INDEX;Human Development Index (HDI);NAM;Namibia;2000;0.5559
+UNDP-HDI-INDEX;Human Development Index (HDI);NER;Niger;2000;0.256951
+UNDP-HDI-INDEX;Human Development Index (HDI);NIC;Nicaragua;2000;0.565167
+UNDP-HDI-INDEX;Human Development Index (HDI);NLD;Netherlands;2000;0.87681
+UNDP-HDI-INDEX;Human Development Index (HDI);NOR;Norway;2000;0.91687
+UNDP-HDI-INDEX;Human Development Index (HDI);NPL;Nepal;2000;0.451017
+UNDP-HDI-INDEX;Human Development Index (HDI);NZL;New Zealand;2000;0.874144
+UNDP-HDI-INDEX;Human Development Index (HDI);PAK;Pakistan;2000;0.44423
+UNDP-HDI-INDEX;Human Development Index (HDI);PAN;Panama;2000;0.713659
+UNDP-HDI-INDEX;Human Development Index (HDI);PER;Peru;2000;0.67712
+UNDP-HDI-INDEX;Human Development Index (HDI);PHL;Philippines;2000;0.622549
+UNDP-HDI-INDEX;Human Development Index (HDI);PLW;Palau;2000;0.743218
+UNDP-HDI-INDEX;Human Development Index (HDI);PNG;Papua New Guinea;2000;0.424467
+UNDP-HDI-INDEX;Human Development Index (HDI);POL;Poland;2000;0.786177
+UNDP-HDI-INDEX;Human Development Index (HDI);PRT;Portugal;2000;0.78173
+UNDP-HDI-INDEX;Human Development Index (HDI);PRY;Paraguay;2000;0.623037
+UNDP-HDI-INDEX;Human Development Index (HDI);QAT;Qatar;2000;0.809322
+UNDP-HDI-INDEX;Human Development Index (HDI);ROU;Romania;2000;0.706255
+UNDP-HDI-INDEX;Human Development Index (HDI);RUS;Russia;2000;0.717223
+UNDP-HDI-INDEX;Human Development Index (HDI);RWA;Rwanda;2000;0.332936
+UNDP-HDI-INDEX;Human Development Index (HDI);SAU;Saudi Arabia;2000;0.743841
+UNDP-HDI-INDEX;Human Development Index (HDI);SDN;Sudan;2000;0.400053
+UNDP-HDI-INDEX;Human Development Index (HDI);SEN;Senegal;2000;0.380215
+UNDP-HDI-INDEX;Human Development Index (HDI);SGP;Singapore;2000;0.818874
+UNDP-HDI-INDEX;Human Development Index (HDI);SLB;Solomon Islands;2000;0.446396
+UNDP-HDI-INDEX;Human Development Index (HDI);SLE;Sierra Leone;2000;0.298778
+UNDP-HDI-INDEX;Human Development Index (HDI);SLV;El Salvador;2000;0.603195
+UNDP-HDI-INDEX;Human Development Index (HDI);SRB;Serbia;2000;0.709705
+UNDP-HDI-INDEX;Human Development Index (HDI);STP;Sao Tome and Principe;2000;0.490874
+UNDP-HDI-INDEX;Human Development Index (HDI);SVK;Slovakia;2000;0.762907
+UNDP-HDI-INDEX;Human Development Index (HDI);SVN;Slovenia;2000;0.82379
+UNDP-HDI-INDEX;Human Development Index (HDI);SWE;Sweden;2000;0.897084
+UNDP-HDI-INDEX;Human Development Index (HDI);SWZ;Swaziland;2000;0.495555
+UNDP-HDI-INDEX;Human Development Index (HDI);SYC;Seychelles;2000;0.714958
+UNDP-HDI-INDEX;Human Development Index (HDI);SYR;Syrian Arab Republic;2000;0.585721
+UNDP-HDI-INDEX;Human Development Index (HDI);TCD;Chad;2000;0.331931
+UNDP-HDI-INDEX;Human Development Index (HDI);TGO;Togo;2000;0.426065
+UNDP-HDI-INDEX;Human Development Index (HDI);THA;Thailand;2000;0.647836
+UNDP-HDI-INDEX;Human Development Index (HDI);TJK;Tajikistan;2000;0.535102
+UNDP-HDI-INDEX;Human Development Index (HDI);TLS;Timor-Leste;2000;0.468499
+UNDP-HDI-INDEX;Human Development Index (HDI);TON;Tonga;2000;0.67135
+UNDP-HDI-INDEX;Human Development Index (HDI);TTO;Trinidad and Tobago;2000;0.716864
+UNDP-HDI-INDEX;Human Development Index (HDI);TUN;Tunisia;2000;0.653792
+UNDP-HDI-INDEX;Human Development Index (HDI);TUR;Turkey;2000;0.652593
+UNDP-HDI-INDEX;Human Development Index (HDI);TZA;Tanzania;2000;0.392048
+UNDP-HDI-INDEX;Human Development Index (HDI);UGA;Uganda;2000;0.393216
+UNDP-HDI-INDEX;Human Development Index (HDI);UKR;Ukraine;2000;0.668186
+UNDP-HDI-INDEX;Human Development Index (HDI);URY;Uruguay;2000;0.74235
+UNDP-HDI-INDEX;Human Development Index (HDI);USA;United States of America;2000;0.883183
+UNDP-HDI-INDEX;Human Development Index (HDI);UZB;Uzbekistan;2000;0.594402
+UNDP-HDI-INDEX;Human Development Index (HDI);VCT;Saint Vincent and the Grenadines;2000;0.67359
+UNDP-HDI-INDEX;Human Development Index (HDI);VEN;Venezuela;2000;0.673406
+UNDP-HDI-INDEX;Human Development Index (HDI);VNM;Vietnam;2000;0.574942
+UNDP-HDI-INDEX;Human Development Index (HDI);WSM;Samoa;2000;0.649461
+UNDP-HDI-INDEX;Human Development Index (HDI);YEM;Yemen;2000;0.441029
+UNDP-HDI-INDEX;Human Development Index (HDI);ZAF;South Africa;2000;0.631618
+UNDP-HDI-INDEX;Human Development Index (HDI);ZMB;Zambia;2000;0.432609
+UNDP-HDI-INDEX;Human Development Index (HDI);ZWE;Zimbabwe;2000;0.427523
+UNDP-HDI-INDEX;Human Development Index (HDI);AFG;Afghanistan;2010;0.447722
+UNDP-HDI-INDEX;Human Development Index (HDI);AGO;Angola;2010;0.508625
+UNDP-HDI-INDEX;Human Development Index (HDI);ALB;Albania;2010;0.722489
+UNDP-HDI-INDEX;Human Development Index (HDI);AND;Andorra;2010;0.822628
+UNDP-HDI-INDEX;Human Development Index (HDI);ARE;United Arab Emirates;2010;0.828391
+UNDP-HDI-INDEX;Human Development Index (HDI);ARG;Argentina;2010;0.810871
+UNDP-HDI-INDEX;Human Development Index (HDI);ARM;Armenia;2010;0.721072
+UNDP-HDI-INDEX;Human Development Index (HDI);ATG;Antigua and Barbuda;2010;0.782392
+UNDP-HDI-INDEX;Human Development Index (HDI);AUS;Australia;2010;0.92741
+UNDP-HDI-INDEX;Human Development Index (HDI);AUT;Austria;2010;0.879002
+UNDP-HDI-INDEX;Human Development Index (HDI);AZE;Azerbaijan;2010;0.740672
+UNDP-HDI-INDEX;Human Development Index (HDI);BDI;Burundi;2010;0.389605
+UNDP-HDI-INDEX;Human Development Index (HDI);BEL;Belgium;2010;0.882948
+UNDP-HDI-INDEX;Human Development Index (HDI);BEN;Benin;2010;0.467581
+UNDP-HDI-INDEX;Human Development Index (HDI);BFA;Burkina Faso;2010;0.377787
+UNDP-HDI-INDEX;Human Development Index (HDI);BGD;Bangladesh;2010;0.546428
+UNDP-HDI-INDEX;Human Development Index (HDI);BGR;Bulgaria;2010;0.772813
+UNDP-HDI-INDEX;Human Development Index (HDI);BHR;Bahrain;2010;0.81946
+UNDP-HDI-INDEX;Human Development Index (HDI);BHS;Bahamas;2010;0.773953
+UNDP-HDI-INDEX;Human Development Index (HDI);BIH;Bosnia and Herzegovina;2010;0.710198
+UNDP-HDI-INDEX;Human Development Index (HDI);BLR;Belarus;2010;0.786163
+UNDP-HDI-INDEX;Human Development Index (HDI);BLZ;Belize;2010;0.709494
+UNDP-HDI-INDEX;Human Development Index (HDI);BOL;Bolivia;2010;0.64123
+UNDP-HDI-INDEX;Human Development Index (HDI);BRA;Brazil;2010;0.737383
+UNDP-HDI-INDEX;Human Development Index (HDI);BRB;Barbados;2010;0.779917
+UNDP-HDI-INDEX;Human Development Index (HDI);BRN;Brunei Darussalam;2010;0.843161
+UNDP-HDI-INDEX;Human Development Index (HDI);BTN;Bhutan;2010;0.572703
+UNDP-HDI-INDEX;Human Development Index (HDI);BWA;Botswana;2010;0.681066
+UNDP-HDI-INDEX;Human Development Index (HDI);CAF;Central African Republic;2010;0.362157
+UNDP-HDI-INDEX;Human Development Index (HDI);CAN;Canada;2010;0.903136
+UNDP-HDI-INDEX;Human Development Index (HDI);CHE;Switzerland;2010;0.92437
+UNDP-HDI-INDEX;Human Development Index (HDI);CHL;Chile;2010;0.813792
+UNDP-HDI-INDEX;Human Development Index (HDI);CHN;China;2010;0.698548
+UNDP-HDI-INDEX;Human Development Index (HDI);CIV;Ivory Coast;2010;0.444479
+UNDP-HDI-INDEX;Human Development Index (HDI);CMR;Cameroon;2010;0.485726
+UNDP-HDI-INDEX;Human Development Index (HDI);COD;Democratic Republic of the Congo;2010;0.407727
+UNDP-HDI-INDEX;Human Development Index (HDI);COG;Congo;2010;0.554019
+UNDP-HDI-INDEX;Human Development Index (HDI);COL;Colombia;2010;0.705925
+UNDP-HDI-INDEX;Human Development Index (HDI);COM;Comoros;2010;0.488357
+UNDP-HDI-INDEX;Human Development Index (HDI);CPV;Cape Verde;2010;0.629357
+UNDP-HDI-INDEX;Human Development Index (HDI);CRI;Costa Rica;2010;0.749998
+UNDP-HDI-INDEX;Human Development Index (HDI);CUB;Cuba;2010;0.777673
+UNDP-HDI-INDEX;Human Development Index (HDI);CYP;Cyprus;2010;0.848341
+UNDP-HDI-INDEX;Human Development Index (HDI);CZE;Czech Republic;2010;0.862667
+UNDP-HDI-INDEX;Human Development Index (HDI);DEU;Germany;2010;0.906467
+UNDP-HDI-INDEX;Human Development Index (HDI);DJI;Djibouti;2010;0.452638
+UNDP-HDI-INDEX;Human Development Index (HDI);DMA;Dominica;2010;0.722795
+UNDP-HDI-INDEX;Human Development Index (HDI);DNK;Denmark;2010;0.908388
+UNDP-HDI-INDEX;Human Development Index (HDI);DOM;Dominican Republic;2010;0.700954
+UNDP-HDI-INDEX;Human Development Index (HDI);DZA;Algeria;2010;0.725421
+UNDP-HDI-INDEX;Human Development Index (HDI);ECU;Ecuador;2010;0.716778
+UNDP-HDI-INDEX;Human Development Index (HDI);EGY;Egypt;2010;0.680997
+UNDP-HDI-INDEX;Human Development Index (HDI);ERI;Eritrea;2010;0.381414
+UNDP-HDI-INDEX;Human Development Index (HDI);ESP;Spain;2010;0.866617
+UNDP-HDI-INDEX;Human Development Index (HDI);EST;Estonia;2010;0.837598
+UNDP-HDI-INDEX;Human Development Index (HDI);ETH;Ethiopia;2010;0.411653
+UNDP-HDI-INDEX;Human Development Index (HDI);FIN;Finland;2010;0.878046
+UNDP-HDI-INDEX;Human Development Index (HDI);FJI;Fiji;2010;0.716899
+UNDP-HDI-INDEX;Human Development Index (HDI);FRA;France;2010;0.880909
+UNDP-HDI-INDEX;Human Development Index (HDI);FSM;Micronesia;2010;0.638049
+UNDP-HDI-INDEX;Human Development Index (HDI);GAB;Gabon;2010;0.663219
+UNDP-HDI-INDEX;Human Development Index (HDI);GBR;United Kingdom;2010;0.906006
+UNDP-HDI-INDEX;Human Development Index (HDI);GEO;Georgia;2010;0.734886
+UNDP-HDI-INDEX;Human Development Index (HDI);GHA;Ghana;2010;0.553548
+UNDP-HDI-INDEX;Human Development Index (HDI);GIN;Guinea;2010;0.387507
+UNDP-HDI-INDEX;Human Development Index (HDI);GMB;Gambia;2010;0.441006
+UNDP-HDI-INDEX;Human Development Index (HDI);GNB;Guinea-Bissau;2010;0.412627
+UNDP-HDI-INDEX;Human Development Index (HDI);GNQ;Equatorial Guinea;2010;0.590802
+UNDP-HDI-INDEX;Human Development Index (HDI);GRC;Greece;2010;0.866494
+UNDP-HDI-INDEX;Human Development Index (HDI);GRD;Grenada;2010;0.737365
+UNDP-HDI-INDEX;Human Development Index (HDI);GTM;Guatemala;2010;0.611042
+UNDP-HDI-INDEX;Human Development Index (HDI);GUY;Guyana;2010;0.623897
+UNDP-HDI-INDEX;Human Development Index (HDI);HKG;Hong Kong;2010;0.898339
+UNDP-HDI-INDEX;Human Development Index (HDI);HND;Honduras;2010;0.609888
+UNDP-HDI-INDEX;Human Development Index (HDI);HRV;Croatia;2010;0.807277
+UNDP-HDI-INDEX;Human Development Index (HDI);HTI;Haiti;2010;0.47058
+UNDP-HDI-INDEX;Human Development Index (HDI);HUN;Hungary;2010;0.821484
+UNDP-HDI-INDEX;Human Development Index (HDI);IDN;Indonesia;2010;0.664591
+UNDP-HDI-INDEX;Human Development Index (HDI);IND;India;2010;0.585646
+UNDP-HDI-INDEX;Human Development Index (HDI);IRL;Ireland;2010;0.908
+UNDP-HDI-INDEX;Human Development Index (HDI);IRN;Iran;2010;0.743316
+UNDP-HDI-INDEX;Human Development Index (HDI);IRQ;Iraq;2010;0.644956
+UNDP-HDI-INDEX;Human Development Index (HDI);ISL;Iceland;2010;0.892084
+UNDP-HDI-INDEX;Human Development Index (HDI);ISR;Israel;2010;0.883231
+UNDP-HDI-INDEX;Human Development Index (HDI);ITA;Italy;2010;0.868561
+UNDP-HDI-INDEX;Human Development Index (HDI);JAM;Jamaica;2010;0.727088
+UNDP-HDI-INDEX;Human Development Index (HDI);JOR;Jordan;2010;0.743114
+UNDP-HDI-INDEX;Human Development Index (HDI);JPN;Japan;2010;0.884147
+UNDP-HDI-INDEX;Human Development Index (HDI);KAZ;Kazakhstan;2010;0.765538
+UNDP-HDI-INDEX;Human Development Index (HDI);KEN;Kenya;2010;0.528785
+UNDP-HDI-INDEX;Human Development Index (HDI);KGZ;Kyrgyzstan;2010;0.633801
+UNDP-HDI-INDEX;Human Development Index (HDI);KHM;Cambodia;2010;0.535822
+UNDP-HDI-INDEX;Human Development Index (HDI);KIR;Kiribati;2010;0.58802
+UNDP-HDI-INDEX;Human Development Index (HDI);KNA;Saint Kitts and Nevis;2010;0.738715
+UNDP-HDI-INDEX;Human Development Index (HDI);KOR;Republic of Korea;2010;0.88647
+UNDP-HDI-INDEX;Human Development Index (HDI);KWT;Kuwait;2010;0.808707
+UNDP-HDI-INDEX;Human Development Index (HDI);LAO;Lao;2010;0.539318
+UNDP-HDI-INDEX;Human Development Index (HDI);LBN;Lebanon;2010;0.755828
+UNDP-HDI-INDEX;Human Development Index (HDI);LBR;Liberia;2010;0.404815
+UNDP-HDI-INDEX;Human Development Index (HDI);LBY;Libya;2010;0.756259
+UNDP-HDI-INDEX;Human Development Index (HDI);LCA;Saint Lucia;2010;0.729629
+UNDP-HDI-INDEX;Human Development Index (HDI);LIE;Liechtenstein;2010;0.902276
+UNDP-HDI-INDEX;Human Development Index (HDI);LKA;Sri Lanka;2010;0.73825
+UNDP-HDI-INDEX;Human Development Index (HDI);LSO;Lesotho;2010;0.471583
+UNDP-HDI-INDEX;Human Development Index (HDI);LTU;Lithuania;2010;0.826808
+UNDP-HDI-INDEX;Human Development Index (HDI);LUX;Luxembourg;2010;0.885995
+UNDP-HDI-INDEX;Human Development Index (HDI);LVA;Latvia;2010;0.810715
+UNDP-HDI-INDEX;Human Development Index (HDI);MAR;Morocco;2010;0.610832
+UNDP-HDI-INDEX;Human Development Index (HDI);MDA;Moldova;2010;0.672168
+UNDP-HDI-INDEX;Human Development Index (HDI);MDG;Madagascar;2010;0.504318
+UNDP-HDI-INDEX;Human Development Index (HDI);MDV;Maldives;2010;0.682715
+UNDP-HDI-INDEX;Human Development Index (HDI);MEX;Mexico;2010;0.745597
+UNDP-HDI-INDEX;Human Development Index (HDI);MKD;Macedonia;2010;0.738019
+UNDP-HDI-INDEX;Human Development Index (HDI);MLI;Mali;2010;0.409257
+UNDP-HDI-INDEX;Human Development Index (HDI);MLT;Malta;2010;0.824161
+UNDP-HDI-INDEX;Human Development Index (HDI);MMR;Myanmar;2010;0.520394
+UNDP-HDI-INDEX;Human Development Index (HDI);MNE;Montenegro;2010;0.791904
+UNDP-HDI-INDEX;Human Development Index (HDI);MNG;Mongolia;2010;0.695293
+UNDP-HDI-INDEX;Human Development Index (HDI);MOZ;Mozambique;2010;0.401094
+UNDP-HDI-INDEX;Human Development Index (HDI);MRT;Mauritania;2010;0.48768
+UNDP-HDI-INDEX;Human Development Index (HDI);MUS;Mauritius;2010;0.755715
+UNDP-HDI-INDEX;Human Development Index (HDI);MWI;Malawi;2010;0.419853
+UNDP-HDI-INDEX;Human Development Index (HDI);MYS;Malaysia;2010;0.769498
+UNDP-HDI-INDEX;Human Development Index (HDI);NAM;Namibia;2010;0.610337
+UNDP-HDI-INDEX;Human Development Index (HDI);NER;Niger;2010;0.325668
+UNDP-HDI-INDEX;Human Development Index (HDI);NGA;Nigeria;2010;0.492838
+UNDP-HDI-INDEX;Human Development Index (HDI);NIC;Nicaragua;2010;0.618729
+UNDP-HDI-INDEX;Human Development Index (HDI);NLD;Netherlands;2010;0.909236
+UNDP-HDI-INDEX;Human Development Index (HDI);NOR;Norway;2010;0.939844
+UNDP-HDI-INDEX;Human Development Index (HDI);NPL;Nepal;2010;0.530779
+UNDP-HDI-INDEX;Human Development Index (HDI);NZL;New Zealand;2010;0.904931
+UNDP-HDI-INDEX;Human Development Index (HDI);OMN;Oman;2010;0.794936
+UNDP-HDI-INDEX;Human Development Index (HDI);PAK;Pakistan;2010;0.521613
+UNDP-HDI-INDEX;Human Development Index (HDI);PAN;Panama;2010;0.761035
+UNDP-HDI-INDEX;Human Development Index (HDI);PER;Peru;2010;0.717597
+UNDP-HDI-INDEX;Human Development Index (HDI);PHL;Philippines;2010;0.654394
+UNDP-HDI-INDEX;Human Development Index (HDI);PLW;Palau;2010;0.766645
+UNDP-HDI-INDEX;Human Development Index (HDI);PNG;Papua New Guinea;2010;0.493333
+UNDP-HDI-INDEX;Human Development Index (HDI);POL;Poland;2010;0.829136
+UNDP-HDI-INDEX;Human Development Index (HDI);PRT;Portugal;2010;0.819367
+UNDP-HDI-INDEX;Human Development Index (HDI);PRY;Paraguay;2010;0.668207
+UNDP-HDI-INDEX;Human Development Index (HDI);PSE;Palestine;2010;0.669664
+UNDP-HDI-INDEX;Human Development Index (HDI);QAT;Qatar;2010;0.843662
+UNDP-HDI-INDEX;Human Development Index (HDI);ROU;Romania;2010;0.784498
+UNDP-HDI-INDEX;Human Development Index (HDI);RUS;Russia;2010;0.782934
+UNDP-HDI-INDEX;Human Development Index (HDI);RWA;Rwanda;2010;0.453282
+UNDP-HDI-INDEX;Human Development Index (HDI);SAU;Saudi Arabia;2010;0.804673
+UNDP-HDI-INDEX;Human Development Index (HDI);SDN;Sudan;2010;0.465174
+UNDP-HDI-INDEX;Human Development Index (HDI);SEN;Senegal;2010;0.455779
+UNDP-HDI-INDEX;Human Development Index (HDI);SGP;Singapore;2010;0.897088
+UNDP-HDI-INDEX;Human Development Index (HDI);SLB;Solomon Islands;2010;0.494278
+UNDP-HDI-INDEX;Human Development Index (HDI);SLE;Sierra Leone;2010;0.387506
+UNDP-HDI-INDEX;Human Development Index (HDI);SLV;El Salvador;2010;0.652733
+UNDP-HDI-INDEX;Human Development Index (HDI);SRB;Serbia;2010;0.757469
+UNDP-HDI-INDEX;Human Development Index (HDI);SSD;South Sudan;2010;0.469595
+UNDP-HDI-INDEX;Human Development Index (HDI);STP;Sao Tome and Principe;2010;0.543571
+UNDP-HDI-INDEX;Human Development Index (HDI);SUR;Suriname;2010;0.707432
+UNDP-HDI-INDEX;Human Development Index (HDI);SVK;Slovakia;2010;0.827445
+UNDP-HDI-INDEX;Human Development Index (HDI);SVN;Slovenia;2010;0.875823
+UNDP-HDI-INDEX;Human Development Index (HDI);SWE;Sweden;2010;0.901034
+UNDP-HDI-INDEX;Human Development Index (HDI);SWZ;Swaziland;2010;0.524663
+UNDP-HDI-INDEX;Human Development Index (HDI);SYC;Seychelles;2010;0.743078
+UNDP-HDI-INDEX;Human Development Index (HDI);SYR;Syrian Arab Republic;2010;0.639098
+UNDP-HDI-INDEX;Human Development Index (HDI);TCD;Chad;2010;0.371198
+UNDP-HDI-INDEX;Human Development Index (HDI);TGO;Togo;2010;0.4594
+UNDP-HDI-INDEX;Human Development Index (HDI);THA;Thailand;2010;0.715838
+UNDP-HDI-INDEX;Human Development Index (HDI);TJK;Tajikistan;2010;0.607725
+UNDP-HDI-INDEX;Human Development Index (HDI);TKM;Turkmenistan;2010;0.665963
+UNDP-HDI-INDEX;Human Development Index (HDI);TLS;Timor-Leste;2010;0.600098
+UNDP-HDI-INDEX;Human Development Index (HDI);TON;Tonga;2010;0.71292
+UNDP-HDI-INDEX;Human Development Index (HDI);TTO;Trinidad and Tobago;2010;0.771703
+UNDP-HDI-INDEX;Human Development Index (HDI);TUN;Tunisia;2010;0.713871
+UNDP-HDI-INDEX;Human Development Index (HDI);TUR;Turkey;2010;0.73763
+UNDP-HDI-INDEX;Human Development Index (HDI);TZA;Tanzania;2010;0.499915
+UNDP-HDI-INDEX;Human Development Index (HDI);UGA;Uganda;2010;0.472912
+UNDP-HDI-INDEX;Human Development Index (HDI);UKR;Ukraine;2010;0.732075
+UNDP-HDI-INDEX;Human Development Index (HDI);URY;Uruguay;2010;0.780163
+UNDP-HDI-INDEX;Human Development Index (HDI);USA;United States of America;2010;0.908582
+UNDP-HDI-INDEX;Human Development Index (HDI);UZB;Uzbekistan;2010;0.65512
+UNDP-HDI-INDEX;Human Development Index (HDI);VCT;Saint Vincent and the Grenadines;2010;0.711363
+UNDP-HDI-INDEX;Human Development Index (HDI);VEN;Venezuela;2010;0.756818
+UNDP-HDI-INDEX;Human Development Index (HDI);VNM;Vietnam;2010;0.653469
+UNDP-HDI-INDEX;Human Development Index (HDI);VUT;Vanuatu;2010;0.58931
+UNDP-HDI-INDEX;Human Development Index (HDI);WSM;Samoa;2010;0.696122
+UNDP-HDI-INDEX;Human Development Index (HDI);YEM;Yemen;2010;0.496476
+UNDP-HDI-INDEX;Human Development Index (HDI);ZAF;South Africa;2010;0.6433
+UNDP-HDI-INDEX;Human Development Index (HDI);ZMB;Zambia;2010;0.554614
+UNDP-HDI-INDEX;Human Development Index (HDI);ZWE;Zimbabwe;2010;0.460912
+UNDP-HDI-INDEX;Human Development Index (HDI);AFG;Afghanistan;2011;0.455618
+UNDP-HDI-INDEX;Human Development Index (HDI);AGO;Angola;2011;0.521132
+UNDP-HDI-INDEX;Human Development Index (HDI);ALB;Albania;2011;0.728014
+UNDP-HDI-INDEX;Human Development Index (HDI);AND;Andorra;2011;0.821324
+UNDP-HDI-INDEX;Human Development Index (HDI);ARE;United Arab Emirates;2011;0.829218
+UNDP-HDI-INDEX;Human Development Index (HDI);ARG;Argentina;2011;0.818032
+UNDP-HDI-INDEX;Human Development Index (HDI);ARM;Armenia;2011;0.723283
+UNDP-HDI-INDEX;Human Development Index (HDI);ATG;Antigua and Barbuda;2011;0.777948
+UNDP-HDI-INDEX;Human Development Index (HDI);AUS;Australia;2011;0.929656
+UNDP-HDI-INDEX;Human Development Index (HDI);AUT;Austria;2011;0.881273
+UNDP-HDI-INDEX;Human Development Index (HDI);AZE;Azerbaijan;2011;0.742041
+UNDP-HDI-INDEX;Human Development Index (HDI);BDI;Burundi;2011;0.39193
+UNDP-HDI-INDEX;Human Development Index (HDI);BEL;Belgium;2011;0.886295
+UNDP-HDI-INDEX;Human Development Index (HDI);BEN;Benin;2011;0.473028
+UNDP-HDI-INDEX;Human Development Index (HDI);BFA;Burkina Faso;2011;0.385208
+UNDP-HDI-INDEX;Human Development Index (HDI);BGD;Bangladesh;2011;0.558667
+UNDP-HDI-INDEX;Human Development Index (HDI);BGR;Bulgaria;2011;0.775303
+UNDP-HDI-INDEX;Human Development Index (HDI);BHR;Bahrain;2011;0.8173
+UNDP-HDI-INDEX;Human Development Index (HDI);BHS;Bahamas;2011;0.777823
+UNDP-HDI-INDEX;Human Development Index (HDI);BIH;Bosnia and Herzegovina;2011;0.723667
+UNDP-HDI-INDEX;Human Development Index (HDI);BLR;Belarus;2011;0.793185
+UNDP-HDI-INDEX;Human Development Index (HDI);BLZ;Belize;2011;0.711344
+UNDP-HDI-INDEX;Human Development Index (HDI);BOL;Bolivia;2011;0.647424
+UNDP-HDI-INDEX;Human Development Index (HDI);BRA;Brazil;2011;0.741681
+UNDP-HDI-INDEX;Human Development Index (HDI);BRB;Barbados;2011;0.786363
+UNDP-HDI-INDEX;Human Development Index (HDI);BRN;Brunei Darussalam;2011;0.846673
+UNDP-HDI-INDEX;Human Development Index (HDI);BTN;Bhutan;2011;0.581881
+UNDP-HDI-INDEX;Human Development Index (HDI);BWA;Botswana;2011;0.688141
+UNDP-HDI-INDEX;Human Development Index (HDI);CAF;Central African Republic;2011;0.368457
+UNDP-HDI-INDEX;Human Development Index (HDI);CAN;Canada;2011;0.9085
+UNDP-HDI-INDEX;Human Development Index (HDI);CHE;Switzerland;2011;0.924559
+UNDP-HDI-INDEX;Human Development Index (HDI);CHL;Chile;2011;0.820627
+UNDP-HDI-INDEX;Human Development Index (HDI);CHN;China;2011;0.707216
+UNDP-HDI-INDEX;Human Development Index (HDI);CIV;Ivory Coast;2011;0.445078
+UNDP-HDI-INDEX;Human Development Index (HDI);CMR;Cameroon;2011;0.49593
+UNDP-HDI-INDEX;Human Development Index (HDI);COD;Democratic Republic of the Congo;2011;0.417903
+UNDP-HDI-INDEX;Human Development Index (HDI);COG;Congo;2011;0.559663
+UNDP-HDI-INDEX;Human Development Index (HDI);COL;Colombia;2011;0.712512
+UNDP-HDI-INDEX;Human Development Index (HDI);COM;Comoros;2011;0.493386
+UNDP-HDI-INDEX;Human Development Index (HDI);CPV;Cape Verde;2011;0.636703
+UNDP-HDI-INDEX;Human Development Index (HDI);CRI;Costa Rica;2011;0.756323
+UNDP-HDI-INDEX;Human Development Index (HDI);CUB;Cuba;2011;0.775534
+UNDP-HDI-INDEX;Human Development Index (HDI);CYP;Cyprus;2011;0.852421
+UNDP-HDI-INDEX;Human Development Index (HDI);CZE;Czech Republic;2011;0.866084
+UNDP-HDI-INDEX;Human Development Index (HDI);DEU;Germany;2011;0.910604
+UNDP-HDI-INDEX;Human Development Index (HDI);DJI;Djibouti;2011;0.461646
+UNDP-HDI-INDEX;Human Development Index (HDI);DMA;Dominica;2011;0.723146
+UNDP-HDI-INDEX;Human Development Index (HDI);DNK;Denmark;2011;0.920488
+UNDP-HDI-INDEX;Human Development Index (HDI);DOM;Dominican Republic;2011;0.704323
+UNDP-HDI-INDEX;Human Development Index (HDI);DZA;Algeria;2011;0.730241
+UNDP-HDI-INDEX;Human Development Index (HDI);ECU;Ecuador;2011;0.722939
+UNDP-HDI-INDEX;Human Development Index (HDI);EGY;Egypt;2011;0.682191
+UNDP-HDI-INDEX;Human Development Index (HDI);ERI;Eritrea;2011;0.386011
+UNDP-HDI-INDEX;Human Development Index (HDI);ESP;Spain;2011;0.870483
+UNDP-HDI-INDEX;Human Development Index (HDI);EST;Estonia;2011;0.849472
+UNDP-HDI-INDEX;Human Development Index (HDI);ETH;Ethiopia;2011;0.422589
+UNDP-HDI-INDEX;Human Development Index (HDI);FIN;Finland;2011;0.880921
+UNDP-HDI-INDEX;Human Development Index (HDI);FJI;Fiji;2011;0.720405
+UNDP-HDI-INDEX;Human Development Index (HDI);FRA;France;2011;0.884196
+UNDP-HDI-INDEX;Human Development Index (HDI);FSM;Micronesia;2011;0.640094
+UNDP-HDI-INDEX;Human Development Index (HDI);GAB;Gabon;2011;0.668447
+UNDP-HDI-INDEX;Human Development Index (HDI);GBR;United Kingdom;2011;0.901455
+UNDP-HDI-INDEX;Human Development Index (HDI);GEO;Georgia;2011;0.740142
+UNDP-HDI-INDEX;Human Development Index (HDI);GHA;Ghana;2011;0.565917
+UNDP-HDI-INDEX;Human Development Index (HDI);GIN;Guinea;2011;0.398717
+UNDP-HDI-INDEX;Human Development Index (HDI);GMB;Gambia;2011;0.437398
+UNDP-HDI-INDEX;Human Development Index (HDI);GNB;Guinea-Bissau;2011;0.41687
+UNDP-HDI-INDEX;Human Development Index (HDI);GNQ;Equatorial Guinea;2011;0.589911
+UNDP-HDI-INDEX;Human Development Index (HDI);GRC;Greece;2011;0.863849
+UNDP-HDI-INDEX;Human Development Index (HDI);GRD;Grenada;2011;0.739286
+UNDP-HDI-INDEX;Human Development Index (HDI);GTM;Guatemala;2011;0.617218
+UNDP-HDI-INDEX;Human Development Index (HDI);GUY;Guyana;2011;0.629915
+UNDP-HDI-INDEX;Human Development Index (HDI);HKG;Hong Kong;2011;0.902148
+UNDP-HDI-INDEX;Human Development Index (HDI);HND;Honduras;2011;0.611954
+UNDP-HDI-INDEX;Human Development Index (HDI);HRV;Croatia;2011;0.81414
+UNDP-HDI-INDEX;Human Development Index (HDI);HTI;Haiti;2011;0.47545
+UNDP-HDI-INDEX;Human Development Index (HDI);HUN;Hungary;2011;0.822832
+UNDP-HDI-INDEX;Human Development Index (HDI);IDN;Indonesia;2011;0.671071
+UNDP-HDI-INDEX;Human Development Index (HDI);IND;India;2011;0.596519
+UNDP-HDI-INDEX;Human Development Index (HDI);IRL;Ireland;2011;0.908905
+UNDP-HDI-INDEX;Human Development Index (HDI);IRN;Iran;2011;0.751079
+UNDP-HDI-INDEX;Human Development Index (HDI);IRQ;Iraq;2011;0.648266
+UNDP-HDI-INDEX;Human Development Index (HDI);ISL;Iceland;2011;0.895591
+UNDP-HDI-INDEX;Human Development Index (HDI);ISR;Israel;2011;0.888272
+UNDP-HDI-INDEX;Human Development Index (HDI);ITA;Italy;2011;0.872746
+UNDP-HDI-INDEX;Human Development Index (HDI);JAM;Jamaica;2011;0.727465
+UNDP-HDI-INDEX;Human Development Index (HDI);JOR;Jordan;2011;0.743329
+UNDP-HDI-INDEX;Human Development Index (HDI);JPN;Japan;2011;0.885962
+UNDP-HDI-INDEX;Human Development Index (HDI);KAZ;Kazakhstan;2011;0.771944
+UNDP-HDI-INDEX;Human Development Index (HDI);KEN;Kenya;2011;0.53488
+UNDP-HDI-INDEX;Human Development Index (HDI);KGZ;Kyrgyzstan;2011;0.638842
+UNDP-HDI-INDEX;Human Development Index (HDI);KHM;Cambodia;2011;0.540916
+UNDP-HDI-INDEX;Human Development Index (HDI);KIR;Kiribati;2011;0.584719
+UNDP-HDI-INDEX;Human Development Index (HDI);KNA;Saint Kitts and Nevis;2011;0.740948
+UNDP-HDI-INDEX;Human Development Index (HDI);KOR;Republic of Korea;2011;0.890962
+UNDP-HDI-INDEX;Human Development Index (HDI);KWT;Kuwait;2011;0.811997
+UNDP-HDI-INDEX;Human Development Index (HDI);LAO;Lao;2011;0.551868
+UNDP-HDI-INDEX;Human Development Index (HDI);LBN;Lebanon;2011;0.760608
+UNDP-HDI-INDEX;Human Development Index (HDI);LBR;Liberia;2011;0.413649
+UNDP-HDI-INDEX;Human Development Index (HDI);LBY;Libya;2011;0.711167
+UNDP-HDI-INDEX;Human Development Index (HDI);LCA;Saint Lucia;2011;0.730023
+UNDP-HDI-INDEX;Human Development Index (HDI);LIE;Liechtenstein;2011;0.903301
+UNDP-HDI-INDEX;Human Development Index (HDI);LKA;Sri Lanka;2011;0.743465
+UNDP-HDI-INDEX;Human Development Index (HDI);LSO;Lesotho;2011;0.480382
+UNDP-HDI-INDEX;Human Development Index (HDI);LTU;Lithuania;2011;0.830676
+UNDP-HDI-INDEX;Human Development Index (HDI);LUX;Luxembourg;2011;0.88837
+UNDP-HDI-INDEX;Human Development Index (HDI);LVA;Latvia;2011;0.812219
+UNDP-HDI-INDEX;Human Development Index (HDI);MAR;Morocco;2011;0.621376
+UNDP-HDI-INDEX;Human Development Index (HDI);MDA;Moldova;2011;0.679214
+UNDP-HDI-INDEX;Human Development Index (HDI);MDG;Madagascar;2011;0.504798
+UNDP-HDI-INDEX;Human Development Index (HDI);MDV;Maldives;2011;0.690221
+UNDP-HDI-INDEX;Human Development Index (HDI);MEX;Mexico;2011;0.748225
+UNDP-HDI-INDEX;Human Development Index (HDI);MKD;Macedonia;2011;0.742073
+UNDP-HDI-INDEX;Human Development Index (HDI);MLI;Mali;2011;0.414593
+UNDP-HDI-INDEX;Human Development Index (HDI);MLT;Malta;2011;0.822286
+UNDP-HDI-INDEX;Human Development Index (HDI);MMR;Myanmar;2011;0.523699
+UNDP-HDI-INDEX;Human Development Index (HDI);MNE;Montenegro;2011;0.797508
+UNDP-HDI-INDEX;Human Development Index (HDI);MNG;Mongolia;2011;0.706006
+UNDP-HDI-INDEX;Human Development Index (HDI);MOZ;Mozambique;2011;0.404538
+UNDP-HDI-INDEX;Human Development Index (HDI);MRT;Mauritania;2011;0.489461
+UNDP-HDI-INDEX;Human Development Index (HDI);MUS;Mauritius;2011;0.761888
+UNDP-HDI-INDEX;Human Development Index (HDI);MWI;Malawi;2011;0.42885
+UNDP-HDI-INDEX;Human Development Index (HDI);MYS;Malaysia;2011;0.772492
+UNDP-HDI-INDEX;Human Development Index (HDI);NAM;Namibia;2011;0.616193
+UNDP-HDI-INDEX;Human Development Index (HDI);NER;Niger;2011;0.332591
+UNDP-HDI-INDEX;Human Development Index (HDI);NGA;Nigeria;2011;0.498824
+UNDP-HDI-INDEX;Human Development Index (HDI);NIC;Nicaragua;2011;0.62259
+UNDP-HDI-INDEX;Human Development Index (HDI);NLD;Netherlands;2011;0.919071
+UNDP-HDI-INDEX;Human Development Index (HDI);NOR;Norway;2011;0.940697
+UNDP-HDI-INDEX;Human Development Index (HDI);NPL;Nepal;2011;0.536229
+UNDP-HDI-INDEX;Human Development Index (HDI);NZL;New Zealand;2011;0.907398
+UNDP-HDI-INDEX;Human Development Index (HDI);OMN;Oman;2011;0.792936
+UNDP-HDI-INDEX;Human Development Index (HDI);PAK;Pakistan;2011;0.526997
+UNDP-HDI-INDEX;Human Development Index (HDI);PAN;Panama;2011;0.758816
+UNDP-HDI-INDEX;Human Development Index (HDI);PER;Peru;2011;0.722412
+UNDP-HDI-INDEX;Human Development Index (HDI);PHL;Philippines;2011;0.652562
+UNDP-HDI-INDEX;Human Development Index (HDI);PLW;Palau;2011;0.770332
+UNDP-HDI-INDEX;Human Development Index (HDI);PNG;Papua New Guinea;2011;0.496875
+UNDP-HDI-INDEX;Human Development Index (HDI);POL;Poland;2011;0.833472
+UNDP-HDI-INDEX;Human Development Index (HDI);PRT;Portugal;2011;0.825132
+UNDP-HDI-INDEX;Human Development Index (HDI);PRY;Paraguay;2011;0.671459
+UNDP-HDI-INDEX;Human Development Index (HDI);PSE;Palestine;2011;0.675008
+UNDP-HDI-INDEX;Human Development Index (HDI);QAT;Qatar;2011;0.840925
+UNDP-HDI-INDEX;Human Development Index (HDI);ROU;Romania;2011;0.785841
+UNDP-HDI-INDEX;Human Development Index (HDI);RUS;Russia;2011;0.789811
+UNDP-HDI-INDEX;Human Development Index (HDI);RWA;Rwanda;2011;0.464289
+UNDP-HDI-INDEX;Human Development Index (HDI);SAU;Saudi Arabia;2011;0.816478
+UNDP-HDI-INDEX;Human Development Index (HDI);SDN;Sudan;2011;0.465926
+UNDP-HDI-INDEX;Human Development Index (HDI);SEN;Senegal;2011;0.458019
+UNDP-HDI-INDEX;Human Development Index (HDI);SGP;Singapore;2011;0.903047
+UNDP-HDI-INDEX;Human Development Index (HDI);SLB;Solomon Islands;2011;0.501475
+UNDP-HDI-INDEX;Human Development Index (HDI);SLE;Sierra Leone;2011;0.394336
+UNDP-HDI-INDEX;Human Development Index (HDI);SLV;El Salvador;2011;0.657555
+UNDP-HDI-INDEX;Human Development Index (HDI);SRB;Serbia;2011;0.761332
+UNDP-HDI-INDEX;Human Development Index (HDI);SSD;South Sudan;2011;0.458424
+UNDP-HDI-INDEX;Human Development Index (HDI);STP;Sao Tome and Principe;2011;0.548183
+UNDP-HDI-INDEX;Human Development Index (HDI);SUR;Suriname;2011;0.709001
+UNDP-HDI-INDEX;Human Development Index (HDI);SVK;Slovakia;2011;0.831645
+UNDP-HDI-INDEX;Human Development Index (HDI);SVN;Slovenia;2011;0.877255
+UNDP-HDI-INDEX;Human Development Index (HDI);SWE;Sweden;2011;0.902599
+UNDP-HDI-INDEX;Human Development Index (HDI);SWZ;Swaziland;2011;0.528089
+UNDP-HDI-INDEX;Human Development Index (HDI);SYC;Seychelles;2011;0.752163
+UNDP-HDI-INDEX;Human Development Index (HDI);SYR;Syrian Arab Republic;2011;0.635451
+UNDP-HDI-INDEX;Human Development Index (HDI);TCD;Chad;2011;0.381653
+UNDP-HDI-INDEX;Human Development Index (HDI);TGO;Togo;2011;0.467554
+UNDP-HDI-INDEX;Human Development Index (HDI);THA;Thailand;2011;0.720889
+UNDP-HDI-INDEX;Human Development Index (HDI);TJK;Tajikistan;2011;0.612321
+UNDP-HDI-INDEX;Human Development Index (HDI);TKM;Turkmenistan;2011;0.671134
+UNDP-HDI-INDEX;Human Development Index (HDI);TLS;Timor-Leste;2011;0.611236
+UNDP-HDI-INDEX;Human Development Index (HDI);TON;Tonga;2011;0.715961
+UNDP-HDI-INDEX;Human Development Index (HDI);TTO;Trinidad and Tobago;2011;0.767343
+UNDP-HDI-INDEX;Human Development Index (HDI);TUN;Tunisia;2011;0.71515
+UNDP-HDI-INDEX;Human Development Index (HDI);TUR;Turkey;2011;0.751308
+UNDP-HDI-INDEX;Human Development Index (HDI);TZA;Tanzania;2011;0.506321
+UNDP-HDI-INDEX;Human Development Index (HDI);UGA;Uganda;2011;0.472984
+UNDP-HDI-INDEX;Human Development Index (HDI);UKR;Ukraine;2011;0.738351
+UNDP-HDI-INDEX;Human Development Index (HDI);URY;Uruguay;2011;0.784089
+UNDP-HDI-INDEX;Human Development Index (HDI);USA;United States of America;2011;0.911121
+UNDP-HDI-INDEX;Human Development Index (HDI);UZB;Uzbekistan;2011;0.660892
+UNDP-HDI-INDEX;Human Development Index (HDI);VCT;Saint Vincent and the Grenadines;2011;0.712801
+UNDP-HDI-INDEX;Human Development Index (HDI);VEN;Venezuela;2011;0.761175
+UNDP-HDI-INDEX;Human Development Index (HDI);VNM;Vietnam;2011;0.656868
+UNDP-HDI-INDEX;Human Development Index (HDI);VUT;Vanuatu;2011;0.590233
+UNDP-HDI-INDEX;Human Development Index (HDI);WSM;Samoa;2011;0.698297
+UNDP-HDI-INDEX;Human Development Index (HDI);YEM;Yemen;2011;0.495062
+UNDP-HDI-INDEX;Human Development Index (HDI);ZAF;South Africa;2011;0.651071
+UNDP-HDI-INDEX;Human Development Index (HDI);ZMB;Zambia;2011;0.56507
+UNDP-HDI-INDEX;Human Development Index (HDI);ZWE;Zimbabwe;2011;0.474469
+UNDP-HDI-INDEX;Human Development Index (HDI);AFG;Afghanistan;2012;0.463019
+UNDP-HDI-INDEX;Human Development Index (HDI);AGO;Angola;2012;0.524199
+UNDP-HDI-INDEX;Human Development Index (HDI);ALB;Albania;2012;0.729434
+UNDP-HDI-INDEX;Human Development Index (HDI);AND;Andorra;2012;0.843578
+UNDP-HDI-INDEX;Human Development Index (HDI);ARE;United Arab Emirates;2012;0.830546
+UNDP-HDI-INDEX;Human Development Index (HDI);ARG;Argentina;2012;0.830566
+UNDP-HDI-INDEX;Human Development Index (HDI);ARM;Armenia;2012;0.727811
+UNDP-HDI-INDEX;Human Development Index (HDI);ATG;Antigua and Barbuda;2012;0.781467
+UNDP-HDI-INDEX;Human Development Index (HDI);AUS;Australia;2012;0.93219
+UNDP-HDI-INDEX;Human Development Index (HDI);AUT;Austria;2012;0.883921
+UNDP-HDI-INDEX;Human Development Index (HDI);AZE;Azerbaijan;2012;0.745053
+UNDP-HDI-INDEX;Human Development Index (HDI);BDI;Burundi;2012;0.394528
+UNDP-HDI-INDEX;Human Development Index (HDI);BEL;Belgium;2012;0.888567
+UNDP-HDI-INDEX;Human Development Index (HDI);BEN;Benin;2012;0.475034
+UNDP-HDI-INDEX;Human Development Index (HDI);BFA;Burkina Faso;2012;0.392513
+UNDP-HDI-INDEX;Human Development Index (HDI);BGD;Bangladesh;2012;0.562883
+UNDP-HDI-INDEX;Human Development Index (HDI);BGR;Bulgaria;2012;0.778056
+UNDP-HDI-INDEX;Human Development Index (HDI);BHR;Bahrain;2012;0.818935
+UNDP-HDI-INDEX;Human Development Index (HDI);BHS;Bahamas;2012;0.782771
+UNDP-HDI-INDEX;Human Development Index (HDI);BIH;Bosnia and Herzegovina;2012;0.725661
+UNDP-HDI-INDEX;Human Development Index (HDI);BLR;Belarus;2012;0.796129
+UNDP-HDI-INDEX;Human Development Index (HDI);BLZ;Belize;2012;0.715874
+UNDP-HDI-INDEX;Human Development Index (HDI);BOL;Bolivia;2012;0.653591
+UNDP-HDI-INDEX;Human Development Index (HDI);BRA;Brazil;2012;0.746488
+UNDP-HDI-INDEX;Human Development Index (HDI);BRB;Barbados;2012;0.793328
+UNDP-HDI-INDEX;Human Development Index (HDI);BRN;Brunei Darussalam;2012;0.852363
+UNDP-HDI-INDEX;Human Development Index (HDI);BTN;Bhutan;2012;0.588663
+UNDP-HDI-INDEX;Human Development Index (HDI);BWA;Botswana;2012;0.69136
+UNDP-HDI-INDEX;Human Development Index (HDI);CAF;Central African Republic;2012;0.372625
+UNDP-HDI-INDEX;Human Development Index (HDI);CAN;Canada;2012;0.910431
+UNDP-HDI-INDEX;Human Development Index (HDI);CHE;Switzerland;2012;0.92696
+UNDP-HDI-INDEX;Human Development Index (HDI);CHL;Chile;2012;0.826742
+UNDP-HDI-INDEX;Human Development Index (HDI);CHN;China;2012;0.718034
+UNDP-HDI-INDEX;Human Development Index (HDI);CIV;Ivory Coast;2012;0.452087
+UNDP-HDI-INDEX;Human Development Index (HDI);CMR;Cameroon;2012;0.500944
+UNDP-HDI-INDEX;Human Development Index (HDI);COD;Democratic Republic of the Congo;2012;0.423436
+UNDP-HDI-INDEX;Human Development Index (HDI);COG;Congo;2012;0.574933
+UNDP-HDI-INDEX;Human Development Index (HDI);COL;Colombia;2012;0.715045
+UNDP-HDI-INDEX;Human Development Index (HDI);COM;Comoros;2012;0.498649
+UNDP-HDI-INDEX;Human Development Index (HDI);CPV;Cape Verde;2012;0.639132
+UNDP-HDI-INDEX;Human Development Index (HDI);CRI;Costa Rica;2012;0.760762
+UNDP-HDI-INDEX;Human Development Index (HDI);CUB;Cuba;2012;0.771743
+UNDP-HDI-INDEX;Human Development Index (HDI);CYP;Cyprus;2012;0.851546
+UNDP-HDI-INDEX;Human Development Index (HDI);CZE;Czech Republic;2012;0.866594
+UNDP-HDI-INDEX;Human Development Index (HDI);DEU;Germany;2012;0.914763
+UNDP-HDI-INDEX;Human Development Index (HDI);DJI;Djibouti;2012;0.464584
+UNDP-HDI-INDEX;Human Development Index (HDI);DMA;Dominica;2012;0.722717
+UNDP-HDI-INDEX;Human Development Index (HDI);DNK;Denmark;2012;0.921084
+UNDP-HDI-INDEX;Human Development Index (HDI);DOM;Dominican Republic;2012;0.707893
+UNDP-HDI-INDEX;Human Development Index (HDI);DZA;Algeria;2012;0.731827
+UNDP-HDI-INDEX;Human Development Index (HDI);ECU;Ecuador;2012;0.726839
+UNDP-HDI-INDEX;Human Development Index (HDI);EGY;Egypt;2012;0.687703
+UNDP-HDI-INDEX;Human Development Index (HDI);ERI;Eritrea;2012;0.389693
+UNDP-HDI-INDEX;Human Development Index (HDI);ESP;Spain;2012;0.873709
+UNDP-HDI-INDEX;Human Development Index (HDI);EST;Estonia;2012;0.854625
+UNDP-HDI-INDEX;Human Development Index (HDI);ETH;Ethiopia;2012;0.429436
+UNDP-HDI-INDEX;Human Development Index (HDI);FIN;Finland;2012;0.881737
+UNDP-HDI-INDEX;Human Development Index (HDI);FJI;Fiji;2012;0.721959
+UNDP-HDI-INDEX;Human Development Index (HDI);FRA;France;2012;0.885878
+UNDP-HDI-INDEX;Human Development Index (HDI);FSM;Micronesia;2012;0.640807
+UNDP-HDI-INDEX;Human Development Index (HDI);GAB;Gabon;2012;0.673211
+UNDP-HDI-INDEX;Human Development Index (HDI);GBR;United Kingdom;2012;0.90139
+UNDP-HDI-INDEX;Human Development Index (HDI);GEO;Georgia;2012;0.747002
+UNDP-HDI-INDEX;Human Development Index (HDI);GHA;Ghana;2012;0.571864
+UNDP-HDI-INDEX;Human Development Index (HDI);GIN;Guinea;2012;0.409345
+UNDP-HDI-INDEX;Human Development Index (HDI);GMB;Gambia;2012;0.440201
+UNDP-HDI-INDEX;Human Development Index (HDI);GNB;Guinea-Bissau;2012;0.416758
+UNDP-HDI-INDEX;Human Development Index (HDI);GNQ;Equatorial Guinea;2012;0.584088
+UNDP-HDI-INDEX;Human Development Index (HDI);GRC;Greece;2012;0.864588
+UNDP-HDI-INDEX;Human Development Index (HDI);GRD;Grenada;2012;0.739579
+UNDP-HDI-INDEX;Human Development Index (HDI);GTM;Guatemala;2012;0.623908
+UNDP-HDI-INDEX;Human Development Index (HDI);GUY;Guyana;2012;0.629327
+UNDP-HDI-INDEX;Human Development Index (HDI);HKG;Hong Kong;2012;0.90559
+UNDP-HDI-INDEX;Human Development Index (HDI);HND;Honduras;2012;0.607094
+UNDP-HDI-INDEX;Human Development Index (HDI);HRV;Croatia;2012;0.816563
+UNDP-HDI-INDEX;Human Development Index (HDI);HTI;Haiti;2012;0.478859
+UNDP-HDI-INDEX;Human Development Index (HDI);HUN;Hungary;2012;0.823268
+UNDP-HDI-INDEX;Human Development Index (HDI);IDN;Indonesia;2012;0.678033
+UNDP-HDI-INDEX;Human Development Index (HDI);IND;India;2012;0.599959
+UNDP-HDI-INDEX;Human Development Index (HDI);IRL;Ireland;2012;0.909851
+UNDP-HDI-INDEX;Human Development Index (HDI);IRN;Iran;2012;0.764364
+UNDP-HDI-INDEX;Human Development Index (HDI);IRQ;Iraq;2012;0.653708
+UNDP-HDI-INDEX;Human Development Index (HDI);ISL;Iceland;2012;0.896946
+UNDP-HDI-INDEX;Human Development Index (HDI);ISR;Israel;2012;0.89027
+UNDP-HDI-INDEX;Human Development Index (HDI);ITA;Italy;2012;0.871708
+UNDP-HDI-INDEX;Human Development Index (HDI);JAM;Jamaica;2012;0.722962
+UNDP-HDI-INDEX;Human Development Index (HDI);JOR;Jordan;2012;0.746172
+UNDP-HDI-INDEX;Human Development Index (HDI);JPN;Japan;2012;0.888041
+UNDP-HDI-INDEX;Human Development Index (HDI);KAZ;Kazakhstan;2012;0.778122
+UNDP-HDI-INDEX;Human Development Index (HDI);KEN;Kenya;2012;0.539314
+UNDP-HDI-INDEX;Human Development Index (HDI);KGZ;Kyrgyzstan;2012;0.645217
+UNDP-HDI-INDEX;Human Development Index (HDI);KHM;Cambodia;2012;0.545975
+UNDP-HDI-INDEX;Human Development Index (HDI);KIR;Kiribati;2012;0.587204
+UNDP-HDI-INDEX;Human Development Index (HDI);KNA;Saint Kitts and Nevis;2012;0.742543
+UNDP-HDI-INDEX;Human Development Index (HDI);KOR;Republic of Korea;2012;0.892832
+UNDP-HDI-INDEX;Human Development Index (HDI);KWT;Kuwait;2012;0.81527
+UNDP-HDI-INDEX;Human Development Index (HDI);LAO;Lao;2012;0.561787
+UNDP-HDI-INDEX;Human Development Index (HDI);LBN;Lebanon;2012;0.760623
+UNDP-HDI-INDEX;Human Development Index (HDI);LBR;Liberia;2012;0.418944
+UNDP-HDI-INDEX;Human Development Index (HDI);LBY;Libya;2012;0.744938
+UNDP-HDI-INDEX;Human Development Index (HDI);LCA;Saint Lucia;2012;0.729599
+UNDP-HDI-INDEX;Human Development Index (HDI);LIE;Liechtenstein;2012;0.906492
+UNDP-HDI-INDEX;Human Development Index (HDI);LKA;Sri Lanka;2012;0.748641
+UNDP-HDI-INDEX;Human Development Index (HDI);LSO;Lesotho;2012;0.484408
+UNDP-HDI-INDEX;Human Development Index (HDI);LTU;Lithuania;2012;0.832975
+UNDP-HDI-INDEX;Human Development Index (HDI);LUX;Luxembourg;2012;0.888447
+UNDP-HDI-INDEX;Human Development Index (HDI);LVA;Latvia;2012;0.812857
+UNDP-HDI-INDEX;Human Development Index (HDI);MAR;Morocco;2012;0.623427
+UNDP-HDI-INDEX;Human Development Index (HDI);MDA;Moldova;2012;0.683157
+UNDP-HDI-INDEX;Human Development Index (HDI);MDG;Madagascar;2012;0.507135
+UNDP-HDI-INDEX;Human Development Index (HDI);MDV;Maldives;2012;0.695311
+UNDP-HDI-INDEX;Human Development Index (HDI);MEX;Mexico;2012;0.754167
+UNDP-HDI-INDEX;Human Development Index (HDI);MKD;Macedonia;2012;0.743004
+UNDP-HDI-INDEX;Human Development Index (HDI);MLI;Mali;2012;0.414384
+UNDP-HDI-INDEX;Human Development Index (HDI);MLT;Malta;2012;0.829676
+UNDP-HDI-INDEX;Human Development Index (HDI);MMR;Myanmar;2012;0.527523
+UNDP-HDI-INDEX;Human Development Index (HDI);MNE;Montenegro;2012;0.798032
+UNDP-HDI-INDEX;Human Development Index (HDI);MNG;Mongolia;2012;0.713926
+UNDP-HDI-INDEX;Human Development Index (HDI);MOZ;Mozambique;2012;0.407982
+UNDP-HDI-INDEX;Human Development Index (HDI);MRT;Mauritania;2012;0.497716
+UNDP-HDI-INDEX;Human Development Index (HDI);MUS;Mauritius;2012;0.772366
+UNDP-HDI-INDEX;Human Development Index (HDI);MWI;Malawi;2012;0.432829
+UNDP-HDI-INDEX;Human Development Index (HDI);MYS;Malaysia;2012;0.77412
+UNDP-HDI-INDEX;Human Development Index (HDI);NAM;Namibia;2012;0.619775
+UNDP-HDI-INDEX;Human Development Index (HDI);NER;Niger;2012;0.342293
+UNDP-HDI-INDEX;Human Development Index (HDI);NGA;Nigeria;2012;0.504699
+UNDP-HDI-INDEX;Human Development Index (HDI);NIC;Nicaragua;2012;0.625457
+UNDP-HDI-INDEX;Human Development Index (HDI);NLD;Netherlands;2012;0.920454
+UNDP-HDI-INDEX;Human Development Index (HDI);NOR;Norway;2012;0.942293
+UNDP-HDI-INDEX;Human Development Index (HDI);NPL;Nepal;2012;0.539963
+UNDP-HDI-INDEX;Human Development Index (HDI);NZL;New Zealand;2012;0.909479
+UNDP-HDI-INDEX;Human Development Index (HDI);OMN;Oman;2012;0.793048
+UNDP-HDI-INDEX;Human Development Index (HDI);PAK;Pakistan;2012;0.532065
+UNDP-HDI-INDEX;Human Development Index (HDI);PAN;Panama;2012;0.77245
+UNDP-HDI-INDEX;Human Development Index (HDI);PER;Peru;2012;0.728052
+UNDP-HDI-INDEX;Human Development Index (HDI);PHL;Philippines;2012;0.657464
+UNDP-HDI-INDEX;Human Development Index (HDI);PLW;Palau;2012;0.775219
+UNDP-HDI-INDEX;Human Development Index (HDI);PNG;Papua New Guinea;2012;0.500658
+UNDP-HDI-INDEX;Human Development Index (HDI);POL;Poland;2012;0.837545
+UNDP-HDI-INDEX;Human Development Index (HDI);PRT;Portugal;2012;0.826513
+UNDP-HDI-INDEX;Human Development Index (HDI);PRY;Paraguay;2012;0.669333
+UNDP-HDI-INDEX;Human Development Index (HDI);PSE;Palestine;2012;0.684519
+UNDP-HDI-INDEX;Human Development Index (HDI);QAT;Qatar;2012;0.847817
+UNDP-HDI-INDEX;Human Development Index (HDI);ROU;Romania;2012;0.787848
+UNDP-HDI-INDEX;Human Development Index (HDI);RUS;Russia;2012;0.794929
+UNDP-HDI-INDEX;Human Development Index (HDI);RWA;Rwanda;2012;0.47556
+UNDP-HDI-INDEX;Human Development Index (HDI);SAU;Saudi Arabia;2012;0.826167
+UNDP-HDI-INDEX;Human Development Index (HDI);SDN;Sudan;2012;0.47594
+UNDP-HDI-INDEX;Human Development Index (HDI);SEN;Senegal;2012;0.460561
+UNDP-HDI-INDEX;Human Development Index (HDI);SGP;Singapore;2012;0.905451
+UNDP-HDI-INDEX;Human Development Index (HDI);SLB;Solomon Islands;2012;0.504029
+UNDP-HDI-INDEX;Human Development Index (HDI);SLE;Sierra Leone;2012;0.39686
+UNDP-HDI-INDEX;Human Development Index (HDI);SLV;El Salvador;2012;0.662375
+UNDP-HDI-INDEX;Human Development Index (HDI);SRB;Serbia;2012;0.761645
+UNDP-HDI-INDEX;Human Development Index (HDI);SSD;South Sudan;2012;0.457194
+UNDP-HDI-INDEX;Human Development Index (HDI);STP;Sao Tome and Principe;2012;0.552167
+UNDP-HDI-INDEX;Human Development Index (HDI);SUR;Suriname;2012;0.710913
+UNDP-HDI-INDEX;Human Development Index (HDI);SVK;Slovakia;2012;0.835893
+UNDP-HDI-INDEX;Human Development Index (HDI);SVN;Slovenia;2012;0.877625
+UNDP-HDI-INDEX;Human Development Index (HDI);SWE;Sweden;2012;0.903746
+UNDP-HDI-INDEX;Human Development Index (HDI);SWZ;Swaziland;2012;0.528936
+UNDP-HDI-INDEX;Human Development Index (HDI);SYC;Seychelles;2012;0.760708
+UNDP-HDI-INDEX;Human Development Index (HDI);SYR;Syrian Arab Republic;2012;0.623098
+UNDP-HDI-INDEX;Human Development Index (HDI);TCD;Chad;2012;0.385718
+UNDP-HDI-INDEX;Human Development Index (HDI);TGO;Togo;2012;0.469767
+UNDP-HDI-INDEX;Human Development Index (HDI);THA;Thailand;2012;0.723498
+UNDP-HDI-INDEX;Human Development Index (HDI);TJK;Tajikistan;2012;0.617036
+UNDP-HDI-INDEX;Human Development Index (HDI);TKM;Turkmenistan;2012;0.677043
+UNDP-HDI-INDEX;Human Development Index (HDI);TLS;Timor-Leste;2012;0.603755
+UNDP-HDI-INDEX;Human Development Index (HDI);TON;Tonga;2012;0.716523
+UNDP-HDI-INDEX;Human Development Index (HDI);TTO;Trinidad and Tobago;2012;0.768916
+UNDP-HDI-INDEX;Human Development Index (HDI);TUN;Tunisia;2012;0.71864
+UNDP-HDI-INDEX;Human Development Index (HDI);TUR;Turkey;2012;0.75628
+UNDP-HDI-INDEX;Human Development Index (HDI);TZA;Tanzania;2012;0.510373
+UNDP-HDI-INDEX;Human Development Index (HDI);UGA;Uganda;2012;0.476009
+UNDP-HDI-INDEX;Human Development Index (HDI);UKR;Ukraine;2012;0.743114
+UNDP-HDI-INDEX;Human Development Index (HDI);URY;Uruguay;2012;0.787632
+UNDP-HDI-INDEX;Human Development Index (HDI);USA;United States of America;2012;0.911534
+UNDP-HDI-INDEX;Human Development Index (HDI);UZB;Uzbekistan;2012;0.66754
+UNDP-HDI-INDEX;Human Development Index (HDI);VCT;Saint Vincent and the Grenadines;2012;0.715145
+UNDP-HDI-INDEX;Human Development Index (HDI);VEN;Venezuela;2012;0.763846
+UNDP-HDI-INDEX;Human Development Index (HDI);VNM;Vietnam;2012;0.660088
+UNDP-HDI-INDEX;Human Development Index (HDI);VUT;Vanuatu;2012;0.59033
+UNDP-HDI-INDEX;Human Development Index (HDI);WSM;Samoa;2012;0.700328
+UNDP-HDI-INDEX;Human Development Index (HDI);YEM;Yemen;2012;0.49588
+UNDP-HDI-INDEX;Human Development Index (HDI);ZAF;South Africa;2012;0.658977
+UNDP-HDI-INDEX;Human Development Index (HDI);ZMB;Zambia;2012;0.575617
+UNDP-HDI-INDEX;Human Development Index (HDI);ZWE;Zimbabwe;2012;0.490567
+UNDP-HDI-INDEX;Human Development Index (HDI);AFG;Afghanistan;2013;0.463923
+UNDP-HDI-INDEX;Human Development Index (HDI);AGO;Angola;2013;0.529679
+UNDP-HDI-INDEX;Human Development Index (HDI);ALB;Albania;2013;0.732245
+UNDP-HDI-INDEX;Human Development Index (HDI);AND;Andorra;2013;0.843505
+UNDP-HDI-INDEX;Human Development Index (HDI);ARE;United Arab Emirates;2013;0.833227
+UNDP-HDI-INDEX;Human Development Index (HDI);ARG;Argentina;2013;0.832773
+UNDP-HDI-INDEX;Human Development Index (HDI);ARM;Armenia;2013;0.730919
+UNDP-HDI-INDEX;Human Development Index (HDI);ATG;Antigua and Barbuda;2013;0.781373
+UNDP-HDI-INDEX;Human Development Index (HDI);AUS;Australia;2013;0.933389
+UNDP-HDI-INDEX;Human Development Index (HDI);AUT;Austria;2013;0.884234
+UNDP-HDI-INDEX;Human Development Index (HDI);AZE;Azerbaijan;2013;0.748918
+UNDP-HDI-INDEX;Human Development Index (HDI);BDI;Burundi;2013;0.397476
+UNDP-HDI-INDEX;Human Development Index (HDI);BEL;Belgium;2013;0.888117
+UNDP-HDI-INDEX;Human Development Index (HDI);BEN;Benin;2013;0.477376
+UNDP-HDI-INDEX;Human Development Index (HDI);BFA;Burkina Faso;2013;0.396162
+UNDP-HDI-INDEX;Human Development Index (HDI);BGD;Bangladesh;2013;0.56671
+UNDP-HDI-INDEX;Human Development Index (HDI);BGR;Bulgaria;2013;0.779238
+UNDP-HDI-INDEX;Human Development Index (HDI);BHR;Bahrain;2013;0.821328
+UNDP-HDI-INDEX;Human Development Index (HDI);BHS;Bahamas;2013;0.78601
+UNDP-HDI-INDEX;Human Development Index (HDI);BIH;Bosnia and Herzegovina;2013;0.729301
+UNDP-HDI-INDEX;Human Development Index (HDI);BLR;Belarus;2013;0.796089
+UNDP-HDI-INDEX;Human Development Index (HDI);BLZ;Belize;2013;0.714505
+UNDP-HDI-INDEX;Human Development Index (HDI);BOL;Bolivia;2013;0.658029
+UNDP-HDI-INDEX;Human Development Index (HDI);BRA;Brazil;2013;0.751501
+UNDP-HDI-INDEX;Human Development Index (HDI);BRB;Barbados;2013;0.785145
+UNDP-HDI-INDEX;Human Development Index (HDI);BRN;Brunei Darussalam;2013;0.85248
+UNDP-HDI-INDEX;Human Development Index (HDI);BTN;Bhutan;2013;0.595084
+UNDP-HDI-INDEX;Human Development Index (HDI);BWA;Botswana;2013;0.69569
+UNDP-HDI-INDEX;Human Development Index (HDI);CAF;Central African Republic;2013;0.347685
+UNDP-HDI-INDEX;Human Development Index (HDI);CAN;Canada;2013;0.912029
+UNDP-HDI-INDEX;Human Development Index (HDI);CHE;Switzerland;2013;0.928312
+UNDP-HDI-INDEX;Human Development Index (HDI);CHL;Chile;2013;0.830018
+UNDP-HDI-INDEX;Human Development Index (HDI);CHN;China;2013;0.723308
+UNDP-HDI-INDEX;Human Development Index (HDI);CIV;Ivory Coast;2013;0.457962
+UNDP-HDI-INDEX;Human Development Index (HDI);CMR;Cameroon;2013;0.50699
+UNDP-HDI-INDEX;Human Development Index (HDI);COD;Democratic Republic of the Congo;2013;0.429572
+UNDP-HDI-INDEX;Human Development Index (HDI);COG;Congo;2013;0.581808
+UNDP-HDI-INDEX;Human Development Index (HDI);COL;Colombia;2013;0.71792
+UNDP-HDI-INDEX;Human Development Index (HDI);COM;Comoros;2013;0.50125
+UNDP-HDI-INDEX;Human Development Index (HDI);CPV;Cape Verde;2013;0.643371
+UNDP-HDI-INDEX;Human Development Index (HDI);CRI;Costa Rica;2013;0.763789
+UNDP-HDI-INDEX;Human Development Index (HDI);CUB;Cuba;2013;0.767926
+UNDP-HDI-INDEX;Human Development Index (HDI);CYP;Cyprus;2013;0.849723
+UNDP-HDI-INDEX;Human Development Index (HDI);CZE;Czech Republic;2013;0.868058
+UNDP-HDI-INDEX;Human Development Index (HDI);DEU;Germany;2013;0.915162
+UNDP-HDI-INDEX;Human Development Index (HDI);DJI;Djibouti;2013;0.467595
+UNDP-HDI-INDEX;Human Development Index (HDI);DMA;Dominica;2013;0.722512
+UNDP-HDI-INDEX;Human Development Index (HDI);DNK;Denmark;2013;0.922809
+UNDP-HDI-INDEX;Human Development Index (HDI);DOM;Dominican Republic;2013;0.710733
+UNDP-HDI-INDEX;Human Development Index (HDI);DZA;Algeria;2013;0.733622
+UNDP-HDI-INDEX;Human Development Index (HDI);ECU;Ecuador;2013;0.729706
+UNDP-HDI-INDEX;Human Development Index (HDI);EGY;Egypt;2013;0.688702
+UNDP-HDI-INDEX;Human Development Index (HDI);ERI;Eritrea;2013;0.390487
+UNDP-HDI-INDEX;Human Development Index (HDI);ESP;Spain;2013;0.874257
+UNDP-HDI-INDEX;Human Development Index (HDI);EST;Estonia;2013;0.858618
+UNDP-HDI-INDEX;Human Development Index (HDI);ETH;Ethiopia;2013;0.43597
+UNDP-HDI-INDEX;Human Development Index (HDI);FIN;Finland;2013;0.882038
+UNDP-HDI-INDEX;Human Development Index (HDI);FJI;Fiji;2013;0.724448
+UNDP-HDI-INDEX;Human Development Index (HDI);FRA;France;2013;0.887026
+UNDP-HDI-INDEX;Human Development Index (HDI);FSM;Micronesia;2013;0.6387
+UNDP-HDI-INDEX;Human Development Index (HDI);GAB;Gabon;2013;0.678956
+UNDP-HDI-INDEX;Human Development Index (HDI);GBR;United Kingdom;2013;0.902098
+UNDP-HDI-INDEX;Human Development Index (HDI);GEO;Georgia;2013;0.750118
+UNDP-HDI-INDEX;Human Development Index (HDI);GHA;Ghana;2013;0.577078
+UNDP-HDI-INDEX;Human Development Index (HDI);GIN;Guinea;2013;0.410924
+UNDP-HDI-INDEX;Human Development Index (HDI);GMB;Gambia;2013;0.441735
+UNDP-HDI-INDEX;Human Development Index (HDI);GNB;Guinea-Bissau;2013;0.418356
+UNDP-HDI-INDEX;Human Development Index (HDI);GNQ;Equatorial Guinea;2013;0.584233
+UNDP-HDI-INDEX;Human Development Index (HDI);GRC;Greece;2013;0.863427
+UNDP-HDI-INDEX;Human Development Index (HDI);GRD;Grenada;2013;0.74177
+UNDP-HDI-INDEX;Human Development Index (HDI);GTM;Guatemala;2013;0.626153
+UNDP-HDI-INDEX;Human Development Index (HDI);GUY;Guyana;2013;0.633607
+UNDP-HDI-INDEX;Human Development Index (HDI);HKG;Hong Kong;2013;0.907799
+UNDP-HDI-INDEX;Human Development Index (HDI);HND;Honduras;2013;0.604257
+UNDP-HDI-INDEX;Human Development Index (HDI);HRV;Croatia;2013;0.817146
+UNDP-HDI-INDEX;Human Development Index (HDI);HTI;Haiti;2013;0.481308
+UNDP-HDI-INDEX;Human Development Index (HDI);HUN;Hungary;2013;0.825371
+UNDP-HDI-INDEX;Human Development Index (HDI);IDN;Indonesia;2013;0.681055
+UNDP-HDI-INDEX;Human Development Index (HDI);IND;India;2013;0.603978
+UNDP-HDI-INDEX;Human Development Index (HDI);IRL;Ireland;2013;0.912306
+UNDP-HDI-INDEX;Human Development Index (HDI);IRN;Iran;2013;0.764138
+UNDP-HDI-INDEX;Human Development Index (HDI);IRQ;Iraq;2013;0.656999
+UNDP-HDI-INDEX;Human Development Index (HDI);ISL;Iceland;2013;0.899399
+UNDP-HDI-INDEX;Human Development Index (HDI);ISR;Israel;2013;0.89258
+UNDP-HDI-INDEX;Human Development Index (HDI);ITA;Italy;2013;0.873189
+UNDP-HDI-INDEX;Human Development Index (HDI);JAM;Jamaica;2013;0.717387
+UNDP-HDI-INDEX;Human Development Index (HDI);JOR;Jordan;2013;0.747518
+UNDP-HDI-INDEX;Human Development Index (HDI);JPN;Japan;2013;0.890096
+UNDP-HDI-INDEX;Human Development Index (HDI);KAZ;Kazakhstan;2013;0.785041
+UNDP-HDI-INDEX;Human Development Index (HDI);KEN;Kenya;2013;0.544349
+UNDP-HDI-INDEX;Human Development Index (HDI);KGZ;Kyrgyzstan;2013;0.652077
+UNDP-HDI-INDEX;Human Development Index (HDI);KHM;Cambodia;2013;0.550245
+UNDP-HDI-INDEX;Human Development Index (HDI);KIR;Kiribati;2013;0.588491
+UNDP-HDI-INDEX;Human Development Index (HDI);KNA;Saint Kitts and Nevis;2013;0.746921
+UNDP-HDI-INDEX;Human Development Index (HDI);KOR;Republic of Korea;2013;0.895384
+UNDP-HDI-INDEX;Human Development Index (HDI);KWT;Kuwait;2013;0.815771
+UNDP-HDI-INDEX;Human Development Index (HDI);LAO;Lao;2013;0.569902
+UNDP-HDI-INDEX;Human Development Index (HDI);LBN;Lebanon;2013;0.767544
+UNDP-HDI-INDEX;Human Development Index (HDI);LBR;Liberia;2013;0.424285
+UNDP-HDI-INDEX;Human Development Index (HDI);LBY;Libya;2013;0.737878
+UNDP-HDI-INDEX;Human Development Index (HDI);LCA;Saint Lucia;2013;0.729407
+UNDP-HDI-INDEX;Human Development Index (HDI);LIE;Liechtenstein;2013;0.906997
+UNDP-HDI-INDEX;Human Development Index (HDI);LKA;Sri Lanka;2013;0.752232
+UNDP-HDI-INDEX;Human Development Index (HDI);LSO;Lesotho;2013;0.493896
+UNDP-HDI-INDEX;Human Development Index (HDI);LTU;Lithuania;2013;0.837134
+UNDP-HDI-INDEX;Human Development Index (HDI);LUX;Luxembourg;2013;0.89007
+UNDP-HDI-INDEX;Human Development Index (HDI);LVA;Latvia;2013;0.815756
+UNDP-HDI-INDEX;Human Development Index (HDI);MAR;Morocco;2013;0.626252
+UNDP-HDI-INDEX;Human Development Index (HDI);MDA;Moldova;2013;0.6898
+UNDP-HDI-INDEX;Human Development Index (HDI);MDG;Madagascar;2013;0.508258
+UNDP-HDI-INDEX;Human Development Index (HDI);MDV;Maldives;2013;0.702883
+UNDP-HDI-INDEX;Human Development Index (HDI);MEX;Mexico;2013;0.754719
+UNDP-HDI-INDEX;Human Development Index (HDI);MKD;Macedonia;2013;0.744475
+UNDP-HDI-INDEX;Human Development Index (HDI);MLI;Mali;2013;0.415801
+UNDP-HDI-INDEX;Human Development Index (HDI);MLT;Malta;2013;0.837045
+UNDP-HDI-INDEX;Human Development Index (HDI);MMR;Myanmar;2013;0.531364
+UNDP-HDI-INDEX;Human Development Index (HDI);MNE;Montenegro;2013;0.800861
+UNDP-HDI-INDEX;Human Development Index (HDI);MNG;Mongolia;2013;0.722148
+UNDP-HDI-INDEX;Human Development Index (HDI);MOZ;Mozambique;2013;0.412549
+UNDP-HDI-INDEX;Human Development Index (HDI);MRT;Mauritania;2013;0.503537
+UNDP-HDI-INDEX;Human Development Index (HDI);MUS;Mauritius;2013;0.774698
+UNDP-HDI-INDEX;Human Development Index (HDI);MWI;Malawi;2013;0.438774
+UNDP-HDI-INDEX;Human Development Index (HDI);MYS;Malaysia;2013;0.776726
+UNDP-HDI-INDEX;Human Development Index (HDI);NAM;Namibia;2013;0.625194
+UNDP-HDI-INDEX;Human Development Index (HDI);NER;Niger;2013;0.344637
+UNDP-HDI-INDEX;Human Development Index (HDI);NGA;Nigeria;2013;0.510492
+UNDP-HDI-INDEX;Human Development Index (HDI);NIC;Nicaragua;2013;0.628391
+UNDP-HDI-INDEX;Human Development Index (HDI);NLD;Netherlands;2013;0.920442
+UNDP-HDI-INDEX;Human Development Index (HDI);NOR;Norway;2013;0.942322
+UNDP-HDI-INDEX;Human Development Index (HDI);NPL;Nepal;2013;0.542909
+UNDP-HDI-INDEX;Human Development Index (HDI);NZL;New Zealand;2013;0.911316
+UNDP-HDI-INDEX;Human Development Index (HDI);OMN;Oman;2013;0.791587
+UNDP-HDI-INDEX;Human Development Index (HDI);PAK;Pakistan;2013;0.535797
+UNDP-HDI-INDEX;Human Development Index (HDI);PAN;Panama;2013;0.776577
+UNDP-HDI-INDEX;Human Development Index (HDI);PER;Peru;2013;0.731923
+UNDP-HDI-INDEX;Human Development Index (HDI);PHL;Philippines;2013;0.663527
+UNDP-HDI-INDEX;Human Development Index (HDI);PLW;Palau;2013;0.775151
+UNDP-HDI-INDEX;Human Development Index (HDI);PNG;Papua New Guinea;2013;0.50278
+UNDP-HDI-INDEX;Human Development Index (HDI);POL;Poland;2013;0.839926
+UNDP-HDI-INDEX;Human Development Index (HDI);PRT;Portugal;2013;0.828075
+UNDP-HDI-INDEX;Human Development Index (HDI);PRY;Paraguay;2013;0.676926
+UNDP-HDI-INDEX;Human Development Index (HDI);PSE;Palestine;2013;0.679245
+UNDP-HDI-INDEX;Human Development Index (HDI);QAT;Qatar;2013;0.848794
+UNDP-HDI-INDEX;Human Development Index (HDI);ROU;Romania;2013;0.790759
+UNDP-HDI-INDEX;Human Development Index (HDI);RUS;Russia;2013;0.797369
+UNDP-HDI-INDEX;Human Development Index (HDI);RWA;Rwanda;2013;0.478596
+UNDP-HDI-INDEX;Human Development Index (HDI);SAU;Saudi Arabia;2013;0.835554
+UNDP-HDI-INDEX;Human Development Index (HDI);SDN;Sudan;2013;0.477371
+UNDP-HDI-INDEX;Human Development Index (HDI);SEN;Senegal;2013;0.463178
+UNDP-HDI-INDEX;Human Development Index (HDI);SGP;Singapore;2013;0.909147
+UNDP-HDI-INDEX;Human Development Index (HDI);SLB;Solomon Islands;2013;0.505274
+UNDP-HDI-INDEX;Human Development Index (HDI);SLE;Sierra Leone;2013;0.40825
+UNDP-HDI-INDEX;Human Development Index (HDI);SLV;El Salvador;2013;0.664275
+UNDP-HDI-INDEX;Human Development Index (HDI);SRB;Serbia;2013;0.770921
+UNDP-HDI-INDEX;Human Development Index (HDI);SSD;South Sudan;2013;0.460615
+UNDP-HDI-INDEX;Human Development Index (HDI);STP;Sao Tome and Principe;2013;0.553309
+UNDP-HDI-INDEX;Human Development Index (HDI);SUR;Suriname;2013;0.712771
+UNDP-HDI-INDEX;Human Development Index (HDI);SVK;Slovakia;2013;0.839492
+UNDP-HDI-INDEX;Human Development Index (HDI);SVN;Slovenia;2013;0.878008
+UNDP-HDI-INDEX;Human Development Index (HDI);SWE;Sweden;2013;0.905172
+UNDP-HDI-INDEX;Human Development Index (HDI);SWZ;Swaziland;2013;0.530196
+UNDP-HDI-INDEX;Human Development Index (HDI);SYC;Seychelles;2013;0.767465
+UNDP-HDI-INDEX;Human Development Index (HDI);SYR;Syrian Arab Republic;2013;0.608009
+UNDP-HDI-INDEX;Human Development Index (HDI);TCD;Chad;2013;0.388489
+UNDP-HDI-INDEX;Human Development Index (HDI);TGO;Togo;2013;0.473311
+UNDP-HDI-INDEX;Human Development Index (HDI);THA;Thailand;2013;0.724367
+UNDP-HDI-INDEX;Human Development Index (HDI);TJK;Tajikistan;2013;0.620982
+UNDP-HDI-INDEX;Human Development Index (HDI);TKM;Turkmenistan;2013;0.682023
+UNDP-HDI-INDEX;Human Development Index (HDI);TLS;Timor-Leste;2013;0.600766
+UNDP-HDI-INDEX;Human Development Index (HDI);TON;Tonga;2013;0.71556
+UNDP-HDI-INDEX;Human Development Index (HDI);TTO;Trinidad and Tobago;2013;0.770545
+UNDP-HDI-INDEX;Human Development Index (HDI);TUN;Tunisia;2013;0.719848
+UNDP-HDI-INDEX;Human Development Index (HDI);TUR;Turkey;2013;0.758958
+UNDP-HDI-INDEX;Human Development Index (HDI);TZA;Tanzania;2013;0.51592
+UNDP-HDI-INDEX;Human Development Index (HDI);UGA;Uganda;2013;0.478428
+UNDP-HDI-INDEX;Human Development Index (HDI);UKR;Ukraine;2013;0.745683
+UNDP-HDI-INDEX;Human Development Index (HDI);URY;Uruguay;2013;0.790285
+UNDP-HDI-INDEX;Human Development Index (HDI);USA;United States of America;2013;0.91314
+UNDP-HDI-INDEX;Human Development Index (HDI);UZB;Uzbekistan;2013;0.672241
+UNDP-HDI-INDEX;Human Development Index (HDI);VCT;Saint Vincent and the Grenadines;2013;0.717367
+UNDP-HDI-INDEX;Human Development Index (HDI);VEN;Venezuela;2013;0.764067
+UNDP-HDI-INDEX;Human Development Index (HDI);VNM;Vietnam;2013;0.662815
+UNDP-HDI-INDEX;Human Development Index (HDI);VUT;Vanuatu;2013;0.592025
+UNDP-HDI-INDEX;Human Development Index (HDI);WSM;Samoa;2013;0.700528
+UNDP-HDI-INDEX;Human Development Index (HDI);YEM;Yemen;2013;0.497847
+UNDP-HDI-INDEX;Human Development Index (HDI);ZAF;South Africa;2013;0.662944
+UNDP-HDI-INDEX;Human Development Index (HDI);ZMB;Zambia;2013;0.580214
+UNDP-HDI-INDEX;Human Development Index (HDI);ZWE;Zimbabwe;2013;0.500782
+UNDP-HDI-INDEX;Human Development Index (HDI);AFG;Afghanistan;2014;0.465264
+UNDP-HDI-INDEX;Human Development Index (HDI);AGO;Angola;2014;0.531591
+UNDP-HDI-INDEX;Human Development Index (HDI);ALB;Albania;2014;0.732766
+UNDP-HDI-INDEX;Human Development Index (HDI);AND;Andorra;2014;0.844642
+UNDP-HDI-INDEX;Human Development Index (HDI);ARE;United Arab Emirates;2014;0.835469
+UNDP-HDI-INDEX;Human Development Index (HDI);ARG;Argentina;2014;0.835572
+UNDP-HDI-INDEX;Human Development Index (HDI);ARM;Armenia;2014;0.732983
+UNDP-HDI-INDEX;Human Development Index (HDI);ATG;Antigua and Barbuda;2014;0.783367
+UNDP-HDI-INDEX;Human Development Index (HDI);AUS;Australia;2014;0.934958
+UNDP-HDI-INDEX;Human Development Index (HDI);AUT;Austria;2014;0.885027
+UNDP-HDI-INDEX;Human Development Index (HDI);AZE;Azerbaijan;2014;0.751139
+UNDP-HDI-INDEX;Human Development Index (HDI);BDI;Burundi;2014;0.399928
+UNDP-HDI-INDEX;Human Development Index (HDI);BEL;Belgium;2014;0.890263
+UNDP-HDI-INDEX;Human Development Index (HDI);BEN;Benin;2014;0.479635
+UNDP-HDI-INDEX;Human Development Index (HDI);BFA;Burkina Faso;2014;0.402288
+UNDP-HDI-INDEX;Human Development Index (HDI);BGD;Bangladesh;2014;0.5701
+UNDP-HDI-INDEX;Human Development Index (HDI);BGR;Bulgaria;2014;0.781675
+UNDP-HDI-INDEX;Human Development Index (HDI);BHR;Bahrain;2014;0.823922
+UNDP-HDI-INDEX;Human Development Index (HDI);BHS;Bahamas;2014;0.789958
+UNDP-HDI-INDEX;Human Development Index (HDI);BIH;Bosnia and Herzegovina;2014;0.73253
+UNDP-HDI-INDEX;Human Development Index (HDI);BLR;Belarus;2014;0.798367
+UNDP-HDI-INDEX;Human Development Index (HDI);BLZ;Belize;2014;0.714982
+UNDP-HDI-INDEX;Human Development Index (HDI);BOL;Bolivia;2014;0.661831
+UNDP-HDI-INDEX;Human Development Index (HDI);BRA;Brazil;2014;0.755292
+UNDP-HDI-INDEX;Human Development Index (HDI);BRB;Barbados;2014;0.785458
+UNDP-HDI-INDEX;Human Development Index (HDI);BRN;Brunei Darussalam;2014;0.855616
+UNDP-HDI-INDEX;Human Development Index (HDI);BTN;Bhutan;2014;0.605185
+UNDP-HDI-INDEX;Human Development Index (HDI);BWA;Botswana;2014;0.697919
+UNDP-HDI-INDEX;Human Development Index (HDI);CAF;Central African Republic;2014;0.350131
+UNDP-HDI-INDEX;Human Development Index (HDI);CAN;Canada;2014;0.913179
+UNDP-HDI-INDEX;Human Development Index (HDI);CHE;Switzerland;2014;0.929613
+UNDP-HDI-INDEX;Human Development Index (HDI);CHL;Chile;2014;0.832178
+UNDP-HDI-INDEX;Human Development Index (HDI);CHN;China;2014;0.727495
+UNDP-HDI-INDEX;Human Development Index (HDI);CIV;Ivory Coast;2014;0.462222
+UNDP-HDI-INDEX;Human Development Index (HDI);CMR;Cameroon;2014;0.511807
+UNDP-HDI-INDEX;Human Development Index (HDI);COD;Democratic Republic of the Congo;2014;0.433135
+UNDP-HDI-INDEX;Human Development Index (HDI);COG;Congo;2014;0.590622
+UNDP-HDI-INDEX;Human Development Index (HDI);COL;Colombia;2014;0.72017
+UNDP-HDI-INDEX;Human Development Index (HDI);COM;Comoros;2014;0.503184
+UNDP-HDI-INDEX;Human Development Index (HDI);CPV;Cape Verde;2014;0.64624
+UNDP-HDI-INDEX;Human Development Index (HDI);CRI;Costa Rica;2014;0.765747
+UNDP-HDI-INDEX;Human Development Index (HDI);CUB;Cuba;2014;0.769011
+UNDP-HDI-INDEX;Human Development Index (HDI);CYP;Cyprus;2014;0.849745
+UNDP-HDI-INDEX;Human Development Index (HDI);CZE;Czech Republic;2014;0.870091
+UNDP-HDI-INDEX;Human Development Index (HDI);DEU;Germany;2014;0.91608
+UNDP-HDI-INDEX;Human Development Index (HDI);DJI;Djibouti;2014;0.470443
+UNDP-HDI-INDEX;Human Development Index (HDI);DMA;Dominica;2014;0.723788
+UNDP-HDI-INDEX;Human Development Index (HDI);DNK;Denmark;2014;0.923328
+UNDP-HDI-INDEX;Human Development Index (HDI);DOM;Dominican Republic;2014;0.715028
+UNDP-HDI-INDEX;Human Development Index (HDI);DZA;Algeria;2014;0.735624
+UNDP-HDI-INDEX;Human Development Index (HDI);ECU;Ecuador;2014;0.731674
+UNDP-HDI-INDEX;Human Development Index (HDI);EGY;Egypt;2014;0.689949
+UNDP-HDI-INDEX;Human Development Index (HDI);ERI;Eritrea;2014;0.390899
+UNDP-HDI-INDEX;Human Development Index (HDI);ESP;Spain;2014;0.876124
+UNDP-HDI-INDEX;Human Development Index (HDI);EST;Estonia;2014;0.860835
+UNDP-HDI-INDEX;Human Development Index (HDI);ETH;Ethiopia;2014;0.441816
+UNDP-HDI-INDEX;Human Development Index (HDI);FIN;Finland;2014;0.882728
+UNDP-HDI-INDEX;Human Development Index (HDI);FJI;Fiji;2014;0.727136
+UNDP-HDI-INDEX;Human Development Index (HDI);FRA;France;2014;0.888107
+UNDP-HDI-INDEX;Human Development Index (HDI);FSM;Micronesia;2014;0.63959
+UNDP-HDI-INDEX;Human Development Index (HDI);GAB;Gabon;2014;0.683513
+UNDP-HDI-INDEX;Human Development Index (HDI);GBR;United Kingdom;2014;0.906698
+UNDP-HDI-INDEX;Human Development Index (HDI);GEO;Georgia;2014;0.754119
+UNDP-HDI-INDEX;Human Development Index (HDI);GHA;Ghana;2014;0.57909
+UNDP-HDI-INDEX;Human Development Index (HDI);GIN;Guinea;2014;0.411282
+UNDP-HDI-INDEX;Human Development Index (HDI);GMB;Gambia;2014;0.440649
+UNDP-HDI-INDEX;Human Development Index (HDI);GNB;Guinea-Bissau;2014;0.419605
+UNDP-HDI-INDEX;Human Development Index (HDI);GNQ;Equatorial Guinea;2014;0.586561
+UNDP-HDI-INDEX;Human Development Index (HDI);GRC;Greece;2014;0.865187
+UNDP-HDI-INDEX;Human Development Index (HDI);GRD;Grenada;2014;0.749993
+UNDP-HDI-INDEX;Human Development Index (HDI);GTM;Guatemala;2014;0.627209
+UNDP-HDI-INDEX;Human Development Index (HDI);GUY;Guyana;2014;0.635716
+UNDP-HDI-INDEX;Human Development Index (HDI);HKG;Hong Kong;2014;0.909952
+UNDP-HDI-INDEX;Human Development Index (HDI);HND;Honduras;2014;0.606055
+UNDP-HDI-INDEX;Human Development Index (HDI);HRV;Croatia;2014;0.81754
+UNDP-HDI-INDEX;Human Development Index (HDI);HTI;Haiti;2014;0.483373
+UNDP-HDI-INDEX;Human Development Index (HDI);HUN;Hungary;2014;0.82835
+UNDP-HDI-INDEX;Human Development Index (HDI);IDN;Indonesia;2014;0.68376
+UNDP-HDI-INDEX;Human Development Index (HDI);IND;India;2014;0.608693
+UNDP-HDI-INDEX;Human Development Index (HDI);IRL;Ireland;2014;0.915542
+UNDP-HDI-INDEX;Human Development Index (HDI);IRN;Iran;2014;0.765591
+UNDP-HDI-INDEX;Human Development Index (HDI);IRQ;Iraq;2014;0.653861
+UNDP-HDI-INDEX;Human Development Index (HDI);ISL;Iceland;2014;0.899412
+UNDP-HDI-INDEX;Human Development Index (HDI);ISR;Israel;2014;0.894273
+UNDP-HDI-INDEX;Human Development Index (HDI);ITA;Italy;2014;0.873023
+UNDP-HDI-INDEX;Human Development Index (HDI);JAM;Jamaica;2014;0.71853
+UNDP-HDI-INDEX;Human Development Index (HDI);JOR;Jordan;2014;0.748329
+UNDP-HDI-INDEX;Human Development Index (HDI);JPN;Japan;2014;0.890593
+UNDP-HDI-INDEX;Human Development Index (HDI);KAZ;Kazakhstan;2014;0.787982
+UNDP-HDI-INDEX;Human Development Index (HDI);KEN;Kenya;2014;0.548409
+UNDP-HDI-INDEX;Human Development Index (HDI);KGZ;Kyrgyzstan;2014;0.655274
+UNDP-HDI-INDEX;Human Development Index (HDI);KHM;Cambodia;2014;0.554758
+UNDP-HDI-INDEX;Human Development Index (HDI);KIR;Kiribati;2014;0.590237
+UNDP-HDI-INDEX;Human Development Index (HDI);KNA;Saint Kitts and Nevis;2014;0.751862
+UNDP-HDI-INDEX;Human Development Index (HDI);KOR;Republic of Korea;2014;0.898334
+UNDP-HDI-INDEX;Human Development Index (HDI);KWT;Kuwait;2014;0.816272
+UNDP-HDI-INDEX;Human Development Index (HDI);LAO;Lao;2014;0.575045
+UNDP-HDI-INDEX;Human Development Index (HDI);LBN;Lebanon;2014;0.768898
+UNDP-HDI-INDEX;Human Development Index (HDI);LBR;Liberia;2014;0.429695
+UNDP-HDI-INDEX;Human Development Index (HDI);LBY;Libya;2014;0.724464
+UNDP-HDI-INDEX;Human Development Index (HDI);LCA;Saint Lucia;2014;0.729056
+UNDP-HDI-INDEX;Human Development Index (HDI);LIE;Liechtenstein;2014;0.907501
+UNDP-HDI-INDEX;Human Development Index (HDI);LKA;Sri Lanka;2014;0.756659
+UNDP-HDI-INDEX;Human Development Index (HDI);LSO;Lesotho;2014;0.496532
+UNDP-HDI-INDEX;Human Development Index (HDI);LTU;Lithuania;2014;0.839422
+UNDP-HDI-INDEX;Human Development Index (HDI);LUX;Luxembourg;2014;0.891852
+UNDP-HDI-INDEX;Human Development Index (HDI);LVA;Latvia;2014;0.818766
+UNDP-HDI-INDEX;Human Development Index (HDI);MAR;Morocco;2014;0.627954
+UNDP-HDI-INDEX;Human Development Index (HDI);MDA;Moldova;2014;0.693303
+UNDP-HDI-INDEX;Human Development Index (HDI);MDG;Madagascar;2014;0.509866
+UNDP-HDI-INDEX;Human Development Index (HDI);MDV;Maldives;2014;0.706365
+UNDP-HDI-INDEX;Human Development Index (HDI);MEX;Mexico;2014;0.756208
+UNDP-HDI-INDEX;Human Development Index (HDI);MKD;Macedonia;2014;0.747253
+UNDP-HDI-INDEX;Human Development Index (HDI);MLI;Mali;2014;0.419289
+UNDP-HDI-INDEX;Human Development Index (HDI);MLT;Malta;2014;0.838978
+UNDP-HDI-INDEX;Human Development Index (HDI);MMR;Myanmar;2014;0.535561
+UNDP-HDI-INDEX;Human Development Index (HDI);MNE;Montenegro;2014;0.802201
+UNDP-HDI-INDEX;Human Development Index (HDI);MNG;Mongolia;2014;0.726621
+UNDP-HDI-INDEX;Human Development Index (HDI);MOZ;Mozambique;2014;0.416428
+UNDP-HDI-INDEX;Human Development Index (HDI);MRT;Mauritania;2014;0.505867
+UNDP-HDI-INDEX;Human Development Index (HDI);MUS;Mauritius;2014;0.776552
+UNDP-HDI-INDEX;Human Development Index (HDI);MWI;Malawi;2014;0.445416
+UNDP-HDI-INDEX;Human Development Index (HDI);MYS;Malaysia;2014;0.779246
+UNDP-HDI-INDEX;Human Development Index (HDI);NAM;Namibia;2014;0.627616
+UNDP-HDI-INDEX;Human Development Index (HDI);NER;Niger;2014;0.348254
+UNDP-HDI-INDEX;Human Development Index (HDI);NGA;Nigeria;2014;0.514024
+UNDP-HDI-INDEX;Human Development Index (HDI);NIC;Nicaragua;2014;0.631432
+UNDP-HDI-INDEX;Human Development Index (HDI);NLD;Netherlands;2014;0.921794
+UNDP-HDI-INDEX;Human Development Index (HDI);NOR;Norway;2014;0.943877
+UNDP-HDI-INDEX;Human Development Index (HDI);NPL;Nepal;2014;0.547537
+UNDP-HDI-INDEX;Human Development Index (HDI);NZL;New Zealand;2014;0.913498
+UNDP-HDI-INDEX;Human Development Index (HDI);OMN;Oman;2014;0.793019
+UNDP-HDI-INDEX;Human Development Index (HDI);PAK;Pakistan;2014;0.538382
+UNDP-HDI-INDEX;Human Development Index (HDI);PAN;Panama;2014;0.779678
+UNDP-HDI-INDEX;Human Development Index (HDI);PER;Peru;2014;0.734203
+UNDP-HDI-INDEX;Human Development Index (HDI);PHL;Philippines;2014;0.668218
+UNDP-HDI-INDEX;Human Development Index (HDI);PLW;Palau;2014;0.780181
+UNDP-HDI-INDEX;Human Development Index (HDI);PNG;Papua New Guinea;2014;0.505259
+UNDP-HDI-INDEX;Human Development Index (HDI);POL;Poland;2014;0.842678
+UNDP-HDI-INDEX;Human Development Index (HDI);PRT;Portugal;2014;0.830095
+UNDP-HDI-INDEX;Human Development Index (HDI);PRY;Paraguay;2014;0.679164
+UNDP-HDI-INDEX;Human Development Index (HDI);PSE;Palestine;2014;0.677493
+UNDP-HDI-INDEX;Human Development Index (HDI);QAT;Qatar;2014;0.849768
+UNDP-HDI-INDEX;Human Development Index (HDI);ROU;Romania;2014;0.792797
+UNDP-HDI-INDEX;Human Development Index (HDI);RUS;Russia;2014;0.79787
+UNDP-HDI-INDEX;Human Development Index (HDI);RWA;Rwanda;2014;0.483241
+UNDP-HDI-INDEX;Human Development Index (HDI);SAU;Saudi Arabia;2014;0.837274
+UNDP-HDI-INDEX;Human Development Index (HDI);SDN;Sudan;2014;0.479113
+UNDP-HDI-INDEX;Human Development Index (HDI);SEN;Senegal;2014;0.465889
+UNDP-HDI-INDEX;Human Development Index (HDI);SGP;Singapore;2014;0.911798
+UNDP-HDI-INDEX;Human Development Index (HDI);SLB;Solomon Islands;2014;0.505637
+UNDP-HDI-INDEX;Human Development Index (HDI);SLE;Sierra Leone;2014;0.412779
+UNDP-HDI-INDEX;Human Development Index (HDI);SLV;El Salvador;2014;0.665784
+UNDP-HDI-INDEX;Human Development Index (HDI);SRB;Serbia;2014;0.77115
+UNDP-HDI-INDEX;Human Development Index (HDI);SSD;South Sudan;2014;0.466699
+UNDP-HDI-INDEX;Human Development Index (HDI);STP;Sao Tome and Principe;2014;0.555004
+UNDP-HDI-INDEX;Human Development Index (HDI);SUR;Suriname;2014;0.714286
+UNDP-HDI-INDEX;Human Development Index (HDI);SVK;Slovakia;2014;0.843572
+UNDP-HDI-INDEX;Human Development Index (HDI);SVN;Slovenia;2014;0.880281
+UNDP-HDI-INDEX;Human Development Index (HDI);SWE;Sweden;2014;0.906816
+UNDP-HDI-INDEX;Human Development Index (HDI);SWZ;Swaziland;2014;0.530633
+UNDP-HDI-INDEX;Human Development Index (HDI);SYC;Seychelles;2014;0.772459
+UNDP-HDI-INDEX;Human Development Index (HDI);SYR;Syrian Arab Republic;2014;0.593721
+UNDP-HDI-INDEX;Human Development Index (HDI);TCD;Chad;2014;0.391906
+UNDP-HDI-INDEX;Human Development Index (HDI);TGO;Togo;2014;0.483538
+UNDP-HDI-INDEX;Human Development Index (HDI);THA;Thailand;2014;0.725836
+UNDP-HDI-INDEX;Human Development Index (HDI);TJK;Tajikistan;2014;0.624456
+UNDP-HDI-INDEX;Human Development Index (HDI);TKM;Turkmenistan;2014;0.687521
+UNDP-HDI-INDEX;Human Development Index (HDI);TLS;Timor-Leste;2014;0.594761
+UNDP-HDI-INDEX;Human Development Index (HDI);TON;Tonga;2014;0.717041
+UNDP-HDI-INDEX;Human Development Index (HDI);TTO;Trinidad and Tobago;2014;0.771894
+UNDP-HDI-INDEX;Human Development Index (HDI);TUN;Tunisia;2014;0.721191
+UNDP-HDI-INDEX;Human Development Index (HDI);TUR;Turkey;2014;0.76112
+UNDP-HDI-INDEX;Human Development Index (HDI);TZA;Tanzania;2014;0.521214
+UNDP-HDI-INDEX;Human Development Index (HDI);UGA;Uganda;2014;0.482672
+UNDP-HDI-INDEX;Human Development Index (HDI);UKR;Ukraine;2014;0.747005
+UNDP-HDI-INDEX;Human Development Index (HDI);URY;Uruguay;2014;0.792763
+UNDP-HDI-INDEX;Human Development Index (HDI);USA;United States of America;2014;0.914959
+UNDP-HDI-INDEX;Human Development Index (HDI);UZB;Uzbekistan;2014;0.675466
+UNDP-HDI-INDEX;Human Development Index (HDI);VCT;Saint Vincent and the Grenadines;2014;0.720035
+UNDP-HDI-INDEX;Human Development Index (HDI);VEN;Venezuela;2014;0.762252
+UNDP-HDI-INDEX;Human Development Index (HDI);VNM;Vietnam;2014;0.665717
+UNDP-HDI-INDEX;Human Development Index (HDI);VUT;Vanuatu;2014;0.593871
+UNDP-HDI-INDEX;Human Development Index (HDI);WSM;Samoa;2014;0.702094
+UNDP-HDI-INDEX;Human Development Index (HDI);YEM;Yemen;2014;0.49811
+UNDP-HDI-INDEX;Human Development Index (HDI);ZAF;South Africa;2014;0.665879
+UNDP-HDI-INDEX;Human Development Index (HDI);ZMB;Zambia;2014;0.58551
+UNDP-HDI-INDEX;Human Development Index (HDI);ZWE;Zimbabwe;2014;0.508747
+UNDP-HDI-INDEX;Human Development Index (HDI);AFG;Afghanistan;2015;0.479
+UNDP-HDI-INDEX;Human Development Index (HDI);AGO;Angola;2015;0.533
+UNDP-HDI-INDEX;Human Development Index (HDI);ALB;Albania;2015;0.764
+UNDP-HDI-INDEX;Human Development Index (HDI);AND;Andorra;2015;0.858
+UNDP-HDI-INDEX;Human Development Index (HDI);ARE;United Arab Emirates;2015;0.84
+UNDP-HDI-INDEX;Human Development Index (HDI);ARG;Argentina;2015;0.827
+UNDP-HDI-INDEX;Human Development Index (HDI);ARM;Armenia;2015;0.743
+UNDP-HDI-INDEX;Human Development Index (HDI);ATG;Antigua and Barbuda;2015;0.786
+UNDP-HDI-INDEX;Human Development Index (HDI);AUS;Australia;2015;0.939
+UNDP-HDI-INDEX;Human Development Index (HDI);AUT;Austria;2015;0.893
+UNDP-HDI-INDEX;Human Development Index (HDI);AZE;Azerbaijan;2015;0.759
+UNDP-HDI-INDEX;Human Development Index (HDI);BDI;Burundi;2015;0.404
+UNDP-HDI-INDEX;Human Development Index (HDI);BEL;Belgium;2015;0.896
+UNDP-HDI-INDEX;Human Development Index (HDI);BEN;Benin;2015;0.485
+UNDP-HDI-INDEX;Human Development Index (HDI);BFA;Burkina Faso;2015;0.402
+UNDP-HDI-INDEX;Human Development Index (HDI);BGD;Bangladesh;2015;0.579
+UNDP-HDI-INDEX;Human Development Index (HDI);BGR;Bulgaria;2015;0.794
+UNDP-HDI-INDEX;Human Development Index (HDI);BHR;Bahrain;2015;0.824
+UNDP-HDI-INDEX;Human Development Index (HDI);BHS;Bahamas;2015;0.792
+UNDP-HDI-INDEX;Human Development Index (HDI);BIH;Bosnia and Herzegovina;2015;0.75
+UNDP-HDI-INDEX;Human Development Index (HDI);BLR;Belarus;2015;0.796
+UNDP-HDI-INDEX;Human Development Index (HDI);BLZ;Belize;2015;0.706
+UNDP-HDI-INDEX;Human Development Index (HDI);BOL;Bolivia;2015;0.674
+UNDP-HDI-INDEX;Human Development Index (HDI);BRA;Brazil;2015;0.754
+UNDP-HDI-INDEX;Human Development Index (HDI);BRB;Barbados;2015;0.795
+UNDP-HDI-INDEX;Human Development Index (HDI);BRN;Brunei Darussalam;2015;0.865
+UNDP-HDI-INDEX;Human Development Index (HDI);BTN;Bhutan;2015;0.607
+UNDP-HDI-INDEX;Human Development Index (HDI);BWA;Botswana;2015;0.698
+UNDP-HDI-INDEX;Human Development Index (HDI);CAF;Central African Republic;2015;0.352
+UNDP-HDI-INDEX;Human Development Index (HDI);CAN;Canada;2015;0.92
+UNDP-HDI-INDEX;Human Development Index (HDI);CHE;Switzerland;2015;0.939
+UNDP-HDI-INDEX;Human Development Index (HDI);CHL;Chile;2015;0.847
+UNDP-HDI-INDEX;Human Development Index (HDI);CHN;China;2015;0.738
+UNDP-HDI-INDEX;Human Development Index (HDI);CIV;Ivory Coast;2015;0.474
+UNDP-HDI-INDEX;Human Development Index (HDI);CMR;Cameroon;2015;0.518
+UNDP-HDI-INDEX;Human Development Index (HDI);COG;Congo;2015;0.435
+UNDP-HDI-INDEX;Human Development Index (HDI);COG;Congo;2015;0.592
+UNDP-HDI-INDEX;Human Development Index (HDI);COL;Colombia;2015;0.727
+UNDP-HDI-INDEX;Human Development Index (HDI);COM;Comoros;2015;0.498
+UNDP-HDI-INDEX;Human Development Index (HDI);CPV;Cape Verde;2015;0.648
+UNDP-HDI-INDEX;Human Development Index (HDI);CRI;Costa Rica;2015;0.776
+UNDP-HDI-INDEX;Human Development Index (HDI);CUB;Cuba;2015;0.775
+UNDP-HDI-INDEX;Human Development Index (HDI);CYP;Cyprus;2015;0.856
+UNDP-HDI-INDEX;Human Development Index (HDI);CZE;Czech Republic;2015;0.878
+UNDP-HDI-INDEX;Human Development Index (HDI);DEU;Germany;2015;0.926
+UNDP-HDI-INDEX;Human Development Index (HDI);DJI;Djibouti;2015;0.473
+UNDP-HDI-INDEX;Human Development Index (HDI);DMA;Dominica;2015;0.726
+UNDP-HDI-INDEX;Human Development Index (HDI);DNK;Denmark;2015;0.925
+UNDP-HDI-INDEX;Human Development Index (HDI);DOM;Dominican Republic;2015;0.722
+UNDP-HDI-INDEX;Human Development Index (HDI);DZA;Algeria;2015;0.745
+UNDP-HDI-INDEX;Human Development Index (HDI);ECU;Ecuador;2015;0.739
+UNDP-HDI-INDEX;Human Development Index (HDI);EGY;Egypt;2015;0.691
+UNDP-HDI-INDEX;Human Development Index (HDI);ERI;Eritrea;2015;0.42
+UNDP-HDI-INDEX;Human Development Index (HDI);ESP;Spain;2015;0.884
+UNDP-HDI-INDEX;Human Development Index (HDI);EST;Estonia;2015;0.865
+UNDP-HDI-INDEX;Human Development Index (HDI);ETH;Ethiopia;2015;0.448
+UNDP-HDI-INDEX;Human Development Index (HDI);FIN;Finland;2015;0.895
+UNDP-HDI-INDEX;Human Development Index (HDI);FJI;Fiji;2015;0.736
+UNDP-HDI-INDEX;Human Development Index (HDI);FRA;France;2015;0.897
+UNDP-HDI-INDEX;Human Development Index (HDI);FSM;Micronesia;2015;0.638
+UNDP-HDI-INDEX;Human Development Index (HDI);GAB;Gabon;2015;0.697
+UNDP-HDI-INDEX;Human Development Index (HDI);GBR;United Kingdom;2015;0.91
+UNDP-HDI-INDEX;Human Development Index (HDI);GEO;Georgia;2015;0.769
+UNDP-HDI-INDEX;Human Development Index (HDI);GHA;Ghana;2015;0.579
+UNDP-HDI-INDEX;Human Development Index (HDI);GIN;Guinea;2015;0.414
+UNDP-HDI-INDEX;Human Development Index (HDI);GMB;Gambia;2015;0.452
+UNDP-HDI-INDEX;Human Development Index (HDI);GNB;Guinea-Bissau;2015;0.424
+UNDP-HDI-INDEX;Human Development Index (HDI);GNQ;Equatorial Guinea;2015;0.592
+UNDP-HDI-INDEX;Human Development Index (HDI);GRC;Greece;2015;0.866
+UNDP-HDI-INDEX;Human Development Index (HDI);GRD;Grenada;2015;0.754
+UNDP-HDI-INDEX;Human Development Index (HDI);GTM;Guatemala;2015;0.64
+UNDP-HDI-INDEX;Human Development Index (HDI);GUY;Guyana;2015;0.638
+UNDP-HDI-INDEX;Human Development Index (HDI);HKG;Hong Kong;2015;0.917
+UNDP-HDI-INDEX;Human Development Index (HDI);HND;Honduras;2015;0.625
+UNDP-HDI-INDEX;Human Development Index (HDI);HRV;Croatia;2015;0.827
+UNDP-HDI-INDEX;Human Development Index (HDI);HTI;Haiti;2015;0.493
+UNDP-HDI-INDEX;Human Development Index (HDI);HUN;Hungary;2015;0.836
+UNDP-HDI-INDEX;Human Development Index (HDI);IDN;Indonesia;2015;0.689
+UNDP-HDI-INDEX;Human Development Index (HDI);IND;India;2015;0.624
+UNDP-HDI-INDEX;Human Development Index (HDI);IRL;Ireland;2015;0.923
+UNDP-HDI-INDEX;Human Development Index (HDI);IRN;Iran;2015;0.774
+UNDP-HDI-INDEX;Human Development Index (HDI);IRQ;Iraq;2015;0.649
+UNDP-HDI-INDEX;Human Development Index (HDI);ISL;Iceland;2015;0.921
+UNDP-HDI-INDEX;Human Development Index (HDI);ISR;Israel;2015;0.899
+UNDP-HDI-INDEX;Human Development Index (HDI);ITA;Italy;2015;0.887
+UNDP-HDI-INDEX;Human Development Index (HDI);JAM;Jamaica;2015;0.73
+UNDP-HDI-INDEX;Human Development Index (HDI);JOR;Jordan;2015;0.742
+UNDP-HDI-INDEX;Human Development Index (HDI);JPN;Japan;2015;0.903
+UNDP-HDI-INDEX;Human Development Index (HDI);KAZ;Kazakhstan;2015;0.794
+UNDP-HDI-INDEX;Human Development Index (HDI);KEN;Kenya;2015;0.555
+UNDP-HDI-INDEX;Human Development Index (HDI);KGZ;Kyrgyzstan;2015;0.664
+UNDP-HDI-INDEX;Human Development Index (HDI);KHM;Cambodia;2015;0.563
+UNDP-HDI-INDEX;Human Development Index (HDI);KIR;Kiribati;2015;0.588
+UNDP-HDI-INDEX;Human Development Index (HDI);KNA;Saint Kitts and Nevis;2015;0.765
+UNDP-HDI-INDEX;Human Development Index (HDI);KWT;Kuwait;2015;0.8
+UNDP-HDI-INDEX;Human Development Index (HDI);LAO;Lao;2015;0.586
+UNDP-HDI-INDEX;Human Development Index (HDI);LBN;Lebanon;2015;0.763
+UNDP-HDI-INDEX;Human Development Index (HDI);LBR;Liberia;2015;0.427
+UNDP-HDI-INDEX;Human Development Index (HDI);LBY;Libya;2015;0.716
+UNDP-HDI-INDEX;Human Development Index (HDI);LCA;Saint Lucia;2015;0.735
+UNDP-HDI-INDEX;Human Development Index (HDI);LIE;Liechtenstein;2015;0.912
+UNDP-HDI-INDEX;Human Development Index (HDI);LKA;Sri Lanka;2015;0.766
+UNDP-HDI-INDEX;Human Development Index (HDI);LSO;Lesotho;2015;0.497
+UNDP-HDI-INDEX;Human Development Index (HDI);LTU;Lithuania;2015;0.848
+UNDP-HDI-INDEX;Human Development Index (HDI);LUX;Luxembourg;2015;0.898
+UNDP-HDI-INDEX;Human Development Index (HDI);LVA;Latvia;2015;0.83
+UNDP-HDI-INDEX;Human Development Index (HDI);MAR;Morocco;2015;0.647
+UNDP-HDI-INDEX;Human Development Index (HDI);MDA;Moldova;2015;0.699
+UNDP-HDI-INDEX;Human Development Index (HDI);MDG;Madagascar;2015;0.512
+UNDP-HDI-INDEX;Human Development Index (HDI);MDV;Maldives;2015;0.701
+UNDP-HDI-INDEX;Human Development Index (HDI);MEX;Mexico;2015;0.762
+UNDP-HDI-INDEX;Human Development Index (HDI);MKD;Macedonia;2015;0.748
+UNDP-HDI-INDEX;Human Development Index (HDI);MLI;Mali;2015;0.442
+UNDP-HDI-INDEX;Human Development Index (HDI);MLT;Malta;2015;0.856
+UNDP-HDI-INDEX;Human Development Index (HDI);MMR;Myanmar;2015;0.556
+UNDP-HDI-INDEX;Human Development Index (HDI);MNE;Montenegro;2015;0.807
+UNDP-HDI-INDEX;Human Development Index (HDI);MNG;Mongolia;2015;0.735
+UNDP-HDI-INDEX;Human Development Index (HDI);MOZ;Mozambique;2015;0.418
+UNDP-HDI-INDEX;Human Development Index (HDI);MRT;Mauritania;2015;0.513
+UNDP-HDI-INDEX;Human Development Index (HDI);MUS;Mauritius;2015;0.781
+UNDP-HDI-INDEX;Human Development Index (HDI);MWI;Malawi;2015;0.476
+UNDP-HDI-INDEX;Human Development Index (HDI);MYS;Malaysia;2015;0.789
+UNDP-HDI-INDEX;Human Development Index (HDI);NAM;Namibia;2015;0.64
+UNDP-HDI-INDEX;Human Development Index (HDI);NER;Niger;2015;0.353
+UNDP-HDI-INDEX;Human Development Index (HDI);NGA;Nigeria;2015;0.527
+UNDP-HDI-INDEX;Human Development Index (HDI);NIC;Nicaragua;2015;0.645
+UNDP-HDI-INDEX;Human Development Index (HDI);NLD;Netherlands;2015;0.924
+UNDP-HDI-INDEX;Human Development Index (HDI);NOR;Norway;2015;0.949
+UNDP-HDI-INDEX;Human Development Index (HDI);NPL;Nepal;2015;0.558
+UNDP-HDI-INDEX;Human Development Index (HDI);NZL;New Zealand;2015;0.915
+UNDP-HDI-INDEX;Human Development Index (HDI);OMN;Oman;2015;0.796
+UNDP-HDI-INDEX;Human Development Index (HDI);PAK;Pakistan;2015;0.55
+UNDP-HDI-INDEX;Human Development Index (HDI);PAN;Panama;2015;0.788
+UNDP-HDI-INDEX;Human Development Index (HDI);PER;Peru;2015;0.74
+UNDP-HDI-INDEX;Human Development Index (HDI);PHL;Philippines;2015;0.682
+UNDP-HDI-INDEX;Human Development Index (HDI);PLW;Palau;2015;0.788
+UNDP-HDI-INDEX;Human Development Index (HDI);PNG;Papua New Guinea;2015;0.516
+UNDP-HDI-INDEX;Human Development Index (HDI);POL;Poland;2015;0.855
+UNDP-HDI-INDEX;Human Development Index (HDI);PRK;Democratic People's Republic of Korea;2015;0.901
+UNDP-HDI-INDEX;Human Development Index (HDI);PRT;Portugal;2015;0.843
+UNDP-HDI-INDEX;Human Development Index (HDI);PRY;Paraguay;2015;0.693
+UNDP-HDI-INDEX;Human Development Index (HDI);PSE;Palestine;2015;0.684
+UNDP-HDI-INDEX;Human Development Index (HDI);QAT;Qatar;2015;0.856
+UNDP-HDI-INDEX;Human Development Index (HDI);ROU;Romania;2015;0.802
+UNDP-HDI-INDEX;Human Development Index (HDI);RUS;Russia;2015;0.804
+UNDP-HDI-INDEX;Human Development Index (HDI);RWA;Rwanda;2015;0.498
+UNDP-HDI-INDEX;Human Development Index (HDI);SAU;Saudi Arabia;2015;0.847
+UNDP-HDI-INDEX;Human Development Index (HDI);SDN;Sudan;2015;0.49
+UNDP-HDI-INDEX;Human Development Index (HDI);SEN;Senegal;2015;0.494
+UNDP-HDI-INDEX;Human Development Index (HDI);SGP;Singapore;2015;0.925
+UNDP-HDI-INDEX;Human Development Index (HDI);SLB;Solomon Islands;2015;0.515
+UNDP-HDI-INDEX;Human Development Index (HDI);SLE;Sierra Leone;2015;0.42
+UNDP-HDI-INDEX;Human Development Index (HDI);SLV;El Salvador;2015;0.68
+UNDP-HDI-INDEX;Human Development Index (HDI);SRB;Serbia;2015;0.776
+UNDP-HDI-INDEX;Human Development Index (HDI);SSD;South Sudan;2015;0.418
+UNDP-HDI-INDEX;Human Development Index (HDI);STP;Sao Tome and Principe;2015;0.574
+UNDP-HDI-INDEX;Human Development Index (HDI);SUR;Suriname;2015;0.725
+UNDP-HDI-INDEX;Human Development Index (HDI);SVK;Slovakia;2015;0.845
+UNDP-HDI-INDEX;Human Development Index (HDI);SVN;Slovenia;2015;0.89
+UNDP-HDI-INDEX;Human Development Index (HDI);SWE;Sweden;2015;0.913
+UNDP-HDI-INDEX;Human Development Index (HDI);SWZ;Swaziland;2015;0.541
+UNDP-HDI-INDEX;Human Development Index (HDI);SYC;Seychelles;2015;0.782
+UNDP-HDI-INDEX;Human Development Index (HDI);SYR;Syrian Arab Republic;2015;0.536
+UNDP-HDI-INDEX;Human Development Index (HDI);TCD;Chad;2015;0.396
+UNDP-HDI-INDEX;Human Development Index (HDI);TGO;Togo;2015;0.487
+UNDP-HDI-INDEX;Human Development Index (HDI);THA;Thailand;2015;0.74
+UNDP-HDI-INDEX;Human Development Index (HDI);TJK;Tajikistan;2015;0.627
+UNDP-HDI-INDEX;Human Development Index (HDI);TKM;Turkmenistan;2015;0.692
+UNDP-HDI-INDEX;Human Development Index (HDI);TLS;Timor-Leste;2015;0.606
+UNDP-HDI-INDEX;Human Development Index (HDI);TON;Tonga;2015;0.721
+UNDP-HDI-INDEX;Human Development Index (HDI);TTO;Trinidad and Tobago;2015;0.78
+UNDP-HDI-INDEX;Human Development Index (HDI);TUN;Tunisia;2015;0.725
+UNDP-HDI-INDEX;Human Development Index (HDI);TUR;Turkey;2015;0.767
+UNDP-HDI-INDEX;Human Development Index (HDI);TZA;Tanzania;2015;0.531
+UNDP-HDI-INDEX;Human Development Index (HDI);UGA;Uganda;2015;0.493
+UNDP-HDI-INDEX;Human Development Index (HDI);UKR;Ukraine;2015;0.743
+UNDP-HDI-INDEX;Human Development Index (HDI);URY;Uruguay;2015;0.795
+UNDP-HDI-INDEX;Human Development Index (HDI);USA;United States of America;2015;0.92
+UNDP-HDI-INDEX;Human Development Index (HDI);UZB;Uzbekistan;2015;0.701
+UNDP-HDI-INDEX;Human Development Index (HDI);VCT;Saint Vincent and the Grenadines;2015;0.722
+UNDP-HDI-INDEX;Human Development Index (HDI);VEN;Venezuela;2015;0.767
+UNDP-HDI-INDEX;Human Development Index (HDI);VNM;Vietnam;2015;0.683
+UNDP-HDI-INDEX;Human Development Index (HDI);VUT;Vanuatu;2015;0.597
+UNDP-HDI-INDEX;Human Development Index (HDI);WSM;Samoa;2015;0.704
+UNDP-HDI-INDEX;Human Development Index (HDI);YEM;Yemen;2015;0.482
+UNDP-HDI-INDEX;Human Development Index (HDI);ZAF;South Africa;2015;0.666
+UNDP-HDI-INDEX;Human Development Index (HDI);ZMB;Zambia;2015;0.579
+UNDP-HDI-INDEX;Human Development Index (HDI);ZWE;Zimbabwe;2015;0.516
+UNDP-HDI-INDEX;Human Development Index (HDI);AFG;Afghanistan;2016;0.494
+UNDP-HDI-INDEX;Human Development Index (HDI);AGO;Angola;2016;0.577
+UNDP-HDI-INDEX;Human Development Index (HDI);ALB;Albania;2016;0.782
+UNDP-HDI-INDEX;Human Development Index (HDI);AND;Andorra;2016;0.856
+UNDP-HDI-INDEX;Human Development Index (HDI);ARE;United Arab Emirates;2016;0.862
+UNDP-HDI-INDEX;Human Development Index (HDI);ARG;Argentina;2016;0.822
+UNDP-HDI-INDEX;Human Development Index (HDI);ARM;Armenia;2016;0.749
+UNDP-HDI-INDEX;Human Development Index (HDI);ATG;Antigua and Barbuda;2016;0.778
+UNDP-HDI-INDEX;Human Development Index (HDI);AUS;Australia;2016;0.938
+UNDP-HDI-INDEX;Human Development Index (HDI);AUT;Austria;2016;0.906
+UNDP-HDI-INDEX;Human Development Index (HDI);AZE;Azerbaijan;2016;0.757
+UNDP-HDI-INDEX;Human Development Index (HDI);BDI;Burundi;2016;0.418
+UNDP-HDI-INDEX;Human Development Index (HDI);BEL;Belgium;2016;0.915
+UNDP-HDI-INDEX;Human Development Index (HDI);BEN;Benin;2016;0.512
+UNDP-HDI-INDEX;Human Development Index (HDI);BFA;Burkina Faso;2016;0.42
+UNDP-HDI-INDEX;Human Development Index (HDI);BGD;Bangladesh;2016;0.597
+UNDP-HDI-INDEX;Human Development Index (HDI);BGR;Bulgaria;2016;0.81
+UNDP-HDI-INDEX;Human Development Index (HDI);BHR;Bahrain;2016;0.846
+UNDP-HDI-INDEX;Human Development Index (HDI);BHS;Bahamas;2016;0.806
+UNDP-HDI-INDEX;Human Development Index (HDI);BIH;Bosnia and Herzegovina;2016;0.766
+UNDP-HDI-INDEX;Human Development Index (HDI);BLR;Belarus;2016;0.805
+UNDP-HDI-INDEX;Human Development Index (HDI);BLZ;Belize;2016;0.709
+UNDP-HDI-INDEX;Human Development Index (HDI);BOL;Bolivia;2016;0.689
+UNDP-HDI-INDEX;Human Development Index (HDI);BRA;Brazil;2016;0.758
+UNDP-HDI-INDEX;Human Development Index (HDI);BRB;Barbados;2016;0.799
+UNDP-HDI-INDEX;Human Development Index (HDI);BRN;Brunei Darussalam;2016;0.852
+UNDP-HDI-INDEX;Human Development Index (HDI);BTN;Bhutan;2016;0.609
+UNDP-HDI-INDEX;Human Development Index (HDI);BWA;Botswana;2016;0.712
+UNDP-HDI-INDEX;Human Development Index (HDI);CAF;Central African Republic;2016;0.362
+UNDP-HDI-INDEX;Human Development Index (HDI);CAN;Canada;2016;0.922
+UNDP-HDI-INDEX;Human Development Index (HDI);CHE;Switzerland;2016;0.943
+UNDP-HDI-INDEX;Human Development Index (HDI);CHL;Chile;2016;0.842
+UNDP-HDI-INDEX;Human Development Index (HDI);CHN;China;2016;0.748
+UNDP-HDI-INDEX;Human Development Index (HDI);CIV;Ivory Coast;2016;0.486
+UNDP-HDI-INDEX;Human Development Index (HDI);CMR;Cameroon;2016;0.553
+UNDP-HDI-INDEX;Human Development Index (HDI);COD;Democratic Republic of the Congo;2016;0.452
+UNDP-HDI-INDEX;Human Development Index (HDI);COG;Congo;2016;0.612
+UNDP-HDI-INDEX;Human Development Index (HDI);COL;Colombia;2016;0.747
+UNDP-HDI-INDEX;Human Development Index (HDI);COM;Comoros;2016;0.502
+UNDP-HDI-INDEX;Human Development Index (HDI);CPV;Cape Verde;2016;0.652
+UNDP-HDI-INDEX;Human Development Index (HDI);CRI;Costa Rica;2016;0.791
+UNDP-HDI-INDEX;Human Development Index (HDI);CUB;Cuba;2016;0.774
+UNDP-HDI-INDEX;Human Development Index (HDI);CYP;Cyprus;2016;0.867
+UNDP-HDI-INDEX;Human Development Index (HDI);CZE;Czech Republic;2016;0.885
+UNDP-HDI-INDEX;Human Development Index (HDI);DEU;Germany;2016;0.934
+UNDP-HDI-INDEX;Human Development Index (HDI);DJI;Djibouti;2016;0.474
+UNDP-HDI-INDEX;Human Development Index (HDI);DMA;Dominica;2016;0.718
+UNDP-HDI-INDEX;Human Development Index (HDI);DNK;Denmark;2016;0.928
+UNDP-HDI-INDEX;Human Development Index (HDI);DOM;Dominican Republic;2016;0.733
+UNDP-HDI-INDEX;Human Development Index (HDI);DZA;Algeria;2016;0.752
+UNDP-HDI-INDEX;Human Development Index (HDI);ECU;Ecuador;2016;0.749
+UNDP-HDI-INDEX;Human Development Index (HDI);EGY;Egypt;2016;0.694
+UNDP-HDI-INDEX;Human Development Index (HDI);ERI;Eritrea;2016;0.436
+UNDP-HDI-INDEX;Human Development Index (HDI);ESP;Spain;2016;0.889
+UNDP-HDI-INDEX;Human Development Index (HDI);EST;Estonia;2016;0.868
+UNDP-HDI-INDEX;Human Development Index (HDI);ETH;Ethiopia;2016;0.457
+UNDP-HDI-INDEX;Human Development Index (HDI);FIN;Finland;2016;0.918
+UNDP-HDI-INDEX;Human Development Index (HDI);FJI;Fiji;2016;0.738
+UNDP-HDI-INDEX;Human Development Index (HDI);FRA;France;2016;0.899
+UNDP-HDI-INDEX;Human Development Index (HDI);FSM;Micronesia;2016;0.627
+UNDP-HDI-INDEX;Human Development Index (HDI);GAB;Gabon;2016;0.698
+UNDP-HDI-INDEX;Human Development Index (HDI);GBR;United Kingdom;2016;0.92
+UNDP-HDI-INDEX;Human Development Index (HDI);GEO;Georgia;2016;0.776
+UNDP-HDI-INDEX;Human Development Index (HDI);GHA;Ghana;2016;0.588
+UNDP-HDI-INDEX;Human Development Index (HDI);GIN;Guinea;2016;0.449
+UNDP-HDI-INDEX;Human Development Index (HDI);GMB;Gambia;2016;0.457
+UNDP-HDI-INDEX;Human Development Index (HDI);GNB;Guinea-Bissau;2016;0.453
+UNDP-HDI-INDEX;Human Development Index (HDI);GNQ;Equatorial Guinea;2016;0.592
+UNDP-HDI-INDEX;Human Development Index (HDI);GRC;Greece;2016;0.868
+UNDP-HDI-INDEX;Human Development Index (HDI);GRD;Grenada;2016;0.77
+UNDP-HDI-INDEX;Human Development Index (HDI);GTM;Guatemala;2016;0.649
+UNDP-HDI-INDEX;Human Development Index (HDI);GUY;Guyana;2016;0.652
+UNDP-HDI-INDEX;Human Development Index (HDI);HKG;Hong Kong;2016;0.93
+UNDP-HDI-INDEX;Human Development Index (HDI);HND;Honduras;2016;0.614
+UNDP-HDI-INDEX;Human Development Index (HDI);HRV;Croatia;2016;0.828
+UNDP-HDI-INDEX;Human Development Index (HDI);HTI;Haiti;2016;0.496
+UNDP-HDI-INDEX;Human Development Index (HDI);HUN;Hungary;2016;0.835
+UNDP-HDI-INDEX;Human Development Index (HDI);IDN;Indonesia;2016;0.691
+UNDP-HDI-INDEX;Human Development Index (HDI);IND;India;2016;0.636
+UNDP-HDI-INDEX;Human Development Index (HDI);IRL;Ireland;2016;0.934
+UNDP-HDI-INDEX;Human Development Index (HDI);IRN;Iran;2016;0.796
+UNDP-HDI-INDEX;Human Development Index (HDI);IRQ;Iraq;2016;0.672
+UNDP-HDI-INDEX;Human Development Index (HDI);ISL;Iceland;2016;0.933
+UNDP-HDI-INDEX;Human Development Index (HDI);ISR;Israel;2016;0.902
+UNDP-HDI-INDEX;Human Development Index (HDI);ITA;Italy;2016;0.878
+UNDP-HDI-INDEX;Human Development Index (HDI);JAM;Jamaica;2016;0.732
+UNDP-HDI-INDEX;Human Development Index (HDI);JOR;Jordan;2016;0.735
+UNDP-HDI-INDEX;Human Development Index (HDI);JPN;Japan;2016;0.907
+UNDP-HDI-INDEX;Human Development Index (HDI);KAZ;Kazakhstan;2016;0.797
+UNDP-HDI-INDEX;Human Development Index (HDI);KEN;Kenya;2016;0.585
+UNDP-HDI-INDEX;Human Development Index (HDI);KGZ;Kyrgyzstan;2016;0.669
+UNDP-HDI-INDEX;Human Development Index (HDI);KHM;Cambodia;2016;0.576
+UNDP-HDI-INDEX;Human Development Index (HDI);KIR;Kiribati;2016;0.61
+UNDP-HDI-INDEX;Human Development Index (HDI);KNA;Saint Kitts and Nevis;2016;0.774
+UNDP-HDI-INDEX;Human Development Index (HDI);KOR;Republic of Korea;2016;0.9
+UNDP-HDI-INDEX;Human Development Index (HDI);KWT;Kuwait;2016;0.804
+UNDP-HDI-INDEX;Human Development Index (HDI);LAO;Lao;2016;0.598
+UNDP-HDI-INDEX;Human Development Index (HDI);LBN;Lebanon;2016;0.753
+UNDP-HDI-INDEX;Human Development Index (HDI);LBR;Liberia;2016;0.432
+UNDP-HDI-INDEX;Human Development Index (HDI);LBY;Libya;2016;0.693
+UNDP-HDI-INDEX;Human Development Index (HDI);LCA;Saint Lucia;2016;0.745
+UNDP-HDI-INDEX;Human Development Index (HDI);LIE;Liechtenstein;2016;0.915
+UNDP-HDI-INDEX;Human Development Index (HDI);LKA;Sri Lanka;2016;0.768
+UNDP-HDI-INDEX;Human Development Index (HDI);LSO;Lesotho;2016;0.516
+UNDP-HDI-INDEX;Human Development Index (HDI);LTU;Lithuania;2016;0.855
+UNDP-HDI-INDEX;Human Development Index (HDI);LUX;Luxembourg;2016;0.903
+UNDP-HDI-INDEX;Human Development Index (HDI);LVA;Latvia;2016;0.844
+UNDP-HDI-INDEX;Human Development Index (HDI);MAR;Morocco;2016;0.662
+UNDP-HDI-INDEX;Human Development Index (HDI);MDA;Moldova;2016;0.697
+UNDP-HDI-INDEX;Human Development Index (HDI);MDG;Madagascar;2016;0.517
+UNDP-HDI-INDEX;Human Development Index (HDI);MDV;Maldives;2016;0.712
+UNDP-HDI-INDEX;Human Development Index (HDI);MEX;Mexico;2016;0.772
+UNDP-HDI-INDEX;Human Development Index (HDI);MKD;Macedonia;2016;0.756
+UNDP-HDI-INDEX;Human Development Index (HDI);MLI;Mali;2016;0.421
+UNDP-HDI-INDEX;Human Development Index (HDI);MLT;Malta;2016;0.875
+UNDP-HDI-INDEX;Human Development Index (HDI);MMR;Myanmar;2016;0.574
+UNDP-HDI-INDEX;Human Development Index (HDI);MNE;Montenegro;2016;0.81
+UNDP-HDI-INDEX;Human Development Index (HDI);MNG;Mongolia;2016;0.743
+UNDP-HDI-INDEX;Human Development Index (HDI);MOZ;Mozambique;2016;0.435
+UNDP-HDI-INDEX;Human Development Index (HDI);MRT;Mauritania;2016;0.516
+UNDP-HDI-INDEX;Human Development Index (HDI);MUS;Mauritius;2016;0.788
+UNDP-HDI-INDEX;Human Development Index (HDI);MWI;Malawi;2016;0.474
+UNDP-HDI-INDEX;Human Development Index (HDI);MYS;Malaysia;2016;0.799
+UNDP-HDI-INDEX;Human Development Index (HDI);NAM;Namibia;2016;0.645
+UNDP-HDI-INDEX;Human Development Index (HDI);NER;Niger;2016;0.351
+UNDP-HDI-INDEX;Human Development Index (HDI);NGA;Nigeria;2016;0.53
+UNDP-HDI-INDEX;Human Development Index (HDI);NIC;Nicaragua;2016;0.657
+UNDP-HDI-INDEX;Human Development Index (HDI);NLD;Netherlands;2016;0.928
+UNDP-HDI-INDEX;Human Development Index (HDI);NOR;Norway;2016;0.951
+UNDP-HDI-INDEX;Human Development Index (HDI);NPL;Nepal;2016;0.569
+UNDP-HDI-INDEX;Human Development Index (HDI);NZL;New Zealand;2016;0.915
+UNDP-HDI-INDEX;Human Development Index (HDI);OMN;Oman;2016;0.822
+UNDP-HDI-INDEX;Human Development Index (HDI);PAK;Pakistan;2016;0.56
+UNDP-HDI-INDEX;Human Development Index (HDI);PAN;Panama;2016;0.785
+UNDP-HDI-INDEX;Human Development Index (HDI);PER;Peru;2016;0.748
+UNDP-HDI-INDEX;Human Development Index (HDI);PHL;Philippines;2016;0.696
+UNDP-HDI-INDEX;Human Development Index (HDI);PLW;Palau;2016;0.798
+UNDP-HDI-INDEX;Human Development Index (HDI);PNG;Papua New Guinea;2016;0.543
+UNDP-HDI-INDEX;Human Development Index (HDI);POL;Poland;2016;0.86
+UNDP-HDI-INDEX;Human Development Index (HDI);PRT;Portugal;2016;0.845
+UNDP-HDI-INDEX;Human Development Index (HDI);PRY;Paraguay;2016;0.702
+UNDP-HDI-INDEX;Human Development Index (HDI);PSE;Palestine;2016;0.689
+UNDP-HDI-INDEX;Human Development Index (HDI);QAT;Qatar;2016;0.855
+UNDP-HDI-INDEX;Human Development Index (HDI);ROU;Romania;2016;0.807
+UNDP-HDI-INDEX;Human Development Index (HDI);RUS;Russia;2016;0.815
+UNDP-HDI-INDEX;Human Development Index (HDI);RWA;Rwanda;2016;0.52
+UNDP-HDI-INDEX;Human Development Index (HDI);SAU;Saudi Arabia;2016;0.854
+UNDP-HDI-INDEX;Human Development Index (HDI);SDN;Sudan;2016;0.499
+UNDP-HDI-INDEX;Human Development Index (HDI);SEN;Senegal;2016;0.499
+UNDP-HDI-INDEX;Human Development Index (HDI);SGP;Singapore;2016;0.93
+UNDP-HDI-INDEX;Human Development Index (HDI);SLB;Solomon Islands;2016;0.543
+UNDP-HDI-INDEX;Human Development Index (HDI);SLE;Sierra Leone;2016;0.413
+UNDP-HDI-INDEX;Human Development Index (HDI);SLV;El Salvador;2016;0.679
+UNDP-HDI-INDEX;Human Development Index (HDI);SRB;Serbia;2016;0.785
+UNDP-HDI-INDEX;Human Development Index (HDI);SSD;South Sudan;2016;0.394
+UNDP-HDI-INDEX;Human Development Index (HDI);STP;Sao Tome and Principe;2016;0.584
+UNDP-HDI-INDEX;Human Development Index (HDI);SUR;Suriname;2016;0.719
+UNDP-HDI-INDEX;Human Development Index (HDI);SVK;Slovakia;2016;0.853
+UNDP-HDI-INDEX;Human Development Index (HDI);SVN;Slovenia;2016;0.894
+UNDP-HDI-INDEX;Human Development Index (HDI);SWE;Sweden;2016;0.932
+UNDP-HDI-INDEX;Human Development Index (HDI);SWZ;Swaziland;2016;0.586
+UNDP-HDI-INDEX;Human Development Index (HDI);SYC;Seychelles;2016;0.793
+UNDP-HDI-INDEX;Human Development Index (HDI);SYR;Syrian Arab Republic;2016;0.536
+UNDP-HDI-INDEX;Human Development Index (HDI);TCD;Chad;2016;0.405
+UNDP-HDI-INDEX;Human Development Index (HDI);TGO;Togo;2016;0.5
+UNDP-HDI-INDEX;Human Development Index (HDI);THA;Thailand;2016;0.748
+UNDP-HDI-INDEX;Human Development Index (HDI);TJK;Tajikistan;2016;0.647
+UNDP-HDI-INDEX;Human Development Index (HDI);TKM;Turkmenistan;2016;0.705
+UNDP-HDI-INDEX;Human Development Index (HDI);TLS;Timor-Leste;2016;0.631
+UNDP-HDI-INDEX;Human Development Index (HDI);TON;Tonga;2016;0.724
+UNDP-HDI-INDEX;Human Development Index (HDI);TTO;Trinidad and Tobago;2016;0.785
+UNDP-HDI-INDEX;Human Development Index (HDI);TUN;Tunisia;2016;0.732
+UNDP-HDI-INDEX;Human Development Index (HDI);TUR;Turkey;2016;0.787
+UNDP-HDI-INDEX;Human Development Index (HDI);TZA;Tanzania;2016;0.533
+UNDP-HDI-INDEX;Human Development Index (HDI);UGA;Uganda;2016;0.508
+UNDP-HDI-INDEX;Human Development Index (HDI);UKR;Ukraine;2016;0.746
+UNDP-HDI-INDEX;Human Development Index (HDI);URY;Uruguay;2016;0.802
+UNDP-HDI-INDEX;Human Development Index (HDI);USA;United States of America;2016;0.922
+UNDP-HDI-INDEX;Human Development Index (HDI);UZB;Uzbekistan;2016;0.703
+UNDP-HDI-INDEX;Human Development Index (HDI);VCT;Saint Vincent and the Grenadines;2016;0.721
+UNDP-HDI-INDEX;Human Development Index (HDI);VEN;Venezuela;2016;0.766
+UNDP-HDI-INDEX;Human Development Index (HDI);VNM;Vietnam;2016;0.689
+UNDP-HDI-INDEX;Human Development Index (HDI);VUT;Vanuatu;2016;0.6
+UNDP-HDI-INDEX;Human Development Index (HDI);WSM;Samoa;2016;0.711
+UNDP-HDI-INDEX;Human Development Index (HDI);YEM;Yemen;2016;0.462
+UNDP-HDI-INDEX;Human Development Index (HDI);ZAF;South Africa;2016;0.696
+UNDP-HDI-INDEX;Human Development Index (HDI);ZMB;Zambia;2016;0.586
+UNDP-HDI-INDEX;Human Development Index (HDI);ZWE;Zimbabwe;2016;0.532
+UNDP-HDI-INDEX;Human Development Index (HDI);AFG;Afghanistan;2017;0.498
+UNDP-HDI-INDEX;Human Development Index (HDI);AGO;Angola;2017;0.581
+UNDP-HDI-INDEX;Human Development Index (HDI);ALB;Albania;2017;0.785
+UNDP-HDI-INDEX;Human Development Index (HDI);AND;Andorra;2017;0.858
+UNDP-HDI-INDEX;Human Development Index (HDI);ARE;United Arab Emirates;2017;0.863
+UNDP-HDI-INDEX;Human Development Index (HDI);ARG;Argentina;2017;0.825
+UNDP-HDI-INDEX;Human Development Index (HDI);ARM;Armenia;2017;0.755
+UNDP-HDI-INDEX;Human Development Index (HDI);ATG;Antigua and Barbuda;2017;0.78
+UNDP-HDI-INDEX;Human Development Index (HDI);AUS;Australia;2017;0.939
+UNDP-HDI-INDEX;Human Development Index (HDI);AUT;Austria;2017;0.908
+UNDP-HDI-INDEX;Human Development Index (HDI);AZE;Azerbaijan;2017;0.757
+UNDP-HDI-INDEX;Human Development Index (HDI);BDI;Burundi;2017;0.417
+UNDP-HDI-INDEX;Human Development Index (HDI);BEL;Belgium;2017;0.916
+UNDP-HDI-INDEX;Human Development Index (HDI);BEN;Benin;2017;0.515
+UNDP-HDI-INDEX;Human Development Index (HDI);BFA;Burkina Faso;2017;0.423
+UNDP-HDI-INDEX;Human Development Index (HDI);BGD;Bangladesh;2017;0.608
+UNDP-HDI-INDEX;Human Development Index (HDI);BGR;Bulgaria;2017;0.813
+UNDP-HDI-INDEX;Human Development Index (HDI);BHR;Bahrain;2017;0.846
+UNDP-HDI-INDEX;Human Development Index (HDI);BHS;Bahamas;2017;0.807
+UNDP-HDI-INDEX;Human Development Index (HDI);BIH;Bosnia and Herzegovina;2017;0.768
+UNDP-HDI-INDEX;Human Development Index (HDI);BLR;Belarus;2017;0.808
+UNDP-HDI-INDEX;Human Development Index (HDI);BLZ;Belize;2017;0.708
+UNDP-HDI-INDEX;Human Development Index (HDI);BOL;Bolivia;2017;0.693
+UNDP-HDI-INDEX;Human Development Index (HDI);BRA;Brazil;2017;0.759
+UNDP-HDI-INDEX;Human Development Index (HDI);BRB;Barbados;2017;0.8
+UNDP-HDI-INDEX;Human Development Index (HDI);BRN;Brunei Darussalam;2017;0.853
+UNDP-HDI-INDEX;Human Development Index (HDI);BTN;Bhutan;2017;0.612
+UNDP-HDI-INDEX;Human Development Index (HDI);BWA;Botswana;2017;0.717
+UNDP-HDI-INDEX;Human Development Index (HDI);CAF;Central African Republic;2017;0.367
+UNDP-HDI-INDEX;Human Development Index (HDI);CAN;Canada;2017;0.926
+UNDP-HDI-INDEX;Human Development Index (HDI);CHE;Switzerland;2017;0.944
+UNDP-HDI-INDEX;Human Development Index (HDI);CHL;Chile;2017;0.843
+UNDP-HDI-INDEX;Human Development Index (HDI);CHN;China;2017;0.752
+UNDP-HDI-INDEX;Human Development Index (HDI);CIV;Ivory Coast;2017;0.492
+UNDP-HDI-INDEX;Human Development Index (HDI);CMR;Cameroon;2017;0.556
+UNDP-HDI-INDEX;Human Development Index (HDI);COD;Democratic Republic of the Congo;2017;0.457
+UNDP-HDI-INDEX;Human Development Index (HDI);COG;Congo;2017;0.606
+UNDP-HDI-INDEX;Human Development Index (HDI);COL;Colombia;2017;0.747
+UNDP-HDI-INDEX;Human Development Index (HDI);COM;Comoros;2017;0.503
+UNDP-HDI-INDEX;Human Development Index (HDI);CPV;Cape Verde;2017;0.654
+UNDP-HDI-INDEX;Human Development Index (HDI);CRI;Costa Rica;2017;0.794
+UNDP-HDI-INDEX;Human Development Index (HDI);CUB;Cuba;2017;0.777
+UNDP-HDI-INDEX;Human Development Index (HDI);CYP;Cyprus;2017;0.869
+UNDP-HDI-INDEX;Human Development Index (HDI);CZE;Czech Republic;2017;0.888
+UNDP-HDI-INDEX;Human Development Index (HDI);DEU;Germany;2017;0.936
+UNDP-HDI-INDEX;Human Development Index (HDI);DJI;Djibouti;2017;0.476
+UNDP-HDI-INDEX;Human Development Index (HDI);DMA;Dominica;2017;0.715
+UNDP-HDI-INDEX;Human Development Index (HDI);DNK;Denmark;2017;0.929
+UNDP-HDI-INDEX;Human Development Index (HDI);DOM;Dominican Republic;2017;0.736
+UNDP-HDI-INDEX;Human Development Index (HDI);DZA;Algeria;2017;0.754
+UNDP-HDI-INDEX;Human Development Index (HDI);ECU;Ecuador;2017;0.752
+UNDP-HDI-INDEX;Human Development Index (HDI);EGY;Egypt;2017;0.696
+UNDP-HDI-INDEX;Human Development Index (HDI);ERI;Eritrea;2017;0.44
+UNDP-HDI-INDEX;Human Development Index (HDI);ESP;Spain;2017;0.891
+UNDP-HDI-INDEX;Human Development Index (HDI);EST;Estonia;2017;0.871
+UNDP-HDI-INDEX;Human Development Index (HDI);ETH;Ethiopia;2017;0.463
+UNDP-HDI-INDEX;Human Development Index (HDI);FIN;Finland;2017;0.92
+UNDP-HDI-INDEX;Human Development Index (HDI);FJI;Fiji;2017;0.741
+UNDP-HDI-INDEX;Human Development Index (HDI);FRA;France;2017;0.901
+UNDP-HDI-INDEX;Human Development Index (HDI);FSM;Micronesia;2017;0.627
+UNDP-HDI-INDEX;Human Development Index (HDI);GAB;Gabon;2017;0.702
+UNDP-HDI-INDEX;Human Development Index (HDI);GBR;United Kingdom;2017;0.922
+UNDP-HDI-INDEX;Human Development Index (HDI);GEO;Georgia;2017;0.78
+UNDP-HDI-INDEX;Human Development Index (HDI);GHA;Ghana;2017;0.592
+UNDP-HDI-INDEX;Human Development Index (HDI);GIN;Guinea;2017;0.459
+UNDP-HDI-INDEX;Human Development Index (HDI);GMB;Gambia;2017;0.46
+UNDP-HDI-INDEX;Human Development Index (HDI);GNB;Guinea-Bissau;2017;0.455
+UNDP-HDI-INDEX;Human Development Index (HDI);GNQ;Equatorial Guinea;2017;0.591
+UNDP-HDI-INDEX;Human Development Index (HDI);GRC;Greece;2017;0.87
+UNDP-HDI-INDEX;Human Development Index (HDI);GRD;Grenada;2017;0.772
+UNDP-HDI-INDEX;Human Development Index (HDI);GTM;Guatemala;2017;0.65
+UNDP-HDI-INDEX;Human Development Index (HDI);GUY;Guyana;2017;0.654
+UNDP-HDI-INDEX;Human Development Index (HDI);HKG;Hong Kong;2017;0.933
+UNDP-HDI-INDEX;Human Development Index (HDI);HND;Honduras;2017;0.617
+UNDP-HDI-INDEX;Human Development Index (HDI);HRV;Croatia;2017;0.831
+UNDP-HDI-INDEX;Human Development Index (HDI);HTI;Haiti;2017;0.498
+UNDP-HDI-INDEX;Human Development Index (HDI);HUN;Hungary;2017;0.838
+UNDP-HDI-INDEX;Human Development Index (HDI);IDN;Indonesia;2017;0.694
+UNDP-HDI-INDEX;Human Development Index (HDI);IND;India;2017;0.64
+UNDP-HDI-INDEX;Human Development Index (HDI);IRL;Ireland;2017;0.938
+UNDP-HDI-INDEX;Human Development Index (HDI);IRN;Iran;2017;0.798
+UNDP-HDI-INDEX;Human Development Index (HDI);IRQ;Iraq;2017;0.685
+UNDP-HDI-INDEX;Human Development Index (HDI);ISL;Iceland;2017;0.935
+UNDP-HDI-INDEX;Human Development Index (HDI);ISR;Israel;2017;0.903
+UNDP-HDI-INDEX;Human Development Index (HDI);ITA;Italy;2017;0.88
+UNDP-HDI-INDEX;Human Development Index (HDI);JAM;Jamaica;2017;0.732
+UNDP-HDI-INDEX;Human Development Index (HDI);JOR;Jordan;2017;0.735
+UNDP-HDI-INDEX;Human Development Index (HDI);JPN;Japan;2017;0.909
+UNDP-HDI-INDEX;Human Development Index (HDI);KAZ;Kazakhstan;2017;0.8
+UNDP-HDI-INDEX;Human Development Index (HDI);KEN;Kenya;2017;0.59
+UNDP-HDI-INDEX;Human Development Index (HDI);KGZ;Kyrgyzstan;2017;0.672
+UNDP-HDI-INDEX;Human Development Index (HDI);KHM;Cambodia;2017;0.582
+UNDP-HDI-INDEX;Human Development Index (HDI);KIR;Kiribati;2017;0.612
+UNDP-HDI-INDEX;Human Development Index (HDI);KNA;Saint Kitts and Nevis;2017;0.778
+UNDP-HDI-INDEX;Human Development Index (HDI);KOR;Republic of Korea;2017;0.903
+UNDP-HDI-INDEX;Human Development Index (HDI);KWT;Kuwait;2017;0.803
+UNDP-HDI-INDEX;Human Development Index (HDI);LAO;Lao;2017;0.601
+UNDP-HDI-INDEX;Human Development Index (HDI);LBN;Lebanon;2017;0.757
+UNDP-HDI-INDEX;Human Development Index (HDI);LBR;Liberia;2017;0.435
+UNDP-HDI-INDEX;Human Development Index (HDI);LBY;Libya;2017;0.706
+UNDP-HDI-INDEX;Human Development Index (HDI);LCA;Saint Lucia;2017;0.747
+UNDP-HDI-INDEX;Human Development Index (HDI);LIE;Liechtenstein;2017;0.916
+UNDP-HDI-INDEX;Human Development Index (HDI);LKA;Sri Lanka;2017;0.77
+UNDP-HDI-INDEX;Human Development Index (HDI);LSO;Lesotho;2017;0.52
+UNDP-HDI-INDEX;Human Development Index (HDI);LTU;Lithuania;2017;0.858
+UNDP-HDI-INDEX;Human Development Index (HDI);LUX;Luxembourg;2017;0.904
+UNDP-HDI-INDEX;Human Development Index (HDI);LVA;Latvia;2017;0.847
+UNDP-HDI-INDEX;Human Development Index (HDI);MAR;Morocco;2017;0.667
+UNDP-HDI-INDEX;Human Development Index (HDI);MDA;Moldova;2017;0.7
+UNDP-HDI-INDEX;Human Development Index (HDI);MDG;Madagascar;2017;0.519
+UNDP-HDI-INDEX;Human Development Index (HDI);MDV;Maldives;2017;0.717
+UNDP-HDI-INDEX;Human Development Index (HDI);MEX;Mexico;2017;0.774
+UNDP-HDI-INDEX;Human Development Index (HDI);MHL;Marshall Islands;2017;0.708
+UNDP-HDI-INDEX;Human Development Index (HDI);MKD;Macedonia;2017;0.757
+UNDP-HDI-INDEX;Human Development Index (HDI);MLI;Mali;2017;0.427
+UNDP-HDI-INDEX;Human Development Index (HDI);MLT;Malta;2017;0.878
+UNDP-HDI-INDEX;Human Development Index (HDI);MMR;Myanmar;2017;0.578
+UNDP-HDI-INDEX;Human Development Index (HDI);MNE;Montenegro;2017;0.814
+UNDP-HDI-INDEX;Human Development Index (HDI);MNG;Mongolia;2017;0.741
+UNDP-HDI-INDEX;Human Development Index (HDI);MOZ;Mozambique;2017;0.437
+UNDP-HDI-INDEX;Human Development Index (HDI);MRT;Mauritania;2017;0.52
+UNDP-HDI-INDEX;Human Development Index (HDI);MUS;Mauritius;2017;0.79
+UNDP-HDI-INDEX;Human Development Index (HDI);MWI;Malawi;2017;0.477
+UNDP-HDI-INDEX;Human Development Index (HDI);MYS;Malaysia;2017;0.802
+UNDP-HDI-INDEX;Human Development Index (HDI);NAM;Namibia;2017;0.647
+UNDP-HDI-INDEX;Human Development Index (HDI);NER;Niger;2017;0.354
+UNDP-HDI-INDEX;Human Development Index (HDI);NGA;Nigeria;2017;0.532
+UNDP-HDI-INDEX;Human Development Index (HDI);NIC;Nicaragua;2017;0.658
+UNDP-HDI-INDEX;Human Development Index (HDI);NLD;Netherlands;2017;0.931
+UNDP-HDI-INDEX;Human Development Index (HDI);NOR;Norway;2017;0.953
+UNDP-HDI-INDEX;Human Development Index (HDI);NPL;Nepal;2017;0.574
+UNDP-HDI-INDEX;Human Development Index (HDI);NZL;New Zealand;2017;0.917
+UNDP-HDI-INDEX;Human Development Index (HDI);OMN;Oman;2017;0.821
+UNDP-HDI-INDEX;Human Development Index (HDI);PAK;Pakistan;2017;0.562
+UNDP-HDI-INDEX;Human Development Index (HDI);PAN;Panama;2017;0.789
+UNDP-HDI-INDEX;Human Development Index (HDI);PER;Peru;2017;0.75
+UNDP-HDI-INDEX;Human Development Index (HDI);PHL;Philippines;2017;0.699
+UNDP-HDI-INDEX;Human Development Index (HDI);PLW;Palau;2017;0.798
+UNDP-HDI-INDEX;Human Development Index (HDI);PNG;Papua New Guinea;2017;0.544
+UNDP-HDI-INDEX;Human Development Index (HDI);POL;Poland;2017;0.865
+UNDP-HDI-INDEX;Human Development Index (HDI);PRT;Portugal;2017;0.847
+UNDP-HDI-INDEX;Human Development Index (HDI);PRY;Paraguay;2017;0.702
+UNDP-HDI-INDEX;Human Development Index (HDI);PSE;Palestine;2017;0.686
+UNDP-HDI-INDEX;Human Development Index (HDI);QAT;Qatar;2017;0.856
+UNDP-HDI-INDEX;Human Development Index (HDI);ROU;Romania;2017;0.811
+UNDP-HDI-INDEX;Human Development Index (HDI);RUS;Russia;2017;0.816
+UNDP-HDI-INDEX;Human Development Index (HDI);RWA;Rwanda;2017;0.524
+UNDP-HDI-INDEX;Human Development Index (HDI);SAU;Saudi Arabia;2017;0.853
+UNDP-HDI-INDEX;Human Development Index (HDI);SDN;Sudan;2017;0.502
+UNDP-HDI-INDEX;Human Development Index (HDI);SEN;Senegal;2017;0.505
+UNDP-HDI-INDEX;Human Development Index (HDI);SGP;Singapore;2017;0.932
+UNDP-HDI-INDEX;Human Development Index (HDI);SLB;Solomon Islands;2017;0.546
+UNDP-HDI-INDEX;Human Development Index (HDI);SLE;Sierra Leone;2017;0.419
+UNDP-HDI-INDEX;Human Development Index (HDI);SLV;El Salvador;2017;0.674
+UNDP-HDI-INDEX;Human Development Index (HDI);SRB;Serbia;2017;0.787
+UNDP-HDI-INDEX;Human Development Index (HDI);SSD;South Sudan;2017;0.388
+UNDP-HDI-INDEX;Human Development Index (HDI);STP;Sao Tome and Principe;2017;0.589
+UNDP-HDI-INDEX;Human Development Index (HDI);SUR;Suriname;2017;0.72
+UNDP-HDI-INDEX;Human Development Index (HDI);SVK;Slovakia;2017;0.855
+UNDP-HDI-INDEX;Human Development Index (HDI);SVN;Slovenia;2017;0.896
+UNDP-HDI-INDEX;Human Development Index (HDI);SWE;Sweden;2017;0.933
+UNDP-HDI-INDEX;Human Development Index (HDI);SWZ;Swaziland;2017;0.588
+UNDP-HDI-INDEX;Human Development Index (HDI);SYC;Seychelles;2017;0.797
+UNDP-HDI-INDEX;Human Development Index (HDI);SYR;Syrian Arab Republic;2017;0.536
+UNDP-HDI-INDEX;Human Development Index (HDI);TCD;Chad;2017;0.404
+UNDP-HDI-INDEX;Human Development Index (HDI);TGO;Togo;2017;0.503
+UNDP-HDI-INDEX;Human Development Index (HDI);THA;Thailand;2017;0.755
+UNDP-HDI-INDEX;Human Development Index (HDI);TJK;Tajikistan;2017;0.65
+UNDP-HDI-INDEX;Human Development Index (HDI);TKM;Turkmenistan;2017;0.706
+UNDP-HDI-INDEX;Human Development Index (HDI);TLS;Timor-Leste;2017;0.625
+UNDP-HDI-INDEX;Human Development Index (HDI);TON;Tonga;2017;0.726
+UNDP-HDI-INDEX;Human Development Index (HDI);TTO;Trinidad and Tobago;2017;0.784
+UNDP-HDI-INDEX;Human Development Index (HDI);TUN;Tunisia;2017;0.735
+UNDP-HDI-INDEX;Human Development Index (HDI);TUR;Turkey;2017;0.791
+UNDP-HDI-INDEX;Human Development Index (HDI);TZA;Tanzania;2017;0.538
+UNDP-HDI-INDEX;Human Development Index (HDI);UGA;Uganda;2017;0.516
+UNDP-HDI-INDEX;Human Development Index (HDI);UKR;Ukraine;2017;0.751
+UNDP-HDI-INDEX;Human Development Index (HDI);URY;Uruguay;2017;0.804
+UNDP-HDI-INDEX;Human Development Index (HDI);USA;United States of America;2017;0.924
+UNDP-HDI-INDEX;Human Development Index (HDI);UZB;Uzbekistan;2017;0.71
+UNDP-HDI-INDEX;Human Development Index (HDI);VCT;Saint Vincent and the Grenadines;2017;0.723
+UNDP-HDI-INDEX;Human Development Index (HDI);VEN;Venezuela;2017;0.761
+UNDP-HDI-INDEX;Human Development Index (HDI);VNM;Vietnam;2017;0.694
+UNDP-HDI-INDEX;Human Development Index (HDI);VUT;Vanuatu;2017;0.603
+UNDP-HDI-INDEX;Human Development Index (HDI);WSM;Samoa;2017;0.713
+UNDP-HDI-INDEX;Human Development Index (HDI);YEM;Yemen;2017;0.452
+UNDP-HDI-INDEX;Human Development Index (HDI);ZAF;South Africa;2017;0.699
+UNDP-HDI-INDEX;Human Development Index (HDI);ZMB;Zambia;2017;0.588
+UNDP-HDI-INDEX;Human Development Index (HDI);ZWE;Zimbabwe;2017;0.535
